@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>NYT Topics & Networks</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
+  <!-- Fix font name: it's "Libre Baskerville", not "Bakersville" -->
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      font-family: 'Inter', sans-serif;
+    }
+
+    #title {
+      position: absolute;
+      top: 10px;
+      left: 40px;
+      font-family: 'Libre Baskerville', serif;
+      font-style: italic; /* This enables italics */
+      font-size: calc(1.5vw + 0.5rem);
+      font-weight: 400;
+      color: #333;
+      z-index: 10;
+      pointer-events: none;
+    }
+
+    #chart, #network {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      z-index: 1;
+    }
+
+    #network {
+      pointer-events: none;
+      opacity: 0;
+      background: white;
+      transition: opacity 0.4s ease;
+    }
+
+    #network button {
+      position: absolute;
+      top: 60px;
+      left: 20px;
+      font-size: 14px;
+      padding: 4px 8px;
+      z-index: 5;
+    }
+  </style>
+</head>
+<body>
+  <div id="title">Topics and Text of <i>The New York Times</i></div>
+  <div id="chart"></div>
+  <div id="network"></div>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,835 @@
+[
+  {
+    "id": 0,
+    "label": "israel, gaza, israeli, hamas, hezbollah, said, iran, military, lebanon, fire",
+    "count": 2186,
+    "topWords": [
+      {
+        "word": "israel",
+        "value": 59.7
+      },
+      {
+        "word": "gaza",
+        "value": 44.2
+      },
+      {
+        "word": "israeli",
+        "value": 39.0
+      },
+      {
+        "word": "hamas",
+        "value": 24.3
+      },
+      {
+        "word": "hezbollah",
+        "value": 14.5
+      },
+      {
+        "word": "said",
+        "value": 28.9
+      },
+      {
+        "word": "iran",
+        "value": 13.5
+      },
+      {
+        "word": "military",
+        "value": 21.0
+      },
+      {
+        "word": "lebanon",
+        "value": 13.0
+      },
+      {
+        "word": "fire",
+        "value": 15.1
+      }
+    ],
+    "group": "International geopolitics",
+    "manualLabel": "Israeli\u2013Palestinian conflict"
+  },
+  {
+    "id": 1,
+    "label": "trump, president, abortion, donald, harris, states, biden, kamala, state, voters",
+    "count": 1669,
+    "topWords": [
+      {
+        "word": "trump",
+        "value": 55.2
+      },
+      {
+        "word": "president",
+        "value": 49.0
+      },
+      {
+        "word": "abortion",
+        "value": 16.7
+      },
+      {
+        "word": "donald",
+        "value": 30.7
+      },
+      {
+        "word": "harris",
+        "value": 16.1
+      },
+      {
+        "word": "states",
+        "value": 21.0
+      },
+      {
+        "word": "biden",
+        "value": 16.6
+      },
+      {
+        "word": "kamala",
+        "value": 13.8
+      },
+      {
+        "word": "state",
+        "value": 15.0
+      },
+      {
+        "word": "voters",
+        "value": 11.1
+      }
+    ],
+    "group": "Internal politics",
+    "manualLabel": "US Politics & Elections"
+  },
+  {
+    "id": 2,
+    "label": "ukraine, russia, russian, president, ukrainian, tiktok, putin, moscow, china, said",
+    "count": 1218,
+    "topWords": [
+      {
+        "word": "ukraine",
+        "value": 45.5
+      },
+      {
+        "word": "russia",
+        "value": 42.8
+      },
+      {
+        "word": "russian",
+        "value": 31.0
+      },
+      {
+        "word": "president",
+        "value": 31.7
+      },
+      {
+        "word": "ukrainian",
+        "value": 15.8
+      },
+      {
+        "word": "tiktok",
+        "value": 8.1
+      },
+      {
+        "word": "putin",
+        "value": 11.3
+      },
+      {
+        "word": "moscow",
+        "value": 13.5
+      },
+      {
+        "word": "china",
+        "value": 13.0
+      },
+      {
+        "word": "said",
+        "value": 25.2
+      }
+    ],
+    "group": "International geopolitics",
+    "manualLabel": "Russia-Ukraine War, Global Politics"
+  },
+  {
+    "id": 3,
+    "label": "climate, change, heat, warming, hurricane, global, environmental, world, helene, planet",
+    "count": 477,
+    "topWords": [
+      {
+        "word": "climate",
+        "value": 51.8
+      },
+      {
+        "word": "change",
+        "value": 30.6
+      },
+      {
+        "word": "heat",
+        "value": 11.7
+      },
+      {
+        "word": "warming",
+        "value": 14.3
+      },
+      {
+        "word": "hurricane",
+        "value": 8.2
+      },
+      {
+        "word": "global",
+        "value": 15.3
+      },
+      {
+        "word": "environmental",
+        "value": 9.9
+      },
+      {
+        "word": "world",
+        "value": 16.1
+      },
+      {
+        "word": "helene",
+        "value": 5.5
+      },
+      {
+        "word": "planet",
+        "value": 9.9
+      }
+    ],
+    "group": "Climate",
+    "manualLabel": "Climate Change & Extreme Weather"
+  },
+  {
+    "id": 4,
+    "label": "china, electric, chinese, company, energy, boeing, steel, vehicles, tariffs, trade",
+    "count": 430,
+    "topWords": [
+      {
+        "word": "china",
+        "value": 35.6
+      },
+      {
+        "word": "electric",
+        "value": 19.3
+      },
+      {
+        "word": "chinese",
+        "value": 23.3
+      },
+      {
+        "word": "company",
+        "value": 20.2
+      },
+      {
+        "word": "energy",
+        "value": 14.4
+      },
+      {
+        "word": "boeing",
+        "value": 7.4
+      },
+      {
+        "word": "steel",
+        "value": 5.6
+      },
+      {
+        "word": "vehicles",
+        "value": 13.0
+      },
+      {
+        "word": "tariffs",
+        "value": 11.9
+      },
+      {
+        "word": "trade",
+        "value": 12.3
+      }
+    ],
+    "group": "International geopolitics",
+    "manualLabel": "China, Trade, & Energy Industry"
+  },
+  {
+    "id": 5,
+    "label": "black, editor, readers, carter, also, museum, artist, died, beyonce, film",
+    "count": 401,
+    "topWords": [
+      {
+        "word": "black",
+        "value": 25.9
+      },
+      {
+        "word": "editor",
+        "value": 20.2
+      },
+      {
+        "word": "readers",
+        "value": 18.5
+      },
+      {
+        "word": "carter",
+        "value": 8.0
+      },
+      {
+        "word": "also",
+        "value": 22.7
+      },
+      {
+        "word": "museum",
+        "value": 8.0
+      },
+      {
+        "word": "artist",
+        "value": 8.5
+      },
+      {
+        "word": "died",
+        "value": 12.7
+      },
+      {
+        "word": "beyonce",
+        "value": 4.0
+      },
+      {
+        "word": "film",
+        "value": 6.2
+      }
+    ],
+    "group": "Culture",
+    "manualLabel": "Culture, Arts, Obituaries"
+  },
+  {
+    "id": 6,
+    "label": "inflation, rates, interest, reserve, federal, rate, market, bank, central, percent",
+    "count": 367,
+    "topWords": [
+      {
+        "word": "inflation",
+        "value": 43.3
+      },
+      {
+        "word": "rates",
+        "value": 36.2
+      },
+      {
+        "word": "interest",
+        "value": 35.1
+      },
+      {
+        "word": "reserve",
+        "value": 31.3
+      },
+      {
+        "word": "federal",
+        "value": 33.0
+      },
+      {
+        "word": "rate",
+        "value": 25.6
+      },
+      {
+        "word": "market",
+        "value": 24.5
+      },
+      {
+        "word": "bank",
+        "value": 16.9
+      },
+      {
+        "word": "central",
+        "value": 19.3
+      },
+      {
+        "word": "percent",
+        "value": 20.2
+      }
+    ],
+    "group": "Internal politics",
+    "manualLabel": "Economy"
+  },
+  {
+    "id": 7,
+    "label": "germany, europe, right, france, party, britain, european, government, chancellor, italy",
+    "count": 263,
+    "topWords": [
+      {
+        "word": "germany",
+        "value": 24.0
+      },
+      {
+        "word": "europe",
+        "value": 29.3
+      },
+      {
+        "word": "right",
+        "value": 26.6
+      },
+      {
+        "word": "france",
+        "value": 21.3
+      },
+      {
+        "word": "party",
+        "value": 25.9
+      },
+      {
+        "word": "britain",
+        "value": 19.8
+      },
+      {
+        "word": "european",
+        "value": 22.1
+      },
+      {
+        "word": "government",
+        "value": 25.5
+      },
+      {
+        "word": "chancellor",
+        "value": 12.5
+      },
+      {
+        "word": "italy",
+        "value": 9.5
+      }
+    ],
+    "group": "International geopolitics",
+    "manualLabel": "European Politics"
+  },
+  {
+    "id": 8,
+    "label": "china, india, chinese, modi, hong, kong, pandas, narendra, trudeau, canada",
+    "count": 188,
+    "topWords": [
+      {
+        "word": "china",
+        "value": 55.3
+      },
+      {
+        "word": "india",
+        "value": 23.4
+      },
+      {
+        "word": "chinese",
+        "value": 35.1
+      },
+      {
+        "word": "modi",
+        "value": 12.8
+      },
+      {
+        "word": "hong",
+        "value": 13.3
+      },
+      {
+        "word": "kong",
+        "value": 12.8
+      },
+      {
+        "word": "pandas",
+        "value": 8.0
+      },
+      {
+        "word": "narendra",
+        "value": 11.7
+      },
+      {
+        "word": "trudeau",
+        "value": 8.0
+      },
+      {
+        "word": "canada",
+        "value": 14.4
+      }
+    ],
+    "group": "International geopolitics",
+    "manualLabel": "India-China Relations & Global Leaders"
+  },
+  {
+    "id": 9,
+    "label": "haiti, venezuela, africa, african, country, maduro, president, election, nicolas, kenya",
+    "count": 187,
+    "topWords": [
+      {
+        "word": "haiti",
+        "value": 17.6
+      },
+      {
+        "word": "venezuela",
+        "value": 21.4
+      },
+      {
+        "word": "africa",
+        "value": 22.5
+      },
+      {
+        "word": "african",
+        "value": 23.0
+      },
+      {
+        "word": "country",
+        "value": 35.3
+      },
+      {
+        "word": "maduro",
+        "value": 11.8
+      },
+      {
+        "word": "president",
+        "value": 38.0
+      },
+      {
+        "word": "election",
+        "value": 23.0
+      },
+      {
+        "word": "nicolas",
+        "value": 11.2
+      },
+      {
+        "word": "kenya",
+        "value": 10.2
+      }
+    ],
+    "group": "International geopolitics",
+    "manualLabel": "Global South: Haiti, Africa, Venezuela"
+  },
+  {
+    "id": 10,
+    "label": "police, case, murder, guilty, death, accused, charges, plea, shooting, officers",
+    "count": 180,
+    "topWords": [
+      {
+        "word": "police",
+        "value": 21.7
+      },
+      {
+        "word": "case",
+        "value": 22.2
+      },
+      {
+        "word": "murder",
+        "value": 15.6
+      },
+      {
+        "word": "guilty",
+        "value": 13.3
+      },
+      {
+        "word": "death",
+        "value": 17.8
+      },
+      {
+        "word": "accused",
+        "value": 16.1
+      },
+      {
+        "word": "charges",
+        "value": 13.9
+      },
+      {
+        "word": "plea",
+        "value": 8.3
+      },
+      {
+        "word": "shooting",
+        "value": 11.7
+      },
+      {
+        "word": "officers",
+        "value": 10.0
+      }
+    ],
+    "group": "Internal politics",
+    "manualLabel": "Crime, Trials & Policing"
+  },
+  {
+    "id": 11,
+    "label": "pricing, congestion, city, food, york, travel, hochul, transit, prices, price",
+    "count": 175,
+    "topWords": [
+      {
+        "word": "pricing",
+        "value": 15.4
+      },
+      {
+        "word": "congestion",
+        "value": 12.0
+      },
+      {
+        "word": "city",
+        "value": 17.7
+      },
+      {
+        "word": "food",
+        "value": 13.7
+      },
+      {
+        "word": "york",
+        "value": 16.6
+      },
+      {
+        "word": "travel",
+        "value": 8.6
+      },
+      {
+        "word": "hochul",
+        "value": 6.9
+      },
+      {
+        "word": "transit",
+        "value": 8.0
+      },
+      {
+        "word": "prices",
+        "value": 14.9
+      },
+      {
+        "word": "price",
+        "value": 11.4
+      }
+    ],
+    "group": "Internal politics",
+    "manualLabel": "Urban Policy"
+  },
+  {
+    "id": 12,
+    "label": "health, drug, drugs, ozempic, weight, women, prices, patients, covid, pharmacy",
+    "count": 120,
+    "topWords": [
+      {
+        "word": "health",
+        "value": 22.5
+      },
+      {
+        "word": "drug",
+        "value": 16.7
+      },
+      {
+        "word": "drugs",
+        "value": 16.7
+      },
+      {
+        "word": "ozempic",
+        "value": 8.3
+      },
+      {
+        "word": "weight",
+        "value": 7.5
+      },
+      {
+        "word": "women",
+        "value": 10.0
+      },
+      {
+        "word": "prices",
+        "value": 10.8
+      },
+      {
+        "word": "patients",
+        "value": 10.0
+      },
+      {
+        "word": "covid",
+        "value": 8.3
+      },
+      {
+        "word": "pharmacy",
+        "value": 5.8
+      }
+    ],
+    "group": "Culture",
+    "manualLabel": "Health"
+  },
+  {
+    "id": 13,
+    "label": "olympics, olympic, doping, swimmers, games, paris, positive, chinese, baseball, athletes",
+    "count": 87,
+    "topWords": [
+      {
+        "word": "olympics",
+        "value": 46.0
+      },
+      {
+        "word": "olympic",
+        "value": 36.8
+      },
+      {
+        "word": "doping",
+        "value": 25.3
+      },
+      {
+        "word": "swimmers",
+        "value": 25.3
+      },
+      {
+        "word": "games",
+        "value": 28.7
+      },
+      {
+        "word": "paris",
+        "value": 34.5
+      },
+      {
+        "word": "positive",
+        "value": 25.3
+      },
+      {
+        "word": "chinese",
+        "value": 25.3
+      },
+      {
+        "word": "baseball",
+        "value": 11.5
+      },
+      {
+        "word": "athletes",
+        "value": 23.0
+      }
+    ],
+    "group": "Culture",
+    "manualLabel": "International Sports"
+  },
+  {
+    "id": 14,
+    "label": "credit, bank, fees, card, banks, financial, federal, apple, billion, lawsuit",
+    "count": 75,
+    "topWords": [
+      {
+        "word": "credit",
+        "value": 22.7
+      },
+      {
+        "word": "bank",
+        "value": 21.3
+      },
+      {
+        "word": "fees",
+        "value": 14.7
+      },
+      {
+        "word": "card",
+        "value": 13.3
+      },
+      {
+        "word": "banks",
+        "value": 18.7
+      },
+      {
+        "word": "financial",
+        "value": 24.0
+      },
+      {
+        "word": "federal",
+        "value": 32.0
+      },
+      {
+        "word": "apple",
+        "value": 9.3
+      },
+      {
+        "word": "billion",
+        "value": 20.0
+      },
+      {
+        "word": "lawsuit",
+        "value": 16.0
+      }
+    ],
+    "group": "Internal politics",
+    "manualLabel": "Banking"
+  },
+  {
+    "id": 15,
+    "label": "pope, francis, vatican, bishop, church, budde, slur, mariann, italian, mercy",
+    "count": 26,
+    "topWords": [
+      {
+        "word": "pope",
+        "value": 61.5
+      },
+      {
+        "word": "francis",
+        "value": 61.5
+      },
+      {
+        "word": "vatican",
+        "value": 30.8
+      },
+      {
+        "word": "bishop",
+        "value": 19.2
+      },
+      {
+        "word": "church",
+        "value": 30.8
+      },
+      {
+        "word": "budde",
+        "value": 15.4
+      },
+      {
+        "word": "slur",
+        "value": 19.2
+      },
+      {
+        "word": "mariann",
+        "value": 15.4
+      },
+      {
+        "word": "italian",
+        "value": 15.4
+      },
+      {
+        "word": "mercy",
+        "value": 15.4
+      }
+    ],
+    "group": "Culture",
+    "manualLabel": "Pope, Church, & Religion"
+  },
+  {
+    "id": 16,
+    "label": "baltic, cable, sabotage, cables, undersea, ship, authorities, severed, suspected, tanker",
+    "count": 9,
+    "topWords": [
+      {
+        "word": "baltic",
+        "value": 66.7
+      },
+      {
+        "word": "cable",
+        "value": 55.6
+      },
+      {
+        "word": "sabotage",
+        "value": 77.8
+      },
+      {
+        "word": "cables",
+        "value": 55.6
+      },
+      {
+        "word": "undersea",
+        "value": 66.7
+      },
+      {
+        "word": "ship",
+        "value": 77.8
+      },
+      {
+        "word": "authorities",
+        "value": 77.8
+      },
+      {
+        "word": "severed",
+        "value": 33.3
+      },
+      {
+        "word": "suspected",
+        "value": 44.4
+      },
+      {
+        "word": "tanker",
+        "value": 22.2
+      }
+    ],
+    "group": "Internal politics",
+    "manualLabel": "Security"
+  }
+]
