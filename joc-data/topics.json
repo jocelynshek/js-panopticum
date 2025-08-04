@@ -46,7 +46,8 @@
       }
     ],
     "group": "International geopolitics",
-    "manualLabel": "Israeli\u2013Palestinian conflict"
+    "manualLabel": "Israeli\u2013Palestinian conflict",
+    "description": "A sharp divide emerges between Israeli and Palestinian causes and actions: cease fire is the most prominent bigram, at the center of all talks. The Israeli military and Netanyahu surround, framed by third party players and key locations like President Biden, Hassan Nasrallah, and the West Bank."
   },
   {
     "id": 1,
@@ -95,7 +96,8 @@
       }
     ],
     "group": "Internal politics",
-    "manualLabel": "US Politics & Elections"
+    "manualLabel": "US Politics & Elections",
+    "description": "This time period saw the 2024 US presidential election, with significant focus on candidates President Donald Trump and Kamala Harris. Primary clusters of conversations regard foreign policy and migration ('undocumented immigrants') and abortion access."
   },
   {
     "id": 2,
@@ -144,7 +146,8 @@
       }
     ],
     "group": "International geopolitics",
-    "manualLabel": "Russia-Ukraine War, Global Politics"
+    "manualLabel": "Geopolitics",
+    "description": "The United States is at the center of The New York Times's geopolitical reporting, with a particular highlight on Trump. North Korea and terms of Russian and Ukraine military might also populate the topic."
   },
   {
     "id": 3,
@@ -193,7 +196,8 @@
       }
     ],
     "group": "Climate",
-    "manualLabel": "Climate Change & Extreme Weather"
+    "manualLabel": "Climate Change & Extreme Weather",
+    "description": "Climate Change centers this discussion, surrounded by extreme weather events and climate-related terms. Political terms aimed at alleviating harm also appear, including regarding the Environmental Protection Agency and the United Nations."
   },
   {
     "id": 4,
@@ -242,7 +246,8 @@
       }
     ],
     "group": "International geopolitics",
-    "manualLabel": "China, Trade, & Energy Industry"
+    "manualLabel": "China, Trade, & Energy Industry",
+    "description": "Donald Trump and the Biden Administration are at the center of this topic, an interesting contrast between how they are framed individually versus as a political collective. Various facets of American technological advancement sit here."
   },
   {
     "id": 5,
@@ -291,7 +296,8 @@
       }
     ],
     "group": "Culture",
-    "manualLabel": "Culture, Arts, Obituaries"
+    "manualLabel": "Culture, Arts, Obituaries",
+    "description": ""
   },
   {
     "id": 6,
@@ -340,7 +346,8 @@
       }
     ],
     "group": "Internal politics",
-    "manualLabel": "Economy"
+    "manualLabel": "Economy",
+    "description": ""
   },
   {
     "id": 7,
@@ -389,7 +396,8 @@
       }
     ],
     "group": "International geopolitics",
-    "manualLabel": "European Politics"
+    "manualLabel": "European Politics",
+    "description": ""
   },
   {
     "id": 8,
@@ -438,7 +446,8 @@
       }
     ],
     "group": "International geopolitics",
-    "manualLabel": "India-China Relations & Global Leaders"
+    "manualLabel": "India-China Relations & Global Leaders",
+    "description": ""
   },
   {
     "id": 9,
@@ -487,7 +496,8 @@
       }
     ],
     "group": "International geopolitics",
-    "manualLabel": "Global South: Haiti, Africa, Venezuela"
+    "manualLabel": "Global South: Haiti, Africa, Venezuela",
+    "description": ""
   },
   {
     "id": 10,
@@ -536,7 +546,8 @@
       }
     ],
     "group": "Internal politics",
-    "manualLabel": "Crime, Trials & Policing"
+    "manualLabel": "Crime, Trials & Policing",
+    "description": ""
   },
   {
     "id": 11,
@@ -585,7 +596,8 @@
       }
     ],
     "group": "Internal politics",
-    "manualLabel": "Urban Policy"
+    "manualLabel": "Urban Policy",
+    "description": ""
   },
   {
     "id": 12,
@@ -634,7 +646,8 @@
       }
     ],
     "group": "Culture",
-    "manualLabel": "Health"
+    "manualLabel": "Health",
+    "description": ""
   },
   {
     "id": 13,
@@ -683,7 +696,8 @@
       }
     ],
     "group": "Culture",
-    "manualLabel": "International Sports"
+    "manualLabel": "International Sports",
+    "description": ""
   },
   {
     "id": 14,
@@ -732,7 +746,8 @@
       }
     ],
     "group": "Internal politics",
-    "manualLabel": "Banking"
+    "manualLabel": "Banking",
+    "description": ""
   },
   {
     "id": 15,
@@ -781,7 +796,8 @@
       }
     ],
     "group": "Culture",
-    "manualLabel": "Pope, Church, & Religion"
+    "manualLabel": "Pope, Church, & Religion",
+    "description": ""
   },
   {
     "id": 16,
@@ -830,6 +846,7 @@
       }
     ],
     "group": "Internal politics",
-    "manualLabel": "Security"
+    "manualLabel": "Security",
+    "description": ""
   }
 ]
