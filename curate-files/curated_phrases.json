@@ -1,0 +1,1012 @@
+{
+  "2": {
+    "secretary antony blinken": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "presidential election": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "vladimir putin russia": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "biden administration": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "trump administration": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "ukrainian officials": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "wall street journal": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "volodymyr zelensky": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "national security": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "evan gershkovich": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "invasion ukraine": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "russian military": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "secretary antony": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "ukrainian forces": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "aleksei navalny": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "eastern ukraine": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "president biden": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "support ukraine": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "antony blinken": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "officials said": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "prime minister": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "russia ukraine": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "russian forces": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "street journal": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "ukraine israel": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "ukraine russia": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "vladimir putin": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "islamic state": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "supreme court": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "united states": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "china leader": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "concert hall": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "donald trump": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "least people": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "mike johnson": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "north korean": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "putin russia": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "social media": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "viktor orban": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "north korea": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "south china": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "south korea": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "three years": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "wall street": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "white house": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "first time": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "long range": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "york times": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "elon musk": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "last week": {
+      "action": "remove",
+      "merge_to": null
+    }
+  },
+  "0": {
+    "benjamin netanyahu israel": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "israeli military said": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "biden administration": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "columbia university": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "benjamin netanyahu": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "israeli airstrikes": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "occupied west bank": {
+      "action": "remove",
+      "merge_to": "west bank"
+    },
+    "israeli officials": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "hassan nasrallah": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "israel hezbollah": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "israeli military": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "netanyahu israel": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "southern lebanon": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "cease fire deal": {
+      "action": "keep",
+      "merge_to": "cease fire"
+    },
+    "cease fire gaza": {
+      "action": "remove",
+      "merge_to": "cease fire"
+    },
+    "gaza cease fire": {
+      "action": "remove",
+      "merge_to": "cease fire"
+    },
+    "gaza cease": {
+      "action": "keep",
+      "merge_to": "cease fire"
+    },
+    "fire gaza": {
+      "action": "keep",
+      "merge_to": "cease fire"
+    },
+    "fire deal": {
+      "action": "keep",
+      "merge_to": "cease fire"
+    },
+    "israel military": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "president biden": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "criminal court": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "israeli forces": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "israeli strike": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "militant group": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "officials said": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "prime minister": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "united nations": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "attack israel": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "military said": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "northern gaza": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "occupied west": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "southern gaza": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "today episode": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "united states": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "bashar assad": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "donald trump": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "hamas attack": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "israel hamas": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "least people": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "yahya sinwar": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "gaza israel": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "israel gaza": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "israel said": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "middle east": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "cease fire": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "gaza strip": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "york times": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "last week": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "west bank": {
+      "action": "keep",
+      "merge_to": null
+    }
+  },
+  "1": {
+    "undocumented immigrants": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "presidential campaign": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "presidential election": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "biden administration": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "trump administration": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "battleground states": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "national convention": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "state constitution": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "donald trump said": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "mass deportations": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "former president": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "springfield ohio": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "abortion access": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "abortion rights": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "executive order": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "president biden": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "president elect": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "secretary state": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "southern border": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "abortion pills": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "foreign policy": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "justin trudeau": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "right abortion": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "vice president": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "abortion bans": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "abortion pill": {
+      "action": "remove",
+      "merge_to": "abortion pills"
+    },
+    "anti abortion": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "canada mexico": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "federal judge": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "kamala harris": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "senator vance": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "supreme court": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "trump tariffs": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "united states": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "black voters": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "donald trump": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "panama canal": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "running mate": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "health care": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "marco rubio": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "second term": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "white house": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "eric adams": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "first term": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "four years": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "said would": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "trump said": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "york times": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "last week": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "york city": {
+      "action": "remove",
+      "merge_to": null
+    }
+  },
+  "3": {
+    "environmental protection agency": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "united nations climate": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "biden administration": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "fight climate change": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "greenhouse emissions": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "tropical storm debby": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "federal government": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "climate activists": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "forever chemicals": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "protection agency": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "climate policies": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "greenhouse gases": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "hurricane helene": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "hurricane milton": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "baku azerbaijan": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "extreme weather": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "nations climate": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "president biden": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "climate change": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "climate policy": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "climate summit": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "global climate": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "global warming": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "north carolina": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "planet warming": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "southern china": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "tropical storm": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "united nations": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "climate talks": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "fight climate": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "kamala harris": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "made landfall": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "supreme court": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "united states": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "around world": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "clean energy": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "donald trump": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "extreme heat": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "fossil fuels": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "least people": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "fossil fuel": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "heavy rains": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "storm debby": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "study finds": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "white house": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "heat waves": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "last month": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "heat wave": {
+      "action": "remove",
+      "merge_to": "heat wave"
+    },
+    "last year": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "york city": {
+      "action": "remove",
+      "merge_to": null
+    }
+  },
+  "4": {
+    "semiconductor manufacturing": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "united automobile workers": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "automobile workers union": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "artificial intelligence": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "biden administration": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "automobile workers": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "chip manufacturing": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "japan nippon steel": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "electric vehicles": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "national security": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "united automobile": {
+      "action": "remove",
+      "merge_to": "united automobile workers"
+    },
+    "chinese electric": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "east gulf coasts": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "electric vehicle": {
+      "action": "remove",
+      "merge_to": "electric vehicles"
+    },
+    "renewable energy": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "tariffs electric": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "chief executive": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "president biden": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "tariffs chinese": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "billion grants": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "computer chips": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "european union": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "general motors": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "interest rates": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "said wednesday": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "silicon valley": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "chinese start": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "electric cars": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "nuclear power": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "trump tariffs": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "united states": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "world largest": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "around world": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "central bank": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "clean energy": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "data centers": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "donald trump": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "japan nippon": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "nippon steel": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "said tuesday": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "solar panels": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "supply chain": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "gulf coasts": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "real estate": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "said monday": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "first time": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "said would": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "east gulf": {
+      "action": "keep",
+      "merge_to": null
+    },
+    "last week": {
+      "action": "remove",
+      "merge_to": null
+    },
+    "last year": {
+      "action": "remove",
+      "merge_to": null
+    }
+  }
+}

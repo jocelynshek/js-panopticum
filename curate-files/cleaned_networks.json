@@ -1,0 +1,3012 @@
+[
+  {
+    "topic": 0,
+    "nodes": [
+      {
+        "id": "bashar assad",
+        "size": 62,
+        "group": 0
+      },
+      {
+        "id": "benjamin netanyahu",
+        "size": 226,
+        "group": 0
+      },
+      {
+        "id": "biden administration",
+        "size": 66,
+        "group": 0
+      },
+      {
+        "id": "cease fire",
+        "size": 472,
+        "group": 0
+      },
+      {
+        "id": "cease fire deal",
+        "size": 89,
+        "group": 0
+      },
+      {
+        "id": "columbia university",
+        "size": 51,
+        "group": 2
+      },
+      {
+        "id": "criminal court",
+        "size": 48,
+        "group": 0
+      },
+      {
+        "id": "donald trump",
+        "size": 157,
+        "group": 0
+      },
+      {
+        "id": "fire deal",
+        "size": 89,
+        "group": 0
+      },
+      {
+        "id": "fire gaza",
+        "size": 74,
+        "group": 0
+      },
+      {
+        "id": "gaza cease",
+        "size": 49,
+        "group": 0
+      },
+      {
+        "id": "gaza strip",
+        "size": 157,
+        "group": 0
+      },
+      {
+        "id": "hamas attack",
+        "size": 55,
+        "group": 0
+      },
+      {
+        "id": "hassan nasrallah",
+        "size": 58,
+        "group": 1
+      },
+      {
+        "id": "israel hezbollah",
+        "size": 119,
+        "group": 1
+      },
+      {
+        "id": "israel military",
+        "size": 94,
+        "group": 1
+      },
+      {
+        "id": "israeli airstrikes",
+        "size": 52,
+        "group": 1
+      },
+      {
+        "id": "israeli forces",
+        "size": 79,
+        "group": 1
+      },
+      {
+        "id": "israeli military",
+        "size": 283,
+        "group": 1
+      },
+      {
+        "id": "israeli officials",
+        "size": 64,
+        "group": 0
+      },
+      {
+        "id": "israeli strike",
+        "size": 91,
+        "group": 1
+      },
+      {
+        "id": "middle east",
+        "size": 197,
+        "group": 0
+      },
+      {
+        "id": "militant group",
+        "size": 92,
+        "group": 1
+      },
+      {
+        "id": "northern gaza",
+        "size": 91,
+        "group": 1
+      },
+      {
+        "id": "president biden",
+        "size": 136,
+        "group": 0
+      },
+      {
+        "id": "prime minister",
+        "size": 87,
+        "group": 0
+      },
+      {
+        "id": "southern gaza",
+        "size": 74,
+        "group": 1
+      },
+      {
+        "id": "southern lebanon",
+        "size": 88,
+        "group": 1
+      },
+      {
+        "id": "united nations",
+        "size": 115,
+        "group": 1
+      },
+      {
+        "id": "united states",
+        "size": 225,
+        "group": 0
+      },
+      {
+        "id": "west bank",
+        "size": 193,
+        "group": 1
+      },
+      {
+        "id": "yahya sinwar",
+        "size": 52,
+        "group": 1
+      }
+    ],
+    "links": [
+      {
+        "source": "bashar assad",
+        "target": "united states",
+        "value": 8
+      },
+      {
+        "source": "bashar assad",
+        "target": "middle east",
+        "value": 7
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "donald trump",
+        "value": 18
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "middle east",
+        "value": 9
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "gaza strip",
+        "value": 16
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "united states",
+        "value": 18
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "president biden",
+        "value": 37
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "cease fire",
+        "value": 23
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "fire gaza",
+        "value": 8
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "gaza cease",
+        "value": 6
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "prime minister",
+        "value": 38
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "cease fire deal",
+        "value": 6
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "fire deal",
+        "value": 6
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "biden administration",
+        "value": 7
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "israel military",
+        "value": 7
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "israeli military",
+        "value": 8
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "west bank",
+        "value": 6
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "israeli officials",
+        "value": 10
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "hamas attack",
+        "value": 6
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "criminal court",
+        "value": 16
+      },
+      {
+        "source": "benjamin netanyahu",
+        "target": "southern gaza",
+        "value": 6
+      },
+      {
+        "source": "biden administration",
+        "target": "cease fire",
+        "value": 12
+      },
+      {
+        "source": "biden administration",
+        "target": "gaza strip",
+        "value": 5
+      },
+      {
+        "source": "biden administration",
+        "target": "united states",
+        "value": 12
+      },
+      {
+        "source": "biden administration",
+        "target": "middle east",
+        "value": 8
+      },
+      {
+        "source": "biden administration",
+        "target": "president biden",
+        "value": 6
+      },
+      {
+        "source": "cease fire",
+        "target": "cease fire deal",
+        "value": 72
+      },
+      {
+        "source": "cease fire",
+        "target": "fire deal",
+        "value": 72
+      },
+      {
+        "source": "cease fire",
+        "target": "hamas attack",
+        "value": 14
+      },
+      {
+        "source": "cease fire",
+        "target": "militant group",
+        "value": 19
+      },
+      {
+        "source": "cease fire",
+        "target": "donald trump",
+        "value": 8
+      },
+      {
+        "source": "cease fire",
+        "target": "fire gaza",
+        "value": 66
+      },
+      {
+        "source": "cease fire",
+        "target": "united states",
+        "value": 30
+      },
+      {
+        "source": "cease fire",
+        "target": "middle east",
+        "value": 26
+      },
+      {
+        "source": "cease fire",
+        "target": "gaza strip",
+        "value": 34
+      },
+      {
+        "source": "cease fire",
+        "target": "israeli military",
+        "value": 18
+      },
+      {
+        "source": "cease fire",
+        "target": "gaza cease",
+        "value": 49
+      },
+      {
+        "source": "cease fire",
+        "target": "israel hezbollah",
+        "value": 35
+      },
+      {
+        "source": "cease fire",
+        "target": "southern lebanon",
+        "value": 12
+      },
+      {
+        "source": "cease fire",
+        "target": "president biden",
+        "value": 24
+      },
+      {
+        "source": "cease fire",
+        "target": "israeli forces",
+        "value": 7
+      },
+      {
+        "source": "cease fire",
+        "target": "united nations",
+        "value": 17
+      },
+      {
+        "source": "cease fire",
+        "target": "israeli officials",
+        "value": 9
+      },
+      {
+        "source": "cease fire",
+        "target": "southern gaza",
+        "value": 6
+      },
+      {
+        "source": "cease fire",
+        "target": "prime minister",
+        "value": 9
+      },
+      {
+        "source": "cease fire",
+        "target": "israeli strike",
+        "value": 10
+      },
+      {
+        "source": "cease fire",
+        "target": "yahya sinwar",
+        "value": 8
+      },
+      {
+        "source": "cease fire deal",
+        "target": "fire deal",
+        "value": 72
+      },
+      {
+        "source": "cease fire deal",
+        "target": "militant group",
+        "value": 5
+      },
+      {
+        "source": "cease fire deal",
+        "target": "president biden",
+        "value": 6
+      },
+      {
+        "source": "cease fire deal",
+        "target": "israel hezbollah",
+        "value": 5
+      },
+      {
+        "source": "cease fire deal",
+        "target": "gaza strip",
+        "value": 8
+      },
+      {
+        "source": "cease fire deal",
+        "target": "fire gaza",
+        "value": 5
+      },
+      {
+        "source": "cease fire deal",
+        "target": "gaza cease",
+        "value": 11
+      },
+      {
+        "source": "criminal court",
+        "target": "united states",
+        "value": 5
+      },
+      {
+        "source": "donald trump",
+        "target": "middle east",
+        "value": 18
+      },
+      {
+        "source": "donald trump",
+        "target": "prime minister",
+        "value": 8
+      },
+      {
+        "source": "donald trump",
+        "target": "united states",
+        "value": 33
+      },
+      {
+        "source": "donald trump",
+        "target": "west bank",
+        "value": 5
+      },
+      {
+        "source": "donald trump",
+        "target": "gaza strip",
+        "value": 11
+      },
+      {
+        "source": "donald trump",
+        "target": "president biden",
+        "value": 9
+      },
+      {
+        "source": "donald trump",
+        "target": "hamas attack",
+        "value": 6
+      },
+      {
+        "source": "fire deal",
+        "target": "militant group",
+        "value": 5
+      },
+      {
+        "source": "fire deal",
+        "target": "president biden",
+        "value": 6
+      },
+      {
+        "source": "fire deal",
+        "target": "israel hezbollah",
+        "value": 5
+      },
+      {
+        "source": "fire deal",
+        "target": "gaza strip",
+        "value": 8
+      },
+      {
+        "source": "fire deal",
+        "target": "fire gaza",
+        "value": 5
+      },
+      {
+        "source": "fire deal",
+        "target": "gaza cease",
+        "value": 11
+      },
+      {
+        "source": "fire gaza",
+        "target": "united states",
+        "value": 12
+      },
+      {
+        "source": "fire gaza",
+        "target": "gaza cease",
+        "value": 10
+      },
+      {
+        "source": "fire gaza",
+        "target": "president biden",
+        "value": 5
+      },
+      {
+        "source": "fire gaza",
+        "target": "gaza strip",
+        "value": 17
+      },
+      {
+        "source": "fire gaza",
+        "target": "israeli officials",
+        "value": 5
+      },
+      {
+        "source": "fire gaza",
+        "target": "middle east",
+        "value": 6
+      },
+      {
+        "source": "fire gaza",
+        "target": "united nations",
+        "value": 6
+      },
+      {
+        "source": "gaza cease",
+        "target": "gaza strip",
+        "value": 9
+      },
+      {
+        "source": "gaza cease",
+        "target": "united states",
+        "value": 8
+      },
+      {
+        "source": "gaza strip",
+        "target": "middle east",
+        "value": 8
+      },
+      {
+        "source": "gaza strip",
+        "target": "united states",
+        "value": 24
+      },
+      {
+        "source": "gaza strip",
+        "target": "israeli forces",
+        "value": 16
+      },
+      {
+        "source": "gaza strip",
+        "target": "president biden",
+        "value": 5
+      },
+      {
+        "source": "gaza strip",
+        "target": "united nations",
+        "value": 22
+      },
+      {
+        "source": "gaza strip",
+        "target": "israeli strike",
+        "value": 12
+      },
+      {
+        "source": "gaza strip",
+        "target": "israeli military",
+        "value": 23
+      },
+      {
+        "source": "gaza strip",
+        "target": "northern gaza",
+        "value": 16
+      },
+      {
+        "source": "gaza strip",
+        "target": "israel military",
+        "value": 10
+      },
+      {
+        "source": "gaza strip",
+        "target": "hamas attack",
+        "value": 5
+      },
+      {
+        "source": "gaza strip",
+        "target": "southern gaza",
+        "value": 10
+      },
+      {
+        "source": "gaza strip",
+        "target": "west bank",
+        "value": 5
+      },
+      {
+        "source": "hamas attack",
+        "target": "israeli military",
+        "value": 15
+      },
+      {
+        "source": "hamas attack",
+        "target": "middle east",
+        "value": 6
+      },
+      {
+        "source": "hassan nasrallah",
+        "target": "militant group",
+        "value": 8
+      },
+      {
+        "source": "hassan nasrallah",
+        "target": "israeli strike",
+        "value": 6
+      },
+      {
+        "source": "hassan nasrallah",
+        "target": "israeli military",
+        "value": 7
+      },
+      {
+        "source": "israel hezbollah",
+        "target": "militant group",
+        "value": 10
+      },
+      {
+        "source": "israel hezbollah",
+        "target": "southern lebanon",
+        "value": 21
+      },
+      {
+        "source": "israel hezbollah",
+        "target": "united states",
+        "value": 6
+      },
+      {
+        "source": "israel hezbollah",
+        "target": "israeli military",
+        "value": 10
+      },
+      {
+        "source": "israel hezbollah",
+        "target": "israeli forces",
+        "value": 5
+      },
+      {
+        "source": "israel hezbollah",
+        "target": "united nations",
+        "value": 8
+      },
+      {
+        "source": "israel hezbollah",
+        "target": "middle east",
+        "value": 14
+      },
+      {
+        "source": "israel hezbollah",
+        "target": "israeli airstrikes",
+        "value": 5
+      },
+      {
+        "source": "israel hezbollah",
+        "target": "israeli strike",
+        "value": 9
+      },
+      {
+        "source": "israel military",
+        "target": "west bank",
+        "value": 9
+      },
+      {
+        "source": "israel military",
+        "target": "southern lebanon",
+        "value": 8
+      },
+      {
+        "source": "israel military",
+        "target": "israeli military",
+        "value": 22
+      },
+      {
+        "source": "israel military",
+        "target": "israeli forces",
+        "value": 5
+      },
+      {
+        "source": "israel military",
+        "target": "northern gaza",
+        "value": 8
+      },
+      {
+        "source": "israel military",
+        "target": "israeli strike",
+        "value": 6
+      },
+      {
+        "source": "israel military",
+        "target": "militant group",
+        "value": 6
+      },
+      {
+        "source": "israeli airstrikes",
+        "target": "israeli military",
+        "value": 6
+      },
+      {
+        "source": "israeli airstrikes",
+        "target": "militant group",
+        "value": 5
+      },
+      {
+        "source": "israeli forces",
+        "target": "southern lebanon",
+        "value": 7
+      },
+      {
+        "source": "israeli forces",
+        "target": "west bank",
+        "value": 14
+      },
+      {
+        "source": "israeli forces",
+        "target": "israeli military",
+        "value": 23
+      },
+      {
+        "source": "israeli forces",
+        "target": "northern gaza",
+        "value": 10
+      },
+      {
+        "source": "israeli forces",
+        "target": "southern gaza",
+        "value": 8
+      },
+      {
+        "source": "israeli forces",
+        "target": "militant group",
+        "value": 5
+      },
+      {
+        "source": "israeli forces",
+        "target": "yahya sinwar",
+        "value": 6
+      },
+      {
+        "source": "israeli military",
+        "target": "west bank",
+        "value": 27
+      },
+      {
+        "source": "israeli military",
+        "target": "southern lebanon",
+        "value": 12
+      },
+      {
+        "source": "israeli military",
+        "target": "militant group",
+        "value": 20
+      },
+      {
+        "source": "israeli military",
+        "target": "israeli strike",
+        "value": 23
+      },
+      {
+        "source": "israeli military",
+        "target": "united nations",
+        "value": 10
+      },
+      {
+        "source": "israeli military",
+        "target": "israeli officials",
+        "value": 9
+      },
+      {
+        "source": "israeli military",
+        "target": "southern gaza",
+        "value": 24
+      },
+      {
+        "source": "israeli military",
+        "target": "northern gaza",
+        "value": 21
+      },
+      {
+        "source": "israeli military",
+        "target": "united states",
+        "value": 8
+      },
+      {
+        "source": "israeli officials",
+        "target": "israeli strike",
+        "value": 6
+      },
+      {
+        "source": "israeli strike",
+        "target": "united nations",
+        "value": 6
+      },
+      {
+        "source": "israeli strike",
+        "target": "southern lebanon",
+        "value": 9
+      },
+      {
+        "source": "israeli strike",
+        "target": "militant group",
+        "value": 6
+      },
+      {
+        "source": "israeli strike",
+        "target": "southern gaza",
+        "value": 8
+      },
+      {
+        "source": "israeli strike",
+        "target": "northern gaza",
+        "value": 7
+      },
+      {
+        "source": "israeli strike",
+        "target": "middle east",
+        "value": 9
+      },
+      {
+        "source": "israeli strike",
+        "target": "president biden",
+        "value": 5
+      },
+      {
+        "source": "middle east",
+        "target": "united states",
+        "value": 25
+      },
+      {
+        "source": "middle east",
+        "target": "united nations",
+        "value": 10
+      },
+      {
+        "source": "middle east",
+        "target": "president biden",
+        "value": 16
+      },
+      {
+        "source": "middle east",
+        "target": "prime minister",
+        "value": 6
+      },
+      {
+        "source": "middle east",
+        "target": "militant group",
+        "value": 5
+      },
+      {
+        "source": "middle east",
+        "target": "yahya sinwar",
+        "value": 5
+      },
+      {
+        "source": "militant group",
+        "target": "yahya sinwar",
+        "value": 6
+      },
+      {
+        "source": "northern gaza",
+        "target": "united nations",
+        "value": 6
+      },
+      {
+        "source": "president biden",
+        "target": "prime minister",
+        "value": 12
+      },
+      {
+        "source": "president biden",
+        "target": "united states",
+        "value": 23
+      },
+      {
+        "source": "southern gaza",
+        "target": "united nations",
+        "value": 6
+      },
+      {
+        "source": "southern gaza",
+        "target": "united states",
+        "value": 5
+      },
+      {
+        "source": "southern lebanon",
+        "target": "united nations",
+        "value": 5
+      },
+      {
+        "source": "united nations",
+        "target": "united states",
+        "value": 17
+      },
+      {
+        "source": "united states",
+        "target": "west bank",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "topic": 1,
+    "nodes": [
+      {
+        "id": "abortion access",
+        "size": 25,
+        "group": 2
+      },
+      {
+        "id": "abortion bans",
+        "size": 37,
+        "group": 2
+      },
+      {
+        "id": "abortion pills",
+        "size": 26,
+        "group": 2
+      },
+      {
+        "id": "abortion rights",
+        "size": 130,
+        "group": 2
+      },
+      {
+        "id": "anti abortion",
+        "size": 59,
+        "group": 2
+      },
+      {
+        "id": "battleground states",
+        "size": 23,
+        "group": 1
+      },
+      {
+        "id": "biden administration",
+        "size": 70,
+        "group": 1
+      },
+      {
+        "id": "black voters",
+        "size": 54,
+        "group": 1
+      },
+      {
+        "id": "donald trump",
+        "size": 929,
+        "group": 0
+      },
+      {
+        "id": "donald trump said",
+        "size": 24,
+        "group": 0
+      },
+      {
+        "id": "eric adams",
+        "size": 63,
+        "group": 3
+      },
+      {
+        "id": "executive order",
+        "size": 60,
+        "group": 3
+      },
+      {
+        "id": "federal judge",
+        "size": 40,
+        "group": 0
+      },
+      {
+        "id": "first term",
+        "size": 25,
+        "group": 0
+      },
+      {
+        "id": "foreign policy",
+        "size": 33,
+        "group": 0
+      },
+      {
+        "id": "former president",
+        "size": 65,
+        "group": 4
+      },
+      {
+        "id": "four years",
+        "size": 26,
+        "group": 1
+      },
+      {
+        "id": "health care",
+        "size": 28,
+        "group": 2
+      },
+      {
+        "id": "justin trudeau",
+        "size": 31,
+        "group": 0
+      },
+      {
+        "id": "kamala harris",
+        "size": 324,
+        "group": 1
+      },
+      {
+        "id": "marco rubio",
+        "size": 39,
+        "group": 0
+      },
+      {
+        "id": "mass deportations",
+        "size": 24,
+        "group": 0
+      },
+      {
+        "id": "national convention",
+        "size": 26,
+        "group": 1
+      },
+      {
+        "id": "panama canal",
+        "size": 26,
+        "group": 0
+      },
+      {
+        "id": "president biden",
+        "size": 211,
+        "group": 1
+      },
+      {
+        "id": "presidential campaign",
+        "size": 23,
+        "group": 1
+      },
+      {
+        "id": "presidential election",
+        "size": 34,
+        "group": 1
+      },
+      {
+        "id": "running mate",
+        "size": 28,
+        "group": 4
+      },
+      {
+        "id": "second term",
+        "size": 22,
+        "group": 0
+      },
+      {
+        "id": "secretary state",
+        "size": 40,
+        "group": 0
+      },
+      {
+        "id": "senator vance",
+        "size": 23,
+        "group": 4
+      },
+      {
+        "id": "southern border",
+        "size": 42,
+        "group": 1
+      },
+      {
+        "id": "springfield ohio",
+        "size": 22,
+        "group": 0
+      },
+      {
+        "id": "state constitution",
+        "size": 27,
+        "group": 2
+      },
+      {
+        "id": "supreme court",
+        "size": 163,
+        "group": 2
+      },
+      {
+        "id": "trump administration",
+        "size": 124,
+        "group": 3
+      },
+      {
+        "id": "trump tariffs",
+        "size": 23,
+        "group": 0
+      },
+      {
+        "id": "undocumented immigrants",
+        "size": 37,
+        "group": 0
+      },
+      {
+        "id": "united states",
+        "size": 302,
+        "group": 0
+      },
+      {
+        "id": "vice president",
+        "size": 65,
+        "group": 1
+      },
+      {
+        "id": "white house",
+        "size": 77,
+        "group": 1
+      }
+    ],
+    "links": [
+      {
+        "source": "abortion access",
+        "target": "abortion rights",
+        "value": 5
+      },
+      {
+        "source": "abortion access",
+        "target": "supreme court",
+        "value": 5
+      },
+      {
+        "source": "abortion bans",
+        "target": "supreme court",
+        "value": 9
+      },
+      {
+        "source": "abortion bans",
+        "target": "abortion rights",
+        "value": 11
+      },
+      {
+        "source": "abortion bans",
+        "target": "donald trump",
+        "value": 10
+      },
+      {
+        "source": "abortion bans",
+        "target": "state constitution",
+        "value": 7
+      },
+      {
+        "source": "abortion pills",
+        "target": "supreme court",
+        "value": 5
+      },
+      {
+        "source": "abortion rights",
+        "target": "state constitution",
+        "value": 15
+      },
+      {
+        "source": "abortion rights",
+        "target": "health care",
+        "value": 5
+      },
+      {
+        "source": "abortion rights",
+        "target": "donald trump",
+        "value": 31
+      },
+      {
+        "source": "abortion rights",
+        "target": "supreme court",
+        "value": 18
+      },
+      {
+        "source": "abortion rights",
+        "target": "former president",
+        "value": 6
+      },
+      {
+        "source": "abortion rights",
+        "target": "kamala harris",
+        "value": 20
+      },
+      {
+        "source": "abortion rights",
+        "target": "vice president",
+        "value": 8
+      },
+      {
+        "source": "abortion rights",
+        "target": "anti abortion",
+        "value": 8
+      },
+      {
+        "source": "anti abortion",
+        "target": "supreme court",
+        "value": 13
+      },
+      {
+        "source": "anti abortion",
+        "target": "donald trump",
+        "value": 16
+      },
+      {
+        "source": "battleground states",
+        "target": "donald trump",
+        "value": 12
+      },
+      {
+        "source": "battleground states",
+        "target": "kamala harris",
+        "value": 12
+      },
+      {
+        "source": "battleground states",
+        "target": "vice president",
+        "value": 6
+      },
+      {
+        "source": "biden administration",
+        "target": "donald trump",
+        "value": 11
+      },
+      {
+        "source": "biden administration",
+        "target": "trump administration",
+        "value": 6
+      },
+      {
+        "source": "biden administration",
+        "target": "united states",
+        "value": 12
+      },
+      {
+        "source": "biden administration",
+        "target": "southern border",
+        "value": 6
+      },
+      {
+        "source": "biden administration",
+        "target": "president biden",
+        "value": 6
+      },
+      {
+        "source": "biden administration",
+        "target": "kamala harris",
+        "value": 8
+      },
+      {
+        "source": "biden administration",
+        "target": "vice president",
+        "value": 5
+      },
+      {
+        "source": "black voters",
+        "target": "donald trump",
+        "value": 11
+      },
+      {
+        "source": "black voters",
+        "target": "president biden",
+        "value": 12
+      },
+      {
+        "source": "black voters",
+        "target": "kamala harris",
+        "value": 10
+      },
+      {
+        "source": "donald trump",
+        "target": "southern border",
+        "value": 12
+      },
+      {
+        "source": "donald trump",
+        "target": "marco rubio",
+        "value": 14
+      },
+      {
+        "source": "donald trump",
+        "target": "panama canal",
+        "value": 13
+      },
+      {
+        "source": "donald trump",
+        "target": "secretary state",
+        "value": 15
+      },
+      {
+        "source": "donald trump",
+        "target": "executive order",
+        "value": 37
+      },
+      {
+        "source": "donald trump",
+        "target": "united states",
+        "value": 116
+      },
+      {
+        "source": "donald trump",
+        "target": "trump tariffs",
+        "value": 21
+      },
+      {
+        "source": "donald trump",
+        "target": "justin trudeau",
+        "value": 13
+      },
+      {
+        "source": "donald trump",
+        "target": "foreign policy",
+        "value": 19
+      },
+      {
+        "source": "donald trump",
+        "target": "donald trump said",
+        "value": 22
+      },
+      {
+        "source": "donald trump",
+        "target": "trump administration",
+        "value": 31
+      },
+      {
+        "source": "donald trump",
+        "target": "undocumented immigrants",
+        "value": 16
+      },
+      {
+        "source": "donald trump",
+        "target": "second term",
+        "value": 17
+      },
+      {
+        "source": "donald trump",
+        "target": "presidential campaign",
+        "value": 10
+      },
+      {
+        "source": "donald trump",
+        "target": "white house",
+        "value": 35
+      },
+      {
+        "source": "donald trump",
+        "target": "springfield ohio",
+        "value": 10
+      },
+      {
+        "source": "donald trump",
+        "target": "first term",
+        "value": 19
+      },
+      {
+        "source": "donald trump",
+        "target": "eric adams",
+        "value": 7
+      },
+      {
+        "source": "donald trump",
+        "target": "mass deportations",
+        "value": 18
+      },
+      {
+        "source": "donald trump",
+        "target": "president biden",
+        "value": 60
+      },
+      {
+        "source": "donald trump",
+        "target": "former president",
+        "value": 47
+      },
+      {
+        "source": "donald trump",
+        "target": "four years",
+        "value": 13
+      },
+      {
+        "source": "donald trump",
+        "target": "supreme court",
+        "value": 21
+      },
+      {
+        "source": "donald trump",
+        "target": "presidential election",
+        "value": 19
+      },
+      {
+        "source": "donald trump",
+        "target": "running mate",
+        "value": 17
+      },
+      {
+        "source": "donald trump",
+        "target": "senator vance",
+        "value": 15
+      },
+      {
+        "source": "donald trump",
+        "target": "national convention",
+        "value": 14
+      },
+      {
+        "source": "donald trump",
+        "target": "vice president",
+        "value": 34
+      },
+      {
+        "source": "donald trump",
+        "target": "kamala harris",
+        "value": 109
+      },
+      {
+        "source": "donald trump said",
+        "target": "united states",
+        "value": 5
+      },
+      {
+        "source": "eric adams",
+        "target": "trump administration",
+        "value": 7
+      },
+      {
+        "source": "executive order",
+        "target": "united states",
+        "value": 17
+      },
+      {
+        "source": "executive order",
+        "target": "trump administration",
+        "value": 6
+      },
+      {
+        "source": "executive order",
+        "target": "president biden",
+        "value": 10
+      },
+      {
+        "source": "federal judge",
+        "target": "undocumented immigrants",
+        "value": 6
+      },
+      {
+        "source": "foreign policy",
+        "target": "united states",
+        "value": 6
+      },
+      {
+        "source": "foreign policy",
+        "target": "president biden",
+        "value": 7
+      },
+      {
+        "source": "foreign policy",
+        "target": "marco rubio",
+        "value": 6
+      },
+      {
+        "source": "foreign policy",
+        "target": "secretary state",
+        "value": 6
+      },
+      {
+        "source": "former president",
+        "target": "running mate",
+        "value": 5
+      },
+      {
+        "source": "former president",
+        "target": "kamala harris",
+        "value": 9
+      },
+      {
+        "source": "former president",
+        "target": "united states",
+        "value": 5
+      },
+      {
+        "source": "four years",
+        "target": "president biden",
+        "value": 8
+      },
+      {
+        "source": "four years",
+        "target": "white house",
+        "value": 5
+      },
+      {
+        "source": "health care",
+        "target": "kamala harris",
+        "value": 7
+      },
+      {
+        "source": "justin trudeau",
+        "target": "united states",
+        "value": 6
+      },
+      {
+        "source": "kamala harris",
+        "target": "president biden",
+        "value": 39
+      },
+      {
+        "source": "kamala harris",
+        "target": "presidential election",
+        "value": 9
+      },
+      {
+        "source": "kamala harris",
+        "target": "national convention",
+        "value": 8
+      },
+      {
+        "source": "kamala harris",
+        "target": "running mate",
+        "value": 6
+      },
+      {
+        "source": "kamala harris",
+        "target": "vice president",
+        "value": 46
+      },
+      {
+        "source": "kamala harris",
+        "target": "supreme court",
+        "value": 6
+      },
+      {
+        "source": "kamala harris",
+        "target": "united states",
+        "value": 10
+      },
+      {
+        "source": "kamala harris",
+        "target": "southern border",
+        "value": 8
+      },
+      {
+        "source": "kamala harris",
+        "target": "presidential campaign",
+        "value": 12
+      },
+      {
+        "source": "kamala harris",
+        "target": "white house",
+        "value": 13
+      },
+      {
+        "source": "marco rubio",
+        "target": "secretary state",
+        "value": 19
+      },
+      {
+        "source": "mass deportations",
+        "target": "united states",
+        "value": 6
+      },
+      {
+        "source": "panama canal",
+        "target": "united states",
+        "value": 5
+      },
+      {
+        "source": "president biden",
+        "target": "united states",
+        "value": 16
+      },
+      {
+        "source": "president biden",
+        "target": "southern border",
+        "value": 7
+      },
+      {
+        "source": "president biden",
+        "target": "white house",
+        "value": 19
+      },
+      {
+        "source": "president biden",
+        "target": "vice president",
+        "value": 14
+      },
+      {
+        "source": "president biden",
+        "target": "supreme court",
+        "value": 5
+      },
+      {
+        "source": "running mate",
+        "target": "senator vance",
+        "value": 9
+      },
+      {
+        "source": "senator vance",
+        "target": "vice president",
+        "value": 7
+      },
+      {
+        "source": "southern border",
+        "target": "united states",
+        "value": 8
+      },
+      {
+        "source": "state constitution",
+        "target": "supreme court",
+        "value": 6
+      },
+      {
+        "source": "supreme court",
+        "target": "united states",
+        "value": 6
+      },
+      {
+        "source": "trump administration",
+        "target": "united states",
+        "value": 19
+      },
+      {
+        "source": "trump tariffs",
+        "target": "united states",
+        "value": 9
+      },
+      {
+        "source": "undocumented immigrants",
+        "target": "united states",
+        "value": 8
+      },
+      {
+        "source": "united states",
+        "target": "white house",
+        "value": 8
+      }
+    ]
+  },
+  {
+    "topic": 2,
+    "nodes": [
+      {
+        "id": "aleksei navalny",
+        "size": 33,
+        "group": 0
+      },
+      {
+        "id": "antony blinken",
+        "size": 29,
+        "group": 1
+      },
+      {
+        "id": "biden administration",
+        "size": 47,
+        "group": 1
+      },
+      {
+        "id": "concert hall",
+        "size": 27,
+        "group": 6
+      },
+      {
+        "id": "donald trump",
+        "size": 208,
+        "group": 0
+      },
+      {
+        "id": "eastern ukraine",
+        "size": 30,
+        "group": 2
+      },
+      {
+        "id": "elon musk",
+        "size": 43,
+        "group": 7
+      },
+      {
+        "id": "evan gershkovich",
+        "size": 34,
+        "group": 4
+      },
+      {
+        "id": "mike johnson",
+        "size": 24,
+        "group": 8
+      },
+      {
+        "id": "national security",
+        "size": 44,
+        "group": 1
+      },
+      {
+        "id": "north korea",
+        "size": 96,
+        "group": 2
+      },
+      {
+        "id": "north korean",
+        "size": 48,
+        "group": 2
+      },
+      {
+        "id": "president biden",
+        "size": 94,
+        "group": 1
+      },
+      {
+        "id": "presidential election",
+        "size": 26,
+        "group": 0
+      },
+      {
+        "id": "prime minister",
+        "size": 54,
+        "group": 0
+      },
+      {
+        "id": "russian forces",
+        "size": 47,
+        "group": 2
+      },
+      {
+        "id": "russian military",
+        "size": 23,
+        "group": 9
+      },
+      {
+        "id": "secretary antony blinken",
+        "size": 27,
+        "group": 1
+      },
+      {
+        "id": "social media",
+        "size": 49,
+        "group": 7
+      },
+      {
+        "id": "south china",
+        "size": 23,
+        "group": 1
+      },
+      {
+        "id": "south korea",
+        "size": 39,
+        "group": 2
+      },
+      {
+        "id": "supreme court",
+        "size": 26,
+        "group": 1
+      },
+      {
+        "id": "three years",
+        "size": 26,
+        "group": 3
+      },
+      {
+        "id": "trump administration",
+        "size": 34,
+        "group": 3
+      },
+      {
+        "id": "ukrainian forces",
+        "size": 27,
+        "group": 2
+      },
+      {
+        "id": "ukrainian officials",
+        "size": 36,
+        "group": 2
+      },
+      {
+        "id": "united states",
+        "size": 210,
+        "group": 1
+      },
+      {
+        "id": "viktor orban",
+        "size": 23,
+        "group": 0
+      },
+      {
+        "id": "vladimir putin",
+        "size": 150,
+        "group": 0
+      },
+      {
+        "id": "volodymyr zelensky",
+        "size": 113,
+        "group": 3
+      },
+      {
+        "id": "wall street",
+        "size": 35,
+        "group": 4
+      },
+      {
+        "id": "white house",
+        "size": 56,
+        "group": 1
+      }
+    ],
+    "links": [
+      {
+        "source": "aleksei navalny",
+        "target": "vladimir putin",
+        "value": 5
+      },
+      {
+        "source": "antony blinken",
+        "target": "president biden",
+        "value": 5
+      },
+      {
+        "source": "antony blinken",
+        "target": "secretary antony blinken",
+        "value": 21
+      },
+      {
+        "source": "antony blinken",
+        "target": "united states",
+        "value": 7
+      },
+      {
+        "source": "antony blinken",
+        "target": "biden administration",
+        "value": 5
+      },
+      {
+        "source": "biden administration",
+        "target": "united states",
+        "value": 12
+      },
+      {
+        "source": "biden administration",
+        "target": "white house",
+        "value": 5
+      },
+      {
+        "source": "biden administration",
+        "target": "donald trump",
+        "value": 7
+      },
+      {
+        "source": "biden administration",
+        "target": "secretary antony blinken",
+        "value": 5
+      },
+      {
+        "source": "biden administration",
+        "target": "president biden",
+        "value": 5
+      },
+      {
+        "source": "donald trump",
+        "target": "united states",
+        "value": 31
+      },
+      {
+        "source": "donald trump",
+        "target": "prime minister",
+        "value": 11
+      },
+      {
+        "source": "donald trump",
+        "target": "white house",
+        "value": 24
+      },
+      {
+        "source": "donald trump",
+        "target": "elon musk",
+        "value": 12
+      },
+      {
+        "source": "donald trump",
+        "target": "vladimir putin",
+        "value": 17
+      },
+      {
+        "source": "donald trump",
+        "target": "trump administration",
+        "value": 11
+      },
+      {
+        "source": "donald trump",
+        "target": "volodymyr zelensky",
+        "value": 23
+      },
+      {
+        "source": "donald trump",
+        "target": "presidential election",
+        "value": 5
+      },
+      {
+        "source": "donald trump",
+        "target": "national security",
+        "value": 6
+      },
+      {
+        "source": "donald trump",
+        "target": "president biden",
+        "value": 9
+      },
+      {
+        "source": "donald trump",
+        "target": "viktor orban",
+        "value": 5
+      },
+      {
+        "source": "eastern ukraine",
+        "target": "ukrainian forces",
+        "value": 7
+      },
+      {
+        "source": "eastern ukraine",
+        "target": "russian forces",
+        "value": 9
+      },
+      {
+        "source": "elon musk",
+        "target": "social media",
+        "value": 7
+      },
+      {
+        "source": "evan gershkovich",
+        "target": "wall street",
+        "value": 19
+      },
+      {
+        "source": "evan gershkovich",
+        "target": "united states",
+        "value": 5
+      },
+      {
+        "source": "national security",
+        "target": "white house",
+        "value": 6
+      },
+      {
+        "source": "national security",
+        "target": "president biden",
+        "value": 8
+      },
+      {
+        "source": "national security",
+        "target": "united states",
+        "value": 8
+      },
+      {
+        "source": "national security",
+        "target": "supreme court",
+        "value": 6
+      },
+      {
+        "source": "north korea",
+        "target": "north korean",
+        "value": 30
+      },
+      {
+        "source": "north korea",
+        "target": "south korea",
+        "value": 19
+      },
+      {
+        "source": "north korea",
+        "target": "vladimir putin",
+        "value": 13
+      },
+      {
+        "source": "north korea",
+        "target": "united states",
+        "value": 13
+      },
+      {
+        "source": "north korea",
+        "target": "ukrainian forces",
+        "value": 6
+      },
+      {
+        "source": "north korea",
+        "target": "ukrainian officials",
+        "value": 5
+      },
+      {
+        "source": "north korean",
+        "target": "south korea",
+        "value": 7
+      },
+      {
+        "source": "north korean",
+        "target": "ukrainian forces",
+        "value": 6
+      },
+      {
+        "source": "president biden",
+        "target": "united states",
+        "value": 17
+      },
+      {
+        "source": "president biden",
+        "target": "white house",
+        "value": 15
+      },
+      {
+        "source": "president biden",
+        "target": "secretary antony blinken",
+        "value": 5
+      },
+      {
+        "source": "president biden",
+        "target": "prime minister",
+        "value": 7
+      },
+      {
+        "source": "president biden",
+        "target": "volodymyr zelensky",
+        "value": 6
+      },
+      {
+        "source": "prime minister",
+        "target": "white house",
+        "value": 6
+      },
+      {
+        "source": "prime minister",
+        "target": "vladimir putin",
+        "value": 8
+      },
+      {
+        "source": "prime minister",
+        "target": "viktor orban",
+        "value": 12
+      },
+      {
+        "source": "secretary antony blinken",
+        "target": "united states",
+        "value": 7
+      },
+      {
+        "source": "social media",
+        "target": "united states",
+        "value": 11
+      },
+      {
+        "source": "south china",
+        "target": "united states",
+        "value": 5
+      },
+      {
+        "source": "south korea",
+        "target": "united states",
+        "value": 6
+      },
+      {
+        "source": "supreme court",
+        "target": "united states",
+        "value": 6
+      },
+      {
+        "source": "three years",
+        "target": "volodymyr zelensky",
+        "value": 5
+      },
+      {
+        "source": "trump administration",
+        "target": "united states",
+        "value": 8
+      },
+      {
+        "source": "trump administration",
+        "target": "volodymyr zelensky",
+        "value": 7
+      },
+      {
+        "source": "united states",
+        "target": "wall street",
+        "value": 6
+      },
+      {
+        "source": "united states",
+        "target": "white house",
+        "value": 11
+      },
+      {
+        "source": "united states",
+        "target": "volodymyr zelensky",
+        "value": 17
+      },
+      {
+        "source": "united states",
+        "target": "vladimir putin",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "topic": 3,
+    "nodes": [
+      {
+        "id": "baku azerbaijan",
+        "size": 9,
+        "group": 2
+      },
+      {
+        "id": "biden administration",
+        "size": 19,
+        "group": 1
+      },
+      {
+        "id": "clean energy",
+        "size": 14,
+        "group": 1
+      },
+      {
+        "id": "climate activists",
+        "size": 11,
+        "group": 0
+      },
+      {
+        "id": "climate change",
+        "size": 193,
+        "group": 0
+      },
+      {
+        "id": "climate policies",
+        "size": 13,
+        "group": 1
+      },
+      {
+        "id": "climate policy",
+        "size": 11,
+        "group": 1
+      },
+      {
+        "id": "climate summit",
+        "size": 16,
+        "group": 2
+      },
+      {
+        "id": "climate talks",
+        "size": 15,
+        "group": 2
+      },
+      {
+        "id": "donald trump",
+        "size": 70,
+        "group": 1
+      },
+      {
+        "id": "environmental protection agency",
+        "size": 9,
+        "group": 5
+      },
+      {
+        "id": "extreme heat",
+        "size": 15,
+        "group": 0
+      },
+      {
+        "id": "extreme weather",
+        "size": 17,
+        "group": 6
+      },
+      {
+        "id": "federal government",
+        "size": 13,
+        "group": 7
+      },
+      {
+        "id": "fight climate",
+        "size": 18,
+        "group": 3
+      },
+      {
+        "id": "fight climate change",
+        "size": 17,
+        "group": 3
+      },
+      {
+        "id": "forever chemicals",
+        "size": 10,
+        "group": 8
+      },
+      {
+        "id": "fossil fuels",
+        "size": 24,
+        "group": 3
+      },
+      {
+        "id": "global climate",
+        "size": 16,
+        "group": 1
+      },
+      {
+        "id": "global warming",
+        "size": 50,
+        "group": 3
+      },
+      {
+        "id": "greenhouse emissions",
+        "size": 9,
+        "group": 9
+      },
+      {
+        "id": "greenhouse gases",
+        "size": 10,
+        "group": 10
+      },
+      {
+        "id": "heat waves",
+        "size": 17,
+        "group": 0
+      },
+      {
+        "id": "heavy rains",
+        "size": 14,
+        "group": 11
+      },
+      {
+        "id": "hurricane helene",
+        "size": 27,
+        "group": 0
+      },
+      {
+        "id": "hurricane milton",
+        "size": 21,
+        "group": 12
+      },
+      {
+        "id": "kamala harris",
+        "size": 18,
+        "group": 1
+      },
+      {
+        "id": "made landfall",
+        "size": 13,
+        "group": 15
+      },
+      {
+        "id": "nations climate",
+        "size": 10,
+        "group": 2
+      },
+      {
+        "id": "north carolina",
+        "size": 12,
+        "group": 16
+      },
+      {
+        "id": "planet warming",
+        "size": 13,
+        "group": 17
+      },
+      {
+        "id": "president biden",
+        "size": 18,
+        "group": 1
+      },
+      {
+        "id": "protection agency",
+        "size": 9,
+        "group": 5
+      },
+      {
+        "id": "southern china",
+        "size": 12,
+        "group": 18
+      },
+      {
+        "id": "storm debby",
+        "size": 10,
+        "group": 4
+      },
+      {
+        "id": "supreme court",
+        "size": 22,
+        "group": 19
+      },
+      {
+        "id": "tropical storm",
+        "size": 17,
+        "group": 4
+      },
+      {
+        "id": "tropical storm debby",
+        "size": 10,
+        "group": 4
+      },
+      {
+        "id": "united nations",
+        "size": 14,
+        "group": 2
+      },
+      {
+        "id": "united nations climate",
+        "size": 9,
+        "group": 2
+      },
+      {
+        "id": "united states",
+        "size": 45,
+        "group": 3
+      },
+      {
+        "id": "white house",
+        "size": 14,
+        "group": 1
+      }
+    ],
+    "links": [
+      {
+        "source": "baku azerbaijan",
+        "target": "climate talks",
+        "value": 5
+      },
+      {
+        "source": "baku azerbaijan",
+        "target": "nations climate",
+        "value": 7
+      },
+      {
+        "source": "baku azerbaijan",
+        "target": "united nations",
+        "value": 7
+      },
+      {
+        "source": "baku azerbaijan",
+        "target": "united nations climate",
+        "value": 7
+      },
+      {
+        "source": "biden administration",
+        "target": "donald trump",
+        "value": 5
+      },
+      {
+        "source": "clean energy",
+        "target": "climate change",
+        "value": 5
+      },
+      {
+        "source": "clean energy",
+        "target": "donald trump",
+        "value": 9
+      },
+      {
+        "source": "climate activists",
+        "target": "climate change",
+        "value": 6
+      },
+      {
+        "source": "climate change",
+        "target": "donald trump",
+        "value": 29
+      },
+      {
+        "source": "climate change",
+        "target": "fight climate",
+        "value": 16
+      },
+      {
+        "source": "climate change",
+        "target": "fight climate change",
+        "value": 15
+      },
+      {
+        "source": "climate change",
+        "target": "fossil fuels",
+        "value": 11
+      },
+      {
+        "source": "climate change",
+        "target": "united states",
+        "value": 13
+      },
+      {
+        "source": "climate change",
+        "target": "global warming",
+        "value": 18
+      },
+      {
+        "source": "climate change",
+        "target": "extreme heat",
+        "value": 5
+      },
+      {
+        "source": "climate change",
+        "target": "heat waves",
+        "value": 7
+      },
+      {
+        "source": "climate change",
+        "target": "united nations",
+        "value": 7
+      },
+      {
+        "source": "climate change",
+        "target": "kamala harris",
+        "value": 9
+      },
+      {
+        "source": "climate change",
+        "target": "president biden",
+        "value": 5
+      },
+      {
+        "source": "climate change",
+        "target": "global climate",
+        "value": 7
+      },
+      {
+        "source": "climate change",
+        "target": "climate summit",
+        "value": 5
+      },
+      {
+        "source": "climate change",
+        "target": "nations climate",
+        "value": 6
+      },
+      {
+        "source": "climate change",
+        "target": "united nations climate",
+        "value": 5
+      },
+      {
+        "source": "climate change",
+        "target": "hurricane helene",
+        "value": 5
+      },
+      {
+        "source": "climate policies",
+        "target": "donald trump",
+        "value": 5
+      },
+      {
+        "source": "climate policy",
+        "target": "donald trump",
+        "value": 5
+      },
+      {
+        "source": "climate summit",
+        "target": "nations climate",
+        "value": 5
+      },
+      {
+        "source": "climate summit",
+        "target": "united nations",
+        "value": 5
+      },
+      {
+        "source": "climate talks",
+        "target": "donald trump",
+        "value": 6
+      },
+      {
+        "source": "climate talks",
+        "target": "global climate",
+        "value": 5
+      },
+      {
+        "source": "climate talks",
+        "target": "united nations",
+        "value": 7
+      },
+      {
+        "source": "climate talks",
+        "target": "nations climate",
+        "value": 5
+      },
+      {
+        "source": "climate talks",
+        "target": "united nations climate",
+        "value": 5
+      },
+      {
+        "source": "donald trump",
+        "target": "global warming",
+        "value": 12
+      },
+      {
+        "source": "donald trump",
+        "target": "fight climate",
+        "value": 11
+      },
+      {
+        "source": "donald trump",
+        "target": "fight climate change",
+        "value": 11
+      },
+      {
+        "source": "donald trump",
+        "target": "fossil fuels",
+        "value": 6
+      },
+      {
+        "source": "donald trump",
+        "target": "united states",
+        "value": 10
+      },
+      {
+        "source": "donald trump",
+        "target": "president biden",
+        "value": 11
+      },
+      {
+        "source": "donald trump",
+        "target": "kamala harris",
+        "value": 6
+      },
+      {
+        "source": "donald trump",
+        "target": "white house",
+        "value": 6
+      },
+      {
+        "source": "donald trump",
+        "target": "global climate",
+        "value": 7
+      },
+      {
+        "source": "environmental protection agency",
+        "target": "protection agency",
+        "value": 8
+      },
+      {
+        "source": "fight climate",
+        "target": "fight climate change",
+        "value": 15
+      },
+      {
+        "source": "fight climate",
+        "target": "united states",
+        "value": 5
+      },
+      {
+        "source": "fight climate change",
+        "target": "united states",
+        "value": 5
+      },
+      {
+        "source": "fossil fuels",
+        "target": "global warming",
+        "value": 6
+      },
+      {
+        "source": "global warming",
+        "target": "united states",
+        "value": 7
+      },
+      {
+        "source": "nations climate",
+        "target": "united nations",
+        "value": 9
+      },
+      {
+        "source": "nations climate",
+        "target": "united nations climate",
+        "value": 9
+      },
+      {
+        "source": "president biden",
+        "target": "white house",
+        "value": 6
+      },
+      {
+        "source": "storm debby",
+        "target": "tropical storm",
+        "value": 5
+      },
+      {
+        "source": "storm debby",
+        "target": "tropical storm debby",
+        "value": 5
+      },
+      {
+        "source": "tropical storm",
+        "target": "tropical storm debby",
+        "value": 5
+      },
+      {
+        "source": "united nations",
+        "target": "united nations climate",
+        "value": 9
+      }
+    ]
+  },
+  {
+    "topic": 4,
+    "nodes": [
+      {
+        "id": "artificial intelligence",
+        "size": 51,
+        "group": 3
+      },
+      {
+        "id": "automobile workers",
+        "size": 22,
+        "group": 4
+      },
+      {
+        "id": "automobile workers union",
+        "size": 9,
+        "group": 4
+      },
+      {
+        "id": "biden administration",
+        "size": 62,
+        "group": 1
+      },
+      {
+        "id": "billion grants",
+        "size": 9,
+        "group": 1
+      },
+      {
+        "id": "central bank",
+        "size": 11,
+        "group": 7
+      },
+      {
+        "id": "chip manufacturing",
+        "size": 10,
+        "group": 1
+      },
+      {
+        "id": "clean energy",
+        "size": 11,
+        "group": 9
+      },
+      {
+        "id": "computer chips",
+        "size": 11,
+        "group": 10
+      },
+      {
+        "id": "data centers",
+        "size": 15,
+        "group": 3
+      },
+      {
+        "id": "donald trump",
+        "size": 73,
+        "group": 6
+      },
+      {
+        "id": "east gulf",
+        "size": 20,
+        "group": 5
+      },
+      {
+        "id": "east gulf coasts",
+        "size": 16,
+        "group": 5
+      },
+      {
+        "id": "electric cars",
+        "size": 29,
+        "group": 0
+      },
+      {
+        "id": "electric vehicles",
+        "size": 60,
+        "group": 0
+      },
+      {
+        "id": "european union",
+        "size": 15,
+        "group": 0
+      },
+      {
+        "id": "general motors",
+        "size": 14,
+        "group": 12
+      },
+      {
+        "id": "gulf coasts",
+        "size": 16,
+        "group": 5
+      },
+      {
+        "id": "interest rates",
+        "size": 16,
+        "group": 7
+      },
+      {
+        "id": "japan nippon",
+        "size": 10,
+        "group": 2
+      },
+      {
+        "id": "japan nippon steel",
+        "size": 9,
+        "group": 2
+      },
+      {
+        "id": "national security",
+        "size": 15,
+        "group": 1
+      },
+      {
+        "id": "nippon steel",
+        "size": 24,
+        "group": 2
+      },
+      {
+        "id": "nuclear power",
+        "size": 14,
+        "group": 14
+      },
+      {
+        "id": "president biden",
+        "size": 34,
+        "group": 2
+      },
+      {
+        "id": "real estate",
+        "size": 14,
+        "group": 15
+      },
+      {
+        "id": "renewable energy",
+        "size": 10,
+        "group": 16
+      },
+      {
+        "id": "said wednesday",
+        "size": 10,
+        "group": 18
+      },
+      {
+        "id": "semiconductor manufacturing",
+        "size": 11,
+        "group": 19
+      },
+      {
+        "id": "silicon valley",
+        "size": 14,
+        "group": 3
+      },
+      {
+        "id": "solar panels",
+        "size": 14,
+        "group": 1
+      },
+      {
+        "id": "supply chain",
+        "size": 9,
+        "group": 20
+      },
+      {
+        "id": "tariffs chinese",
+        "size": 15,
+        "group": 0
+      },
+      {
+        "id": "trump tariffs",
+        "size": 13,
+        "group": 6
+      },
+      {
+        "id": "united automobile workers",
+        "size": 22,
+        "group": 4
+      },
+      {
+        "id": "united states",
+        "size": 75,
+        "group": 1
+      }
+    ],
+    "links": [
+      {
+        "source": "artificial intelligence",
+        "target": "silicon valley",
+        "value": 8
+      },
+      {
+        "source": "artificial intelligence",
+        "target": "united states",
+        "value": 7
+      },
+      {
+        "source": "artificial intelligence",
+        "target": "data centers",
+        "value": 8
+      },
+      {
+        "source": "automobile workers",
+        "target": "united automobile workers",
+        "value": 13
+      },
+      {
+        "source": "automobile workers",
+        "target": "automobile workers union",
+        "value": 6
+      },
+      {
+        "source": "automobile workers union",
+        "target": "united automobile workers",
+        "value": 6
+      },
+      {
+        "source": "biden administration",
+        "target": "united states",
+        "value": 14
+      },
+      {
+        "source": "biden administration",
+        "target": "electric vehicles",
+        "value": 7
+      },
+      {
+        "source": "biden administration",
+        "target": "billion grants",
+        "value": 5
+      },
+      {
+        "source": "biden administration",
+        "target": "chip manufacturing",
+        "value": 6
+      },
+      {
+        "source": "biden administration",
+        "target": "president biden",
+        "value": 5
+      },
+      {
+        "source": "central bank",
+        "target": "interest rates",
+        "value": 5
+      },
+      {
+        "source": "donald trump",
+        "target": "tariffs chinese",
+        "value": 8
+      },
+      {
+        "source": "donald trump",
+        "target": "trump tariffs",
+        "value": 10
+      },
+      {
+        "source": "donald trump",
+        "target": "united states",
+        "value": 14
+      },
+      {
+        "source": "donald trump",
+        "target": "electric vehicles",
+        "value": 10
+      },
+      {
+        "source": "donald trump",
+        "target": "president biden",
+        "value": 6
+      },
+      {
+        "source": "east gulf",
+        "target": "east gulf coasts",
+        "value": 11
+      },
+      {
+        "source": "east gulf",
+        "target": "gulf coasts",
+        "value": 11
+      },
+      {
+        "source": "east gulf coasts",
+        "target": "gulf coasts",
+        "value": 11
+      },
+      {
+        "source": "electric cars",
+        "target": "european union",
+        "value": 5
+      },
+      {
+        "source": "electric cars",
+        "target": "electric vehicles",
+        "value": 8
+      },
+      {
+        "source": "electric vehicles",
+        "target": "european union",
+        "value": 7
+      },
+      {
+        "source": "electric vehicles",
+        "target": "tariffs chinese",
+        "value": 6
+      },
+      {
+        "source": "electric vehicles",
+        "target": "united states",
+        "value": 6
+      },
+      {
+        "source": "electric vehicles",
+        "target": "president biden",
+        "value": 8
+      },
+      {
+        "source": "japan nippon",
+        "target": "japan nippon steel",
+        "value": 6
+      },
+      {
+        "source": "japan nippon",
+        "target": "nippon steel",
+        "value": 7
+      },
+      {
+        "source": "japan nippon",
+        "target": "president biden",
+        "value": 5
+      },
+      {
+        "source": "japan nippon steel",
+        "target": "nippon steel",
+        "value": 6
+      },
+      {
+        "source": "national security",
+        "target": "united states",
+        "value": 6
+      },
+      {
+        "source": "nippon steel",
+        "target": "president biden",
+        "value": 9
+      },
+      {
+        "source": "president biden",
+        "target": "united states",
+        "value": 8
+      },
+      {
+        "source": "solar panels",
+        "target": "united states",
+        "value": 5
+      },
+      {
+        "source": "tariffs chinese",
+        "target": "united states",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "topic": 5,
+    "nodes": [],
+    "links": []
+  },
+  {
+    "topic": 6,
+    "nodes": [],
+    "links": []
+  },
+  {
+    "topic": 7,
+    "nodes": [],
+    "links": []
+  },
+  {
+    "topic": 8,
+    "nodes": [],
+    "links": []
+  },
+  {
+    "topic": 9,
+    "nodes": [],
+    "links": []
+  },
+  {
+    "topic": 10,
+    "nodes": [],
+    "links": []
+  },
+  {
+    "topic": 11,
+    "nodes": [],
+    "links": []
+  },
+  {
+    "topic": 12,
+    "nodes": [],
+    "links": []
+  },
+  {
+    "topic": 13,
+    "nodes": [],
+    "links": []
+  },
+  {
+    "topic": 14,
+    "nodes": [],
+    "links": []
+  }
+]
