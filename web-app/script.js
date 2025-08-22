@@ -194,11 +194,19 @@ function showNetwork(topicId) {
     
   const groupIds = [...new Set(graph.nodes.map(d => d.group))];
 
+  const categoryColors = {
+    "Person": "#457b9d",
+    "Place": "#2a9d8f",
+    "Organization": "#e76f51",
+    "Event": "#ffb703",
+    "Other": "#ccc"
+  };
+  
   const color = d3.scaleOrdinal()
-    .domain(groupIds)
-    .range(customColors);
+    .domain(Object.keys(categoryColors))
+    .range(Object.values(categoryColors));
     
-
+    
   const link = svg.append("g")
     .selectAll("line")
     .data(graph.links)
@@ -211,7 +219,8 @@ function showNetwork(topicId) {
     .data(graph.nodes)
     .enter().append("circle")
     .attr("r", d => rScale(d.size))
-    .attr("fill", d => color(d.group))
+    .attr("fill", d => color(d.category || "Other"))
+
     .attr("stroke", "#333")
     .attr("stroke-width", 0.5)
     .call(d3.drag()
