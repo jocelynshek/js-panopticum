@@ -8,6 +8,7 @@ let hasShifted = false;
 Promise.all([
   d3.json("../joc-data/topics.json"),
   d3.json("../joc-data/networks.json")
+  // d3.json("../curate-files/merge_phrases/cleaned_networks2.json")
 ]).then(([topics, networks]) => {
   allNetworks = networks;
   drawBubbles(topics);
