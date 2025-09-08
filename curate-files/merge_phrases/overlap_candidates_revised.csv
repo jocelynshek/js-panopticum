@@ -1,0 +1,1223 @@
+source,target,value,shared_articles_count,source_tokens,target_tokens,overlap_tokens,overlap_count
+might mean year,year might mean,9,0,mean | mean year | might | might mean | year,mean | might | might mean | year | year might,might mean | mean | might | year,4
+new york,new york city,96,0,new | new york | york,city | new | new york | york | york city,new york | new | york,3
+occupied west bank,west bank,92,0,bank | occupied | occupied west | west | west bank,bank | west | west bank,west bank | bank | west,3
+israeli military,israeli military said,73,0,israeli | israeli military | military,israeli | israeli military | military,israeli military | israeli | military,3
+new york,new york times,68,0,new | new york | york,new | new york | times | york | york times,new york | new | york,3
+federal reserve,federal reserve officials,64,0,federal | federal reserve | reserve,federal | federal reserve | officials | reserve | reserve officials,federal reserve | federal | reserve,3
+new york,new york times,64,0,new | new york | york,new | new york | times | york | york times,new york | new | york,3
+wall street,wall street journal,63,0,street | wall | wall street,journal | street | street journal | wall | wall street,wall street | street | wall,3
+cut interest rates,interest rates,62,0,cut | cut interest | interest | interest rates | rates,interest | interest rates | rates,interest rates | interest | rates,3
+donald trump,donald trump said,44,0,donald | donald trump | trump,donald | donald trump | trump,donald trump | donald | trump,3
+emmanuel macron,emmanuel macron france,44,0,emmanuel | emmanuel macron | macron,emmanuel | emmanuel macron | france | macron | macron france,emmanuel macron | emmanuel | macron,3
+new york,new york times,44,0,new | new york | york,new | new york | times | york | york times,new york | new | york,3
+new york,new york city,36,0,new | new york | york,city | new | new york | york | york city,new york | new | york,3
+interest rate,interest rate cuts,30,0,interest | interest rate | rate,cuts | interest | interest rate | rate | rate cuts,interest rate | interest | rate,3
+central bank,european central bank,28,0,bank | central | central bank,bank | central | central bank | european | european central,central bank | bank | central,3
+swimmers tested,swimmers tested positive,28,0,swimmers | swimmers tested | tested,positive | swimmers | swimmers tested | tested | tested positive,swimmers tested | swimmers | tested,3
+automobile workers,united automobile workers,26,0,automobile | automobile workers | workers,automobile | automobile workers | united | united automobile | workers,automobile workers | automobile | workers,3
+new york,new york city,26,0,new | new york | york,city | new | new york | york | york city,new york | new | york,3
+chair federal reserve,federal reserve,22,0,chair | chair federal | federal | federal reserve | reserve,federal | federal reserve | reserve,federal reserve | federal | reserve,3
+chinese swimmers tested,swimmers tested positive,22,0,chinese | chinese swimmers | swimmers | swimmers tested | tested,positive | swimmers | swimmers tested | tested | tested positive,swimmers tested | swimmers | tested,3
+new york,new york times,22,0,new | new york | york,new | new york | times | york | york times,new york | new | york,3
+chair federal reserve,powell chair federal,20,0,chair | chair federal | federal | federal reserve | reserve,chair | chair federal | federal | powell | powell chair,chair federal | chair | federal,3
+new york,new york city,20,0,new | new york | york,city | new | new york | york | york city,new york | new | york,3
+swimmers tested positive,tested positive banned,18,0,positive | swimmers | swimmers tested | tested | tested positive,banned | positive | positive banned | tested | tested positive,tested positive | positive | tested,3
+narendra modi,narendra modi india,17,0,modi | narendra | narendra modi,india | modi | modi india | narendra | narendra modi,narendra modi | modi | narendra,3
+new york,new york city,16,0,new | new york | york,city | new | new york | york | york city,new york | new | york,3
+climate change,fight climate change,15,0,change | climate | climate change,change | climate | climate change | fight | fight climate,climate change | change | climate,3
+fight climate,fight climate change,15,0,climate | fight | fight climate,change | climate | climate change | fight | fight climate,fight climate | climate | fight,3
+automobile workers union,united automobile workers,12,0,automobile | automobile workers | union | workers | workers union,automobile | automobile workers | united | united automobile | workers,automobile workers | automobile | workers,3
+kathy hochul,kathy hochul new,12,0,hochul | kathy | kathy hochul,hochul | hochul new | kathy | kathy hochul | new,kathy hochul | hochul | kathy,3
+paperbacks read,paperbacks read week,12,0,paperbacks | paperbacks read | read,paperbacks | paperbacks read | read | read week | week,paperbacks read | paperbacks | read,3
+paperbacks read week,read week,12,0,paperbacks | paperbacks read | read | read week | week,read | read week | week,read week | read | week,3
+chinese swimmers,chinese swimmers tested,11,0,chinese | chinese swimmers | swimmers,chinese | chinese swimmers | swimmers | swimmers tested | tested,chinese swimmers | chinese | swimmers,3
+chinese swimmers,elite chinese swimmers,11,0,chinese | chinese swimmers | swimmers,chinese | chinese swimmers | elite | elite chinese | swimmers,chinese swimmers | chinese | swimmers,3
+chinese swimmers tested,swimmers tested,11,0,chinese | chinese swimmers | swimmers | swimmers tested | tested,swimmers | swimmers tested | tested,swimmers tested | swimmers | tested,3
+cutting interest,cutting interest rates,11,0,cutting | cutting interest | interest,cutting | cutting interest | interest | interest rates | rates,cutting interest | cutting | interest,3
+cutting interest rates,interest rates,11,0,cutting | cutting interest | interest | interest rates | rates,interest | interest rates | rates,interest rates | interest | rates,3
+east gulf,east gulf coasts,11,0,east | east gulf | gulf,coasts | east | east gulf | gulf | gulf coasts,east gulf | east | gulf,3
+east gulf coasts,gulf coasts,11,0,coasts | east | east gulf | gulf | gulf coasts,coasts | gulf | gulf coasts,gulf coasts | coasts | gulf,3
+elite chinese,elite chinese swimmers,11,0,chinese | elite | elite chinese,chinese | chinese swimmers | elite | elite chinese | swimmers,elite chinese | chinese | elite,3
+jerome powell,jerome powell chair,11,0,jerome | jerome powell | powell,chair | jerome | jerome powell | powell | powell chair,jerome powell | jerome | powell,3
+jerome powell chair,powell chair,11,0,chair | jerome | jerome powell | powell | powell chair,chair | powell | powell chair,powell chair | chair | powell,3
+justin trudeau,justin trudeau trudeau,11,0,justin | justin trudeau | trudeau,justin | justin trudeau | trudeau | trudeau trudeau,justin trudeau | justin | trudeau,3
+justin trudeau,prime justin trudeau,11,0,justin | justin trudeau | trudeau,justin | justin trudeau | prime | prime justin | trudeau,justin trudeau | justin | trudeau,3
+justin trudeau trudeau,prime justin trudeau,11,0,justin | justin trudeau | trudeau | trudeau trudeau,justin | justin trudeau | prime | prime justin | trudeau,justin trudeau | justin | trudeau,3
+prime justin,prime justin trudeau,11,0,justin | prime | prime justin,justin | justin trudeau | prime | prime justin | trudeau,prime justin | justin | prime,3
+anti doping,anti doping agency,10,0,anti | anti doping | doping,agency | anti | anti doping | doping | doping agency,anti doping | anti | doping,3
+anti doping,world anti doping,10,0,anti | anti doping | doping,anti | anti doping | doping | world | world anti,anti doping | anti | doping,3
+anti doping agency,doping agency,10,0,agency | anti | anti doping | doping | doping agency,agency | doping | doping agency,doping agency | agency | doping,3
+anti doping agency,world anti doping,10,0,agency | anti | anti doping | doping | doping agency,anti | anti doping | doping | world | world anti,anti doping | anti | doping,3
+chancellor olaf,chancellor olaf scholz,10,0,chancellor | chancellor olaf | olaf,chancellor | chancellor olaf | olaf | olaf scholz | scholz,chancellor olaf | chancellor | olaf,3
+chancellor olaf scholz,olaf scholz,10,0,chancellor | chancellor olaf | olaf | olaf scholz | scholz,olaf | olaf scholz | scholz,olaf scholz | olaf | scholz,3
+consumer price,consumer price index,10,0,consumer | consumer price | price,consumer | consumer price | index | price | price index,consumer price | consumer | price,3
+consumer price index,price index,10,0,consumer | consumer price | index | price | price index,index | price | price index,price index | index | price,3
+giorgia meloni,minister giorgia meloni,10,0,giorgia | giorgia meloni | meloni,giorgia | giorgia meloni | meloni | minister | minister giorgia,giorgia meloni | giorgia | meloni,3
+high interest,high interest rates,10,0,high | high interest | interest,high | high interest | interest | interest rates | rates,high interest | high | interest,3
+high interest rates,interest rates,10,0,high | high interest | interest | interest rates | rates,interest | interest rates | rates,interest rates | interest | rates,3
+interest rates,lower interest rates,10,0,interest | interest rates | rates,interest | interest rates | lower | lower interest | rates,interest rates | interest | rates,3
+jerome powell chair,powell chair federal,10,0,chair | jerome | jerome powell | powell | powell chair,chair | chair federal | federal | powell | powell chair,powell chair | chair | powell,3
+keir starmer,minister keir starmer,10,0,keir | keir starmer | starmer,keir | keir starmer | minister | minister keir | starmer,keir starmer | keir | starmer,3
+lower interest,lower interest rates,10,0,interest | lower | lower interest,interest | interest rates | lower | lower interest | rates,lower interest | interest | lower,3
+minister giorgia,minister giorgia meloni,10,0,giorgia | minister | minister giorgia,giorgia | giorgia meloni | meloni | minister | minister giorgia,minister giorgia | giorgia | minister,3
+minister giorgia,prime minister giorgia,10,0,giorgia | minister | minister giorgia,giorgia | minister | minister giorgia | prime | prime minister,minister giorgia | giorgia | minister,3
+minister giorgia meloni,prime minister giorgia,10,0,giorgia | giorgia meloni | meloni | minister | minister giorgia,giorgia | minister | minister giorgia | prime | prime minister,minister giorgia | giorgia | minister,3
+minister keir,minister keir starmer,10,0,keir | minister | minister keir,keir | keir starmer | minister | minister keir | starmer,minister keir | keir | minister,3
+minister keir,prime minister keir,10,0,keir | minister | minister keir,keir | minister | minister keir | prime | prime minister,minister keir | keir | minister,3
+minister keir starmer,prime minister keir,10,0,keir | keir starmer | minister | minister keir | starmer,keir | minister | minister keir | prime | prime minister,minister keir | keir | minister,3
+powell chair,powell chair federal,10,0,chair | powell | powell chair,chair | chair federal | federal | powell | powell chair,powell chair | chair | powell,3
+prime minister,prime minister giorgia,10,0,minister | prime | prime minister,giorgia | minister | minister giorgia | prime | prime minister,prime minister | minister | prime,3
+prime minister,prime minister keir,10,0,minister | prime | prime minister,keir | minister | minister keir | prime | prime minister,prime minister | minister | prime,3
+world anti,world anti doping,10,0,anti | world | world anti,anti | anti doping | doping | world | world anti,world anti | anti | world,3
+ahead read,ahead read visiting,9,0,ahead | ahead read | read,ahead | ahead read | read | read visiting | visiting,ahead read | ahead | read,3
+ahead read,year ahead read,9,0,ahead | ahead read | read,ahead | ahead read | read | year | year ahead,ahead read | ahead | read,3
+ahead read visiting,read visiting,9,0,ahead | ahead read | read | read visiting | visiting,read | read visiting | visiting,read visiting | read | visiting,3
+ahead read visiting,read visiting turning,9,0,ahead | ahead read | read | read visiting | visiting,read | read visiting | turning | visiting | visiting turning,read visiting | read | visiting,3
+ahead read visiting,year ahead read,9,0,ahead | ahead read | read | read visiting | visiting,ahead | ahead read | read | year | year ahead,ahead read | ahead | read,3
+banned drug,positive banned drug,9,0,banned | banned drug | drug,banned | banned drug | drug | positive | positive banned,banned drug | banned | drug,3
+called turning,called turning points,9,0,called | called turning | turning,called | called turning | points | turning | turning points,called turning | called | turning,3
+called turning,series called turning,9,0,called | called turning | turning,called | called turning | series | series called | turning,called turning | called | turning,3
+called turning points,series called turning,9,0,called | called turning | points | turning | turning points,called | called turning | series | series called | turning,called turning | called | turning,3
+called turning points,turning points,9,0,called | called turning | points | turning | turning points,points | turning | turning points,turning points | points | turning,3
+called turning points,turning points series,9,0,called | called turning | points | turning | turning points,points | points series | series | turning | turning points,turning points | points | turning,3
+called turning points,turning points writers,9,0,called | called turning | points | turning | turning points,points | points writers | turning | turning points | writers,turning points | points | turning,3
+called turning points,visiting turning points,9,0,called | called turning | points | turning | turning points,points | turning | turning points | visiting | visiting turning,turning points | points | turning,3
+critical moments,critical moments year,9,0,critical | critical moments | moments,critical | critical moments | moments | moments year | year,critical moments | critical | moments,3
+critical moments,explore critical moments,9,0,critical | critical moments | moments,critical | critical moments | explore | explore critical | moments,critical moments | critical | moments,3
+critical moments year,explore critical moments,9,0,critical | critical moments | moments | moments year | year,critical | critical moments | explore | explore critical | moments,critical moments | critical | moments,3
+critical moments year,moments year,9,0,critical | critical moments | moments | moments year | year,moments | moments year | year,moments year | moments | year,3
+critical moments year,moments year might,9,0,critical | critical moments | moments | moments year | year,might | moments | moments year | year | year might,moments year | moments | year,3
+democratic republic,democratic republic congo,9,0,democratic | democratic republic | republic,congo | democratic | democratic republic | republic | republic congo,democratic republic | democratic | republic,3
+democratic republic congo,republic congo,9,0,congo | democratic | democratic republic | republic | republic congo,congo | republic | republic congo,republic congo | congo | republic,3
+explore critical,explore critical moments,9,0,critical | explore | explore critical,critical | critical moments | explore | explore critical | moments,explore critical | critical | explore,3
+explore critical,writers explore critical,9,0,critical | explore | explore critical,critical | explore | explore critical | writers | writers explore,explore critical | critical | explore,3
+explore critical moments,writers explore critical,9,0,critical | critical moments | explore | explore critical | moments,critical | explore | explore critical | writers | writers explore,explore critical | critical | explore,3
+mean year,mean year ahead,9,0,mean | mean year | year,ahead | mean | mean year | year | year ahead,mean year | mean | year,3
+mean year,might mean year,9,0,mean | mean year | year,mean | mean year | might | might mean | year,mean year | mean | year,3
+mean year ahead,might mean year,9,0,ahead | mean | mean year | year | year ahead,mean | mean year | might | might mean | year,mean year | mean | year,3
+mean year ahead,year ahead,9,0,ahead | mean | mean year | year | year ahead,ahead | year | year ahead,year ahead | ahead | year,3
+mean year ahead,year ahead read,9,0,ahead | mean | mean year | year | year ahead,ahead | ahead read | read | year | year ahead,year ahead | ahead | year,3
+might mean,might mean year,9,0,mean | might | might mean,mean | mean year | might | might mean | year,might mean | mean | might,3
+might mean,year might mean,9,0,mean | might | might mean,mean | might | might mean | year | year might,might mean | mean | might,3
+moments year,moments year might,9,0,moments | moments year | year,might | moments | moments year | year | year might,moments year | moments | year,3
+moments year might,year might,9,0,might | moments | moments year | year | year might,might | year | year might,year might | might | year,3
+moments year might,year might mean,9,0,might | moments | moments year | year | year might,mean | might | might mean | year | year might,year might | might | year,3
+nations climate,united nations climate,9,0,climate | nations | nations climate,climate | nations | nations climate | united | united nations,nations climate | climate | nations,3
+part series,part series called,9,0,part | part series | series,called | part | part series | series | series called,part series | part | series,3
+part series called,series called,9,0,called | part | part series | series | series called,called | series | series called,series called | called | series,3
+part series called,series called turning,9,0,called | part | part series | series | series called,called | called turning | series | series called | turning,series called | called | series,3
+points series,points series page,9,0,points | points series | series,page | points | points series | series | series page,points series | points | series,3
+points series,turning points series,9,0,points | points series | series,points | points series | series | turning | turning points,points series | points | series,3
+points series page,series page,9,0,page | points | points series | series | series page,page | series | series page,series page | page | series,3
+points series page,turning points series,9,0,page | points | points series | series | series page,points | points series | series | turning | turning points,points series | points | series,3
+points writers,points writers explore,9,0,points | points writers | writers,explore | points | points writers | writers | writers explore,points writers | points | writers,3
+points writers,turning points writers,9,0,points | points writers | writers,points | points writers | turning | turning points | writers,points writers | points | writers,3
+points writers explore,turning points writers,9,0,explore | points | points writers | writers | writers explore,points | points writers | turning | turning points | writers,points writers | points | writers,3
+points writers explore,writers explore,9,0,explore | points | points writers | writers | writers explore,explore | writers | writers explore,writers explore | explore | writers,3
+points writers explore,writers explore critical,9,0,explore | points | points writers | writers | writers explore,critical | explore | explore critical | writers | writers explore,writers explore | explore | writers,3
+positive banned,positive banned drug,9,0,banned | positive | positive banned,banned | banned drug | drug | positive | positive banned,positive banned | banned | positive,3
+positive banned,tested positive banned,9,0,banned | positive | positive banned,banned | positive | positive banned | tested | tested positive,positive banned | banned | positive,3
+positive banned drug,tested positive banned,9,0,banned | banned drug | drug | positive | positive banned,banned | positive | positive banned | tested | tested positive,positive banned | banned | positive,3
+read visiting,read visiting turning,9,0,read | read visiting | visiting,read | read visiting | turning | visiting | visiting turning,read visiting | read | visiting,3
+read visiting turning,visiting turning,9,0,read | read visiting | turning | visiting | visiting turning,turning | visiting | visiting turning,visiting turning | turning | visiting,3
+read visiting turning,visiting turning points,9,0,read | read visiting | turning | visiting | visiting turning,points | turning | turning points | visiting | visiting turning,visiting turning | turning | visiting,3
+series called,series called turning,9,0,called | series | series called,called | called turning | series | series called | turning,series called | called | series,3
+turning points,turning points series,9,0,points | turning | turning points,points | points series | series | turning | turning points,turning points | points | turning,3
+turning points,turning points writers,9,0,points | turning | turning points,points | points writers | turning | turning points | writers,turning points | points | turning,3
+turning points,visiting turning points,9,0,points | turning | turning points,points | turning | turning points | visiting | visiting turning,turning points | points | turning,3
+turning points series,turning points writers,9,0,points | points series | series | turning | turning points,points | points writers | turning | turning points | writers,turning points | points | turning,3
+turning points series,visiting turning points,9,0,points | points series | series | turning | turning points,points | turning | turning points | visiting | visiting turning,turning points | points | turning,3
+turning points writers,visiting turning points,9,0,points | points writers | turning | turning points | writers,points | turning | turning points | visiting | visiting turning,turning points | points | turning,3
+united nations,united nations climate,9,0,nations | united | united nations,climate | nations | nations climate | united | united nations,united nations | nations | united,3
+visiting turning,visiting turning points,9,0,turning | visiting | visiting turning,points | turning | turning points | visiting | visiting turning,visiting turning | turning | visiting,3
+writers explore,writers explore critical,9,0,explore | writers | writers explore,critical | explore | explore critical | writers | writers explore,writers explore | explore | writers,3
+year ahead,year ahead read,9,0,ahead | year | year ahead,ahead | ahead read | read | year | year ahead,year ahead | ahead | year,3
+year might,year might mean,9,0,might | year | year might,mean | might | might mean | year | year might,year might | might | year,3
+african country,west african country,8,0,african | african country | country,african | african country | country | west | west african,african country | african | country,3
+association realtors,national association realtors,8,0,association | association realtors | realtors,association | association realtors | national | national association | realtors,association realtors | association | realtors,3
+burning fossil fuels,fossil fuels,8,0,burning | burning fossil | fossil | fossil fuels | fuels,fossil | fossil fuels | fuels,fossil fuels | fossil | fuels,3
+burning planet,eat burning planet,8,0,burning | burning planet | planet,burning | burning planet | eat | eat burning | planet,burning planet | burning | planet,3
+chair federal reserve,federal reserve officials,8,0,chair | chair federal | federal | federal reserve | reserve,federal | federal reserve | officials | reserve | reserve officials,federal reserve | federal | reserve,3
+civil rights,civil rights movement,8,0,civil | civil rights | rights,civil | civil rights | movement | rights | rights movement,civil rights | civil | rights,3
+civil rights movement,rights movement,8,0,civil | civil rights | movement | rights | rights movement,movement | rights | rights movement,rights movement | movement | rights,3
+eat burning,eat burning planet,8,0,burning | eat | eat burning,burning | burning planet | eat | eat burning | planet,eat burning | burning | eat,3
+environmental protection,environmental protection agency,8,0,environmental | environmental protection | protection,agency | environmental | environmental protection | protection | protection agency,environmental protection | environmental | protection,3
+environmental protection agency,protection agency,8,0,agency | environmental | environmental protection | protection | protection agency,agency | protection | protection agency,protection agency | agency | protection,3
+far right,far right national,8,0,far | far right | right,far | far right | national | right | right national,far right | far | right,3
+far right national,right national,8,0,far | far right | national | right | right national,national | right | right national,right national | national | right,3
+gas emissions,greenhouse gas emissions,8,0,emissions | gas | gas emissions,emissions | gas | gas emissions | greenhouse | greenhouse gas,gas emissions | emissions | gas,3
+greenhouse gas,greenhouse gas emissions,8,0,gas | greenhouse | greenhouse gas,emissions | gas | gas emissions | greenhouse | greenhouse gas,greenhouse gas | gas | greenhouse,3
+israeli soccer,israeli soccer fans,8,0,israeli | israeli soccer | soccer,fans | israeli | israeli soccer | soccer | soccer fans,israeli soccer | israeli | soccer,3
+israeli soccer fans,soccer fans,8,0,fans | israeli | israeli soccer | soccer | soccer fans,fans | soccer | soccer fans,soccer fans | fans | soccer,3
+national association,national association realtors,8,0,association | national | national association,association | association realtors | national | national association | realtors,national association | association | national,3
+new paperbacks,new paperbacks read,8,0,new | new paperbacks | paperbacks,new | new paperbacks | paperbacks | paperbacks read | read,new paperbacks | new | paperbacks,3
+new paperbacks read,paperbacks read,8,0,new | new paperbacks | paperbacks | paperbacks read | read,paperbacks | paperbacks read | read,paperbacks read | paperbacks | read,3
+new paperbacks read,paperbacks read week,8,0,new | new paperbacks | paperbacks | paperbacks read | read,paperbacks | paperbacks read | read | read week | week,paperbacks read | paperbacks | read,3
+new york,new york times,8,0,new | new york | york,new | new york | times | york | york times,new york | new | york,3
+war ii,world war ii,8,0,ii | war | war ii,ii | war | war ii | world | world war,war ii | ii | war,3
+west african,west african country,8,0,african | west | west african,african | african country | country | west | west african,west african | african | west,3
+world war,world war ii,8,0,war | world | world war,ii | war | war ii | world | world war,world war | war | world,3
+11 2001,sept 11 2001,7,0,11 | 11 2001 | 2001,11 | 11 2001 | 2001 | sept | sept 11,11 2001 | 11 | 2001,3
+asylum seekers,asylum seekers rwanda,7,0,asylum | asylum seekers | seekers,asylum | asylum seekers | rwanda | seekers | seekers rwanda,asylum seekers | asylum | seekers,3
+asylum seekers rwanda,seekers rwanda,7,0,asylum | asylum seekers | rwanda | seekers | seekers rwanda,rwanda | seekers | seekers rwanda,seekers rwanda | rwanda | seekers,3
+barclay opinion,barclay opinion climate,7,0,barclay | barclay opinion | opinion,barclay | barclay opinion | climate | opinion | opinion climate,barclay opinion | barclay | opinion,3
+barclay opinion,eliza barclay opinion,7,0,barclay | barclay opinion | opinion,barclay | barclay opinion | eliza | eliza barclay | opinion,barclay opinion | barclay | opinion,3
+barclay opinion climate,eliza barclay opinion,7,0,barclay | barclay opinion | climate | opinion | opinion climate,barclay | barclay opinion | eliza | eliza barclay | opinion,barclay opinion | barclay | opinion,3
+barclay opinion climate,opinion climate,7,0,barclay | barclay opinion | climate | opinion | opinion climate,climate | opinion | opinion climate,opinion climate | climate | opinion,3
+barclay opinion climate,opinion climate editor,7,0,barclay | barclay opinion | climate | opinion | opinion climate,climate | climate editor | editor | opinion | opinion climate,opinion climate | climate | opinion,3
+bold ideas,bold ideas secure,7,0,bold | bold ideas | ideas,bold | bold ideas | ideas | ideas secure | secure,bold ideas | bold | ideas,3
+bold ideas,exploring bold ideas,7,0,bold | bold ideas | ideas,bold | bold ideas | exploring | exploring bold | ideas,bold ideas | bold | ideas,3
+bold ideas secure,exploring bold ideas,7,0,bold | bold ideas | ideas | ideas secure | secure,bold | bold ideas | exploring | exploring bold | ideas,bold ideas | bold | ideas,3
+bold ideas secure,ideas secure,7,0,bold | bold ideas | ideas | ideas secure | secure,ideas | ideas secure | secure,ideas secure | ideas | secure,3
+bold ideas secure,ideas secure food,7,0,bold | bold ideas | ideas | ideas secure | secure,food | ideas | ideas secure | secure | secure food,ideas secure | ideas | secure,3
+burning planet,burning planet series,7,0,burning | burning planet | planet,burning | burning planet | planet | planet series | series,burning planet | burning | planet,3
+burning planet series,eat burning planet,7,0,burning | burning planet | planet | planet series | series,burning | burning planet | eat | eat burning | planet,burning planet | burning | planet,3
+burning planet series,planet series,7,0,burning | burning planet | planet | planet series | series,planet | planet series | series,planet series | planet | series,3
+burning planet series,planet series exploring,7,0,burning | burning planet | planet | planet series | series,exploring | planet | planet series | series | series exploring,planet series | planet | series,3
+climate change,combat climate change,7,0,change | climate | climate change,change | climate | climate change | combat | combat climate,climate change | change | climate,3
+climate change,effects climate change,7,0,change | climate | climate change,change | climate | climate change | effects | effects climate,climate change | change | climate,3
+climate editor,opinion climate editor,7,0,climate | climate editor | editor,climate | climate editor | editor | opinion | opinion climate,climate editor | climate | editor,3
+combat climate,combat climate change,7,0,climate | combat | combat climate,change | climate | climate change | combat | combat climate,combat climate | climate | combat,3
+eliza barclay,eliza barclay opinion,7,0,barclay | eliza | eliza barclay,barclay | barclay opinion | eliza | eliza barclay | opinion,eliza barclay | barclay | eliza,3
+eliza barclay,note eliza barclay,7,0,barclay | eliza | eliza barclay,barclay | eliza | eliza barclay | note | note eliza,eliza barclay | barclay | eliza,3
+eliza barclay opinion,note eliza barclay,7,0,barclay | barclay opinion | eliza | eliza barclay | opinion,barclay | eliza | eliza barclay | note | note eliza,eliza barclay | barclay | eliza,3
+exploring bold,exploring bold ideas,7,0,bold | exploring | exploring bold,bold | bold ideas | exploring | exploring bold | ideas,exploring bold | bold | exploring,3
+exploring bold,series exploring bold,7,0,bold | exploring | exploring bold,bold | exploring | exploring bold | series | series exploring,exploring bold | bold | exploring,3
+exploring bold ideas,series exploring bold,7,0,bold | bold ideas | exploring | exploring bold | ideas,bold | exploring | exploring bold | series | series exploring,exploring bold | bold | exploring,3
+far right,far right party,7,0,far | far right | right,far | far right | party | right | right party,far right | far | right,3
+far right national,right national rally,7,0,far | far right | national | right | right national,national | national rally | rally | right | right national,right national | national | right,3
+far right party,right party,7,0,far | far right | party | right | right party,party | right | right party,right party | party | right,3
+follow live,follow live updates,7,0,follow | follow live | live,follow | follow live | live | live updates | updates,follow live | follow | live,3
+follow live updates,live updates,7,0,follow | follow live | live | live updates | updates,live | live updates | updates,live updates | live | updates,3
+food supply,food supply read,7,0,food | food supply | supply,food | food supply | read | supply | supply read,food supply | food | supply,3
+food supply,secure food supply,7,0,food | food supply | supply,food | food supply | secure | secure food | supply,food supply | food | supply,3
+food supply read,secure food supply,7,0,food | food supply | read | supply | supply read,food | food supply | secure | secure food | supply,food supply | food | supply,3
+food supply read,supply read,7,0,food | food supply | read | supply | supply read,read | supply | supply read,supply read | read | supply,3
+food supply read,supply read project,7,0,food | food supply | read | supply | supply read,project | read | read project | supply | supply read,supply read | read | supply,3
+ideas secure,ideas secure food,7,0,ideas | ideas secure | secure,food | ideas | ideas secure | secure | secure food,ideas secure | ideas | secure,3
+ideas secure food,secure food,7,0,food | ideas | ideas secure | secure | secure food,food | secure | secure food,secure food | food | secure,3
+ideas secure food,secure food supply,7,0,food | ideas | ideas secure | secure | secure food,food | food supply | secure | secure food | supply,secure food | food | secure,3
+national rally,right national rally,7,0,national | national rally | rally,national | national rally | rally | right | right national,national rally | national | rally,3
+note eliza,note eliza barclay,7,0,eliza | note | note eliza,barclay | eliza | eliza barclay | note | note eliza,note eliza | eliza | note,3
+note eliza,project note eliza,7,0,eliza | note | note eliza,eliza | note | note eliza | project | project note,note eliza | eliza | note,3
+note eliza barclay,project note eliza,7,0,barclay | eliza | eliza barclay | note | note eliza,eliza | note | note eliza | project | project note,note eliza | eliza | note,3
+opinion climate,opinion climate editor,7,0,climate | opinion | opinion climate,climate | climate editor | editor | opinion | opinion climate,opinion climate | climate | opinion,3
+planet series,planet series exploring,7,0,planet | planet series | series,exploring | planet | planet series | series | series exploring,planet series | planet | series,3
+planet series exploring,series exploring,7,0,exploring | planet | planet series | series | series exploring,exploring | series | series exploring,series exploring | exploring | series,3
+planet series exploring,series exploring bold,7,0,exploring | planet | planet series | series | series exploring,bold | exploring | exploring bold | series | series exploring,series exploring | exploring | series,3
+project note,project note eliza,7,0,note | project | project note,eliza | note | note eliza | project | project note,project note | note | project,3
+project note,read project note,7,0,note | project | project note,note | project | project note | read | read project,project note | note | project,3
+project note eliza,read project note,7,0,eliza | note | note eliza | project | project note,note | project | project note | read | read project,project note | note | project,3
+read project,read project note,7,0,project | read | read project,note | project | project note | read | read project,read project | project | read,3
+read project,supply read project,7,0,project | read | read project,project | read | read project | supply | supply read,read project | project | read,3
+read project note,supply read project,7,0,note | project | project note | read | read project,project | read | read project | supply | supply read,read project | project | read,3
+right national,right national rally,7,0,national | right | right national,national | national rally | rally | right | right national,right national | national | right,3
+secure food,secure food supply,7,0,food | secure | secure food,food | food supply | secure | secure food | supply,secure food | food | secure,3
+sept 11,sept 11 2001,7,0,11 | sept | sept 11,11 | 11 2001 | 2001 | sept | sept 11,sept 11 | 11 | sept,3
+series exploring,series exploring bold,7,0,exploring | series | series exploring,bold | exploring | exploring bold | series | series exploring,series exploring | exploring | series,3
+supply read,supply read project,7,0,read | supply | supply read,project | read | read project | supply | supply read,supply read | read | supply,3
+23 elite,23 elite chinese,6,0,23 | 23 elite | elite,23 | 23 elite | chinese | elite | elite chinese,23 elite | 23 | elite,3
+23 elite chinese,elite chinese,6,0,23 | 23 elite | chinese | elite | elite chinese,chinese | elite | elite chinese,elite chinese | chinese | elite,3
+23 elite chinese,elite chinese swimmers,6,0,23 | 23 elite | chinese | elite | elite chinese,chinese | chinese swimmers | elite | elite chinese | swimmers,elite chinese | chinese | elite,3
+african nation,west african nation,6,0,african | african nation | nation,african | african nation | nation | west | west african,african nation | african | nation,3
+alternative germany,alternative germany party,6,0,alternative | alternative germany | germany,alternative | alternative germany | germany | germany party | party,alternative germany | alternative | germany,3
+alternative germany,right alternative germany,6,0,alternative | alternative germany | germany,alternative | alternative germany | germany | right | right alternative,alternative germany | alternative | germany,3
+alternative germany party,germany party,6,0,alternative | alternative germany | germany | germany party | party,germany | germany party | party,germany party | germany | party,3
+asylum seekers,send asylum seekers,6,0,asylum | asylum seekers | seekers,asylum | asylum seekers | seekers | send | send asylum,asylum seekers | asylum | seekers,3
+asylum seekers rwanda,send asylum seekers,6,0,asylum | asylum seekers | rwanda | seekers | seekers rwanda,asylum | asylum seekers | seekers | send | send asylum,asylum seekers | asylum | seekers,3
+automobile workers,automobile workers union,6,0,automobile | automobile workers | workers,automobile | automobile workers | union | workers | workers union,automobile workers | automobile | workers,3
+automobile workers union,workers union,6,0,automobile | automobile workers | union | workers | workers union,union | workers | workers union,workers union | union | workers,3
+book review,book review including,6,0,book | book review | review,book | book review | including | review | review including,book review | book | review,3
+book review including,review including,6,0,book | book review | including | review | review including,including | review | review including,review including | including | review,3
+book review including,review including titles,6,0,book | book review | including | review | review including,including | including titles | review | review including | titles,review including | including | review,3
+chinese doping,chinese doping case,6,0,chinese | chinese doping | doping,case | chinese | chinese doping | doping | doping case,chinese doping | chinese | doping,3
+chinese doping case,doping case,6,0,case | chinese | chinese doping | doping | doping case,case | doping | doping case,doping case | case | doping,3
+chinese swimmers tested,elite chinese swimmers,6,0,chinese | chinese swimmers | swimmers | swimmers tested | tested,chinese | chinese swimmers | elite | elite chinese | swimmers,chinese swimmers | chinese | swimmers,3
+congestion pricing,congestion pricing plan,6,0,congestion | congestion pricing | pricing,congestion | congestion pricing | plan | pricing | pricing plan,congestion pricing | congestion | pricing,3
+congestion pricing plan,pricing plan,6,0,congestion | congestion pricing | plan | pricing | pricing plan,plan | pricing | pricing plan,pricing plan | plan | pricing,3
+consumer financial,consumer financial protection,6,0,consumer | consumer financial | financial,consumer | consumer financial | financial | financial protection | protection,consumer financial | consumer | financial,3
+consumer financial protection,financial protection,6,0,consumer | consumer financial | financial | financial protection | protection,financial | financial protection | protection,financial protection | financial | protection,3
+consumer financial protection,financial protection bureau,6,0,consumer | consumer financial | financial | financial protection | protection,bureau | financial | financial protection | protection | protection bureau,financial protection | financial | protection,3
+eat burning,part eat burning,6,0,burning | eat | eat burning,burning | eat | eat burning | part | part eat,eat burning | burning | eat,3
+eat burning planet,part eat burning,6,0,burning | burning planet | eat | eat burning | planet,burning | eat | eat burning | part | part eat,eat burning | burning | eat,3
+financial protection,financial protection bureau,6,0,financial | financial protection | protection,bureau | financial | financial protection | protection | protection bureau,financial protection | financial | protection,3
+financial protection bureau,protection bureau,6,0,bureau | financial | financial protection | protection | protection bureau,bureau | protection | protection bureau,protection bureau | bureau | protection,3
+including titles,review including titles,6,0,including | including titles | titles,including | including titles | review | review including | titles,including titles | including | titles,3
+japan nippon,japan nippon steel,6,0,japan | japan nippon | nippon,japan | japan nippon | nippon | nippon steel | steel,japan nippon | japan | nippon,3
+japan nippon steel,nippon steel,6,0,japan | japan nippon | nippon | nippon steel | steel,nippon | nippon steel | steel,nippon steel | nippon | steel,3
+khalid shaikh,khalid shaikh mohammed,6,0,khalid | khalid shaikh | shaikh,khalid | khalid shaikh | mohammed | shaikh | shaikh mohammed,khalid shaikh | khalid | shaikh,3
+khalid shaikh mohammed,shaikh mohammed,6,0,khalid | khalid shaikh | mohammed | shaikh | shaikh mohammed,mohammed | shaikh | shaikh mohammed,shaikh mohammed | mohammed | shaikh,3
+loss drugs,weight loss drugs,6,0,drugs | loss | loss drugs,drugs | loss | loss drugs | weight | weight loss,loss drugs | drugs | loss,3
+part eat,part eat burning,6,0,eat | part | part eat,burning | eat | eat burning | part | part eat,part eat | eat | part,3
+review including,review including titles,6,0,including | review | review including,including | including titles | review | review including | titles,review including | including | review,3
+right alternative,right alternative germany,6,0,alternative | right | right alternative,alternative | alternative germany | germany | right | right alternative,right alternative | alternative | right,3
+weight loss,weight loss drugs,6,0,loss | weight | weight loss,drugs | loss | loss drugs | weight | weight loss,weight loss | loss | weight,3
+west african,west african nation,6,0,african | west | west african,african | african nation | nation | west | west african,west african | african | west,3
+african national,african national congress,5,0,african | african national | national,african | african national | congress | national | national congress,african national | african | national,3
+african national congress,national congress,5,0,african | african national | congress | national | national congress,congress | national | national congress,national congress | congress | national,3
+assange wikileaks,assange wikileaks founder,5,0,assange | assange wikileaks | wikileaks,assange | assange wikileaks | founder | wikileaks | wikileaks founder,assange wikileaks | assange | wikileaks,3
+assange wikileaks,julian assange wikileaks,5,0,assange | assange wikileaks | wikileaks,assange | assange wikileaks | julian | julian assange | wikileaks,assange wikileaks | assange | wikileaks,3
+assange wikileaks founder,julian assange wikileaks,5,0,assange | assange wikileaks | founder | wikileaks | wikileaks founder,assange | assange wikileaks | julian | julian assange | wikileaks,assange wikileaks | assange | wikileaks,3
+assange wikileaks founder,wikileaks founder,5,0,assange | assange wikileaks | founder | wikileaks | wikileaks founder,founder | wikileaks | wikileaks founder,wikileaks founder | founder | wikileaks,3
+au prince,port au prince,5,0,au | au prince | prince,au | au prince | port | port au | prince,au prince | au | prince,3
+benefit managers,pharmacy benefit managers,5,0,benefit | benefit managers | managers,benefit | benefit managers | managers | pharmacy | pharmacy benefit,benefit managers | benefit | managers,3
+chief executive,unitedhealthcare chief executive,5,0,chief | chief executive | executive,chief | chief executive | executive | unitedhealthcare | unitedhealthcare chief,chief executive | chief | executive,3
+chinese communist,chinese communist party,5,0,chinese | chinese communist | communist,chinese | chinese communist | communist | communist party | party,chinese communist | chinese | communist,3
+chinese communist party,communist party,5,0,chinese | chinese communist | communist | communist party | party,communist | communist party | party,communist party | communist | party,3
+hochul new york,new york,5,0,hochul | hochul new | new | new york | york,new | new york | york,new york | new | york,3
+hong kong,hong kong intelligence,5,0,hong | hong kong | kong,hong | hong kong | intelligence | kong | kong intelligence,hong kong | hong | kong,3
+hong kong intelligence,kong intelligence,5,0,hong | hong kong | intelligence | kong | kong intelligence,intelligence | kong | kong intelligence,kong intelligence | intelligence | kong,3
+hong kong intelligence,kong intelligence service,5,0,hong | hong kong | intelligence | kong | kong intelligence,intelligence | intelligence service | kong | kong intelligence | service,kong intelligence | intelligence | kong,3
+india prime,india prime minister,5,0,india | india prime | prime,india | india prime | minister | prime | prime minister,india prime | india | prime,3
+india prime minister,prime minister,5,0,india | india prime | minister | prime | prime minister,minister | prime | prime minister,prime minister | minister | prime,3
+intelligence service,kong intelligence service,5,0,intelligence | intelligence service | service,intelligence | intelligence service | kong | kong intelligence | service,intelligence service | intelligence | service,3
+julian assange,julian assange wikileaks,5,0,assange | julian | julian assange,assange | assange wikileaks | julian | julian assange | wikileaks,julian assange | assange | julian,3
+kong intelligence,kong intelligence service,5,0,intelligence | kong | kong intelligence,intelligence | intelligence service | kong | kong intelligence | service,kong intelligence | intelligence | kong,3
+metropolitan transportation,metropolitan transportation authority,5,0,metropolitan | metropolitan transportation | transportation,authority | metropolitan | metropolitan transportation | transportation | transportation authority,metropolitan transportation | metropolitan | transportation,3
+metropolitan transportation authority,transportation authority,5,0,authority | metropolitan | metropolitan transportation | transportation | transportation authority,authority | transportation | transportation authority,transportation authority | authority | transportation,3
+minister rishi,minister rishi sunak,5,0,minister | minister rishi | rishi,minister | minister rishi | rishi | rishi sunak | sunak,minister rishi | minister | rishi,3
+minister rishi,prime minister rishi,5,0,minister | minister rishi | rishi,minister | minister rishi | prime | prime minister | rishi,minister rishi | minister | rishi,3
+minister rishi sunak,prime minister rishi,5,0,minister | minister rishi | rishi | rishi sunak | sunak,minister | minister rishi | prime | prime minister | rishi,minister rishi | minister | rishi,3
+minister rishi sunak,rishi sunak,5,0,minister | minister rishi | rishi | rishi sunak | sunak,rishi | rishi sunak | sunak,rishi sunak | rishi | sunak,3
+modi india,narendra modi india,5,0,india | modi | modi india,india | modi | modi india | narendra | narendra modi,modi india | india | modi,3
+pharmacy benefit,pharmacy benefit managers,5,0,benefit | pharmacy | pharmacy benefit,benefit | benefit managers | managers | pharmacy | pharmacy benefit,pharmacy benefit | benefit | pharmacy,3
+port au,port au prince,5,0,au | port | port au,au | au prince | port | port au | prince,port au | au | port,3
+presidential election,venezuela presidential election,5,0,election | presidential | presidential election,election | presidential | presidential election | venezuela | venezuela presidential,presidential election | election | presidential,3
+prime minister,prime minister rishi,5,0,minister | prime | prime minister,minister | minister rishi | prime | prime minister | rishi,prime minister | minister | prime,3
+race massacre,tulsa race massacre,5,0,massacre | race | race massacre,massacre | race | race massacre | tulsa | tulsa race,race massacre | massacre | race,3
+storm debby,tropical storm debby,5,0,debby | storm | storm debby,debby | storm | storm debby | tropical | tropical storm,storm debby | debby | storm,3
+tropical storm,tropical storm debby,5,0,storm | tropical | tropical storm,debby | storm | storm debby | tropical | tropical storm,tropical storm | storm | tropical,3
+trudeau canada,trudeau trudeau canada,5,0,canada | trudeau | trudeau canada,canada | trudeau | trudeau canada | trudeau trudeau,trudeau canada | canada | trudeau,3
+tulsa race,tulsa race massacre,5,0,race | tulsa | tulsa race,massacre | race | race massacre | tulsa | tulsa race,tulsa race | race | tulsa,3
+unitedhealthcare chief,unitedhealthcare chief executive,5,0,chief | unitedhealthcare | unitedhealthcare chief,chief | chief executive | executive | unitedhealthcare | unitedhealthcare chief,unitedhealthcare chief | chief | unitedhealthcare,3
+venezuela presidential,venezuela presidential election,5,0,presidential | venezuela | venezuela presidential,election | presidential | presidential election | venezuela | venezuela presidential,venezuela presidential | presidential | venezuela,3
+action lawsuit,class action lawsuit,4,0,action | action lawsuit | lawsuit,action | action lawsuit | class | class action | lawsuit,action lawsuit | action | lawsuit,3
+alternative germany party,right alternative germany,4,0,alternative | alternative germany | germany | germany party | party,alternative | alternative germany | germany | right | right alternative,alternative germany | alternative | germany,3
+archegos capital,archegos capital management,4,0,archegos | archegos capital | capital,archegos | archegos capital | capital | capital management | management,archegos capital | archegos | capital,3
+archegos capital management,capital management,4,0,archegos | archegos capital | capital | capital management | management,capital | capital management | management,capital management | capital | management,3
+class action,class action lawsuit,4,0,action | class | class action,action | action lawsuit | class | class action | lawsuit,class action | action | class,3
+defense secretary,defense secretary lloyd,4,0,defense | defense secretary | secretary,defense | defense secretary | lloyd | secretary | secretary lloyd,defense secretary | defense | secretary,3
+defense secretary lloyd,secretary lloyd,4,0,defense | defense secretary | lloyd | secretary | secretary lloyd,lloyd | secretary | secretary lloyd,secretary lloyd | lloyd | secretary,3
+defense secretary lloyd,secretary lloyd austin,4,0,defense | defense secretary | lloyd | secretary | secretary lloyd,austin | lloyd | lloyd austin | secretary | secretary lloyd,secretary lloyd | lloyd | secretary,3
+federal rule,new federal rule,4,0,federal | federal rule | rule,federal | federal rule | new | new federal | rule,federal rule | federal | rule,3
+hochul new,hochul new york,4,0,hochul | hochul new | new,hochul | hochul new | new | new york | york,hochul new | hochul | new,3
+hochul new,kathy hochul new,4,0,hochul | hochul new | new,hochul | hochul new | kathy | kathy hochul | new,hochul new | hochul | new,3
+hochul new york,kathy hochul new,4,0,hochul | hochul new | new | new york | york,hochul | hochul new | kathy | kathy hochul | new,hochul new | hochul | new,3
+holiday shopping,holiday shopping season,4,0,holiday | holiday shopping | shopping,holiday | holiday shopping | season | shopping | shopping season,holiday shopping | holiday | shopping,3
+holiday shopping season,shopping season,4,0,holiday | holiday shopping | season | shopping | shopping season,season | shopping | shopping season,shopping season | season | shopping,3
+league baseball,major league baseball,4,0,baseball | league | league baseball,baseball | league | league baseball | major | major league,league baseball | baseball | league,3
+lloyd austin,secretary lloyd austin,4,0,austin | lloyd | lloyd austin,austin | lloyd | lloyd austin | secretary | secretary lloyd,lloyd austin | austin | lloyd,3
+major league,major league baseball,4,0,league | major | major league,baseball | league | league baseball | major | major league,major league | league | major,3
+new federal,new federal rule,4,0,federal | new | new federal,federal | federal rule | new | new federal | rule,new federal | federal | new,3
+president william,president william ruto,4,0,president | president william | william,president | president william | ruto | william | william ruto,president william | president | william,3
+president william ruto,william ruto,4,0,president | president william | ruto | william | william ruto,ruto | william | william ruto,william ruto | ruto | william,3
+secretary lloyd,secretary lloyd austin,4,0,lloyd | secretary | secretary lloyd,austin | lloyd | lloyd austin | secretary | secretary lloyd,secretary lloyd | lloyd | secretary,3
+street banks,wall street banks,4,0,banks | street | street banks,banks | street | street banks | wall | wall street,street banks | banks | street,3
+swimmers tested positive,tested positive powerful,4,0,positive | swimmers | swimmers tested | tested | tested positive,positive | positive powerful | powerful | tested | tested positive,tested positive | positive | tested,3
+wall street,wall street banks,4,0,street | wall | wall street,banks | street | street banks | wall | wall street,wall street | street | wall,3
+23 chinese,23 chinese swimmers,3,0,23 | 23 chinese | chinese,23 | 23 chinese | chinese | chinese swimmers | swimmers,23 chinese | 23 | chinese,3
+23 chinese swimmers,chinese swimmers,3,0,23 | 23 chinese | chinese | chinese swimmers | swimmers,chinese | chinese swimmers | swimmers,chinese swimmers | chinese | swimmers,3
+23 chinese swimmers,chinese swimmers tested,3,0,23 | 23 chinese | chinese | chinese swimmers | swimmers,chinese | chinese swimmers | swimmers | swimmers tested | tested,chinese swimmers | chinese | swimmers,3
+analytics firm,data analytics firm,3,0,analytics | analytics firm | firm,analytics | analytics firm | data | data analytics | firm,analytics firm | analytics | firm,3
+bill hwang,founder bill hwang,3,0,bill | bill hwang | hwang,bill | bill hwang | founder | founder bill | hwang,bill hwang | bill | hwang,3
+card late,credit card late,3,0,card | card late | late,card | card late | credit | credit card | late,card late | card | late,3
+credit card,credit card late,3,0,card | credit | credit card,card | card late | credit | credit card | late,credit card | card | credit,3
+data analytics,data analytics firm,3,0,analytics | data | data analytics,analytics | analytics firm | data | data analytics | firm,data analytics | analytics | data,3
+drove vehicle,drove vehicle crowd,3,0,drove | drove vehicle | vehicle,crowd | drove | drove vehicle | vehicle | vehicle crowd,drove vehicle | drove | vehicle,3
+drove vehicle,man drove vehicle,3,0,drove | drove vehicle | vehicle,drove | drove vehicle | man | man drove | vehicle,drove vehicle | drove | vehicle,3
+drove vehicle crowd,man drove vehicle,3,0,crowd | drove | drove vehicle | vehicle | vehicle crowd,drove | drove vehicle | man | man drove | vehicle,drove vehicle | drove | vehicle,3
+drove vehicle crowd,vehicle crowd,3,0,crowd | drove | drove vehicle | vehicle | vehicle crowd,crowd | vehicle | vehicle crowd,vehicle crowd | crowd | vehicle,3
+entertainment concert,nation entertainment concert,3,0,concert | entertainment | entertainment concert,concert | entertainment | entertainment concert | nation | nation entertainment,entertainment concert | concert | entertainment,3
+live nation,live nation entertainment,3,0,live | live nation | nation,entertainment | live | live nation | nation | nation entertainment,live nation | live | nation,3
+live nation entertainment,nation entertainment,3,0,entertainment | live | live nation | nation | nation entertainment,entertainment | nation | nation entertainment,nation entertainment | entertainment | nation,3
+live nation entertainment,nation entertainment concert,3,0,entertainment | live | live nation | nation | nation entertainment,concert | entertainment | entertainment concert | nation | nation entertainment,nation entertainment | entertainment | nation,3
+losses wall,losses wall street,3,0,losses | losses wall | wall,losses | losses wall | street | wall | wall street,losses wall | losses | wall,3
+losses wall street,wall street,3,0,losses | losses wall | street | wall | wall street,street | wall | wall street,wall street | street | wall,3
+losses wall street,wall street banks,3,0,losses | losses wall | street | wall | wall street,banks | street | street banks | wall | wall street,wall street | street | wall,3
+man drove,man drove vehicle,3,0,drove | man | man drove,drove | drove vehicle | man | man drove | vehicle,man drove | drove | man,3
+nation entertainment,nation entertainment concert,3,0,entertainment | nation | nation entertainment,concert | entertainment | entertainment concert | nation | nation entertainment,nation entertainment | entertainment | nation,3
+olympics opening,olympics opening ceremony,3,0,olympics | olympics opening | opening,ceremony | olympics | olympics opening | opening | opening ceremony,olympics opening | olympics | opening,3
+olympics opening ceremony,opening ceremony,3,0,ceremony | olympics | olympics opening | opening | opening ceremony,ceremony | opening | opening ceremony,opening ceremony | ceremony | opening,3
+positive tests,positive tests banned,3,0,positive | positive tests | tests,banned | positive | positive tests | tests | tests banned,positive tests | positive | tests,3
+positive tests banned,tests banned,3,0,banned | positive | positive tests | tests | tests banned,banned | tests | tests banned,tests banned | banned | tests,3
+10 billion,10 billion losses,2,0,10 | 10 billion | billion,10 | 10 billion | billion | billion losses | losses,10 billion | 10 | billion,3
+10 billion,10 billion year,2,0,10 | 10 billion | billion,10 | 10 billion | billion | billion year | year,10 billion | 10 | billion,3
+10 billion,households 10 billion,2,0,10 | 10 billion | billion,10 | 10 billion | billion | households | households 10,10 billion | 10 | billion,3
+10 billion,roughly 10 billion,2,0,10 | 10 billion | billion,10 | 10 billion | billion | roughly | roughly 10,10 billion | 10 | billion,3
+10 billion losses,billion losses,2,0,10 | 10 billion | billion | billion losses | losses,billion | billion losses | losses,billion losses | billion | losses,3
+10 billion losses,roughly 10 billion,2,0,10 | 10 billion | billion | billion losses | losses,10 | 10 billion | billion | roughly | roughly 10,10 billion | 10 | billion,3
+10 billion year,billion year,2,0,10 | 10 billion | billion | billion year | year,billion | billion year | year,billion year | billion | year,3
+10 billion year,households 10 billion,2,0,10 | 10 billion | billion | billion year | year,10 | 10 billion | billion | households | households 10,10 billion | 10 | billion,3
+archegos capital,collapse archegos capital,2,0,archegos | archegos capital | capital,archegos | archegos capital | capital | collapse | collapse archegos,archegos capital | archegos | capital,3
+archegos capital management,collapse archegos capital,2,0,archegos | archegos capital | capital | capital management | management,archegos | archegos capital | capital | collapse | collapse archegos,archegos capital | archegos | capital,3
+banned substance,powerful banned substance,2,0,banned | banned substance | substance,banned | banned substance | powerful | powerful banned | substance,banned substance | banned | substance,3
+black men,older black men,2,0,black | black men | men,black | black men | men | older | older black,black men | black | men,3
+collapse archegos,collapse archegos capital,2,0,archegos | collapse | collapse archegos,archegos | archegos capital | capital | collapse | collapse archegos,collapse archegos | archegos | collapse,3
+costs millions people,millions people,2,0,costs | costs millions | millions | millions people | people,millions | millions people | people,millions people | millions | people,3
+costs millions people,millions people employers,2,0,costs | costs millions | millions | millions people | people,employers | millions | millions people | people | people employers,millions people | millions | people,3
+could save,could save merchants,2,0,could | could save | save,could | could save | merchants | save | save merchants,could save | could | save,3
+could save merchants,save merchants,2,0,could | could save | merchants | save | save merchants,merchants | save | save merchants,save merchants | merchants | save,3
+cut interest rates,cutting interest rates,2,0,cut | cut interest | interest | interest rates | rates,cutting | cutting interest | interest | interest rates | rates,interest rates | interest | rates,3
+cut interest rates,lower interest rates,2,0,cut | cut interest | interest | interest rates | rates,interest | interest rates | lower | lower interest | rates,interest rates | interest | rates,3
+drug administration,food drug administration,2,0,administration | drug | drug administration,administration | drug | drug administration | food | food drug,drug administration | administration | drug,3
+employers government,people employers government,2,0,employers | employers government | government,employers | employers government | government | people | people employers,employers government | employers | government,3
+far right national,far right party,2,0,far | far right | national | right | right national,far | far right | party | right | right party,far right | far | right,3
+food drug,food drug administration,2,0,drug | food | food drug,administration | drug | drug administration | food | food drug,food drug | drug | food,3
+households 10,households 10 billion,2,0,10 | households | households 10,10 | 10 billion | billion | households | households 10,households 10 | 10 | households,3
+managers driving,managers driving drug,2,0,driving | managers | managers driving,driving | driving drug | drug | managers | managers driving,managers driving | driving | managers,3
+millions people,millions people employers,2,0,millions | millions people | people,employers | millions | millions people | people | people employers,millions people | millions | people,3
+millions people employers,people employers government,2,0,employers | millions | millions people | people | people employers,employers | employers government | government | people | people employers,people employers | employers | people,3
+new york city,new york times,2,0,city | new | new york | york | york city,new | new york | times | york | york times,new york | new | york,3
+older black,older black men,2,0,black | older | older black,black | black men | men | older | older black,older black | black | older,3
+positive powerful,positive powerful banned,2,0,positive | positive powerful | powerful,banned | positive | positive powerful | powerful | powerful banned,positive powerful | positive | powerful,3
+positive powerful,tested positive powerful,2,0,positive | positive powerful | powerful,positive | positive powerful | powerful | tested | tested positive,positive powerful | positive | powerful,3
+positive powerful banned,powerful banned,2,0,banned | positive | positive powerful | powerful | powerful banned,banned | powerful | powerful banned,powerful banned | banned | powerful,3
+positive powerful banned,powerful banned substance,2,0,banned | positive | positive powerful | powerful | powerful banned,banned | banned substance | powerful | powerful banned | substance,powerful banned | banned | powerful,3
+positive powerful banned,tested positive powerful,2,0,banned | positive | positive powerful | powerful | powerful banned,positive | positive powerful | powerful | tested | tested positive,positive powerful | positive | powerful,3
+powerful banned,powerful banned substance,2,0,banned | powerful | powerful banned,banned | banned substance | powerful | powerful banned | substance,powerful banned | banned | powerful,3
+roughly 10,roughly 10 billion,2,0,10 | roughly | roughly 10,10 | 10 billion | billion | roughly | roughly 10,roughly 10 | 10 | roughly,3
+rule would,rule would cap,2,0,rule | rule would | would,cap | rule | rule would | would | would cap,rule would | rule | would,3
+rule would cap,would cap,2,0,cap | rule | rule would | would | would cap,cap | would | would cap,would cap | cap | would,3
+credit cards,using credit cards,1,0,cards | credit | credit cards,cards | credit | credit cards | using | using credit,credit cards | cards | credit,3
+cutting interest rates,lower interest rates,1,0,cutting | cutting interest | interest | interest rates | rates,interest | interest rates | lower | lower interest | rates,interest rates | interest | rates,3
+hochul new york,new york city,1,0,hochul | hochul new | new | new york | york,city | new | new york | york | york city,new york | new | york,3
+tested positive banned,tested positive powerful,1,0,banned | positive | positive banned | tested | tested positive,positive | positive powerful | powerful | tested | tested positive,tested positive | positive | tested,3
+using credit,using credit cards,1,0,credit | using | using credit,cards | credit | credit cards | using | using credit,using credit | credit | using,3
+west african country,west african nation,1,0,african | african country | country | west | west african,african | african nation | nation | west | west african,west african | african | west,3
+gaza war,war gaza,13,0,gaza | gaza war | war,gaza | war | war gaza,gaza | war,2
+justin trudeau trudeau,trudeau trudeau,11,0,justin | justin trudeau | trudeau | trudeau trudeau,trudeau | trudeau trudeau,trudeau trudeau | trudeau,2
+mean year,year might mean,9,0,mean | mean year | year,mean | might | might mean | year | year might,mean | year,2
+mean year ahead,year might mean,9,0,ahead | mean | mean year | year | year ahead,mean | might | might mean | year | year might,mean | year,2
+might mean year,moments year might,9,0,mean | mean year | might | might mean | year,might | moments | moments year | year | year might,might | year,2
+might mean year,year might,9,0,mean | mean year | might | might mean | year,might | year | year might,might | year,2
+series called turning,turning points series,9,0,called | called turning | series | series called | turning,points | points series | series | turning | turning points,series | turning,2
+cut interest rates,cut rates,6,0,cut | cut interest | interest | interest rates | rates,cut | cut rates | rates,cut | rates,2
+justin trudeau trudeau,trudeau trudeau canada,5,0,justin | justin trudeau | trudeau | trudeau trudeau,canada | trudeau | trudeau canada | trudeau trudeau,trudeau trudeau | trudeau,2
+trudeau trudeau,trudeau trudeau canada,5,0,trudeau | trudeau trudeau,canada | trudeau | trudeau canada | trudeau trudeau,trudeau trudeau | trudeau,2
+new federal rule,new rule,2,0,federal | federal rule | new | new federal | rule,new | new rule | rule,new | rule,2
+23 chinese swimmers,23 swimmers,1,0,23 | 23 chinese | chinese | chinese swimmers | swimmers,23 | 23 swimmers | swimmers,23 | swimmers,2
+positive banned,positive powerful banned,1,0,banned | positive | positive banned,banned | positive | positive powerful | powerful | powerful banned,banned | positive,2
+positive banned drug,positive powerful banned,1,0,banned | banned drug | drug | positive | positive banned,banned | positive | positive powerful | powerful | powerful banned,banned | positive,2
+positive powerful banned,tested positive banned,1,0,banned | positive | positive powerful | powerful | powerful banned,banned | positive | positive banned | tested | tested positive,banned | positive,2
+benjamin netanyahu,netanyahu netanyahu,501,0,benjamin | benjamin netanyahu | netanyahu,netanyahu | netanyahu netanyahu,netanyahu,1
+donald trump,trump trump,311,0,donald | donald trump | trump,trump | trump trump,trump,1
+harris harris,kamala harris,282,0,harris | harris harris,harris | kamala | kamala harris,harris,1
+volodymyr zelensky,zelensky putin,217,0,volodymyr | volodymyr zelensky | zelensky,putin | zelensky | zelensky putin,zelensky,1
+vladimir putin,zelensky putin,161,0,putin | vladimir | vladimir putin,putin | zelensky | zelensky putin,putin,1
+donald trump,mr trump,99,0,donald | donald trump | trump,mr | mr trump | trump,trump,1
+antony blinken,blinken blinken,84,0,antony | antony blinken | blinken,blinken | blinken blinken,blinken,1
+israeli military,military said,80,0,israeli | israeli military | military,military,military,1
+israeli military said,military said,73,0,israeli | israeli military | military,military,military,1
+adams adams,eric adams,64,0,adams | adams adams,adams | eric | eric adams,adams,1
+wall street,wall wall,63,0,street | wall | wall street,wall | wall wall,wall,1
+donald trump,trump administration,58,0,donald | donald trump | trump,administration | trump | trump administration,trump,1
+donald trump,trump said,57,0,donald | donald trump | trump,trump,trump,1
+donald trump,trump trump,52,0,donald | donald trump | trump,trump | trump trump,trump,1
+nicolás maduro,president nicolás,32,0,maduro | nicol | nicol maduro,nicol | president | president nicol,nicol,1
+donald trump,mr trump,31,0,donald | donald trump | trump,mr | mr trump | trump,trump,1
+donald trump,trump tariffs,30,0,donald | donald trump | trump,tariffs | trump | trump tariffs,trump,1
+israel war,war gaza,28,0,israel | israel war | war,gaza | war | war gaza,war,1
+modi india,narendra modi,25,0,india | modi | modi india,modi | narendra | narendra modi,modi,1
+officials said,officials say,25,0,officials,officials,officials,1
+harris harris,kamala harris,24,0,harris | harris harris,harris | kamala | kamala harris,harris,1
+chinese swimmers,swimmers tested positive,23,0,chinese | chinese swimmers | swimmers,positive | swimmers | swimmers tested | tested | tested positive,swimmers,1
+israeli forces,israeli military,23,0,forces | israeli | israeli forces,israeli | israeli military | military,israeli,1
+russia war,war ukraine,23,0,russia | russia war | war,ukraine | war | war ukraine,war,1
+cut interest rates,interest rate cuts,22,0,cut | cut interest | interest | interest rates | rates,cuts | interest | interest rate | rate | rate cuts,interest,1
+donald trump,trump trump,22,0,donald | donald trump | trump,trump | trump trump,trump,1
+israel military,israeli military,22,0,israel | israel military | military,israeli | israeli military | military,military,1
+israel military,military said,22,0,israel | israel military | military,military,military,1
+israeli officials,officials said,21,0,israeli | israeli officials | officials,officials,officials,1
+wall street journal,wall wall,21,0,journal | street | street journal | wall | wall street,wall | wall wall,wall,1
+chair federal reserve,jerome powell chair,20,0,chair | chair federal | federal | federal reserve | reserve,chair | jerome | jerome powell | powell | powell chair,chair,1
+chair federal reserve,powell chair,20,0,chair | chair federal | federal | federal reserve | reserve,chair | powell | powell chair,chair,1
+donald trump said,trump said,20,0,donald | donald trump | trump,trump,trump,1
+new orleans,new year,19,0,new | new orleans | orleans,new | new year | year,new,1
+north korea,north korean,19,0,korea | north | north korea,korean | north | north korean,north,1
+gaza strip,war gaza,18,0,gaza | gaza strip | strip,gaza | war | war gaza,gaza,1
+interest rate cuts,interest rates,18,0,cuts | interest | interest rate | rate | rate cuts,interest | interest rates | rates,interest,1
+positive banned,swimmers tested positive,18,0,banned | positive | positive banned,positive | swimmers | swimmers tested | tested | tested positive,positive,1
+positive banned drug,swimmers tested positive,18,0,banned | banned drug | drug | positive | positive banned,positive | swimmers | swimmers tested | tested | tested positive,positive,1
+united nations,united states,17,0,nations | united | united nations,states | united | united states,united,1
+chair federal reserve,fed chair,16,0,chair | chair federal | federal | federal reserve | reserve,chair | fed | fed chair,chair,1
+climate change,fight climate,16,0,change | climate | climate change,climate | fight | fight climate,climate,1
+gaza strip,northern gaza,16,0,gaza | gaza strip | strip,gaza | northern | northern gaza,gaza,1
+israeli military,israeli strike,16,0,israeli | israeli military | military,israeli | israeli strike | strike,israeli,1
+abortion rights,right abortion,15,0,abortion | abortion rights | rights,abortion | right | right abortion,abortion,1
+donald trump,trump administration,15,0,donald | donald trump | trump,administration | trump | trump administration,trump,1
+gaza city,southern gaza,15,0,city | gaza | gaza city,gaza | southern | southern gaza,gaza,1
+aid ukraine,ukraine israel,14,0,aid | aid ukraine | ukraine,israel | ukraine | ukraine israel,ukraine,1
+cut interest rates,rate cut,14,0,cut | cut interest | interest | interest rates | rates,cut | rate | rate cut,cut,1
+north korea,south korea,14,0,korea | north | north korea,korea | south | south korea,korea,1
+donald trump,trump tariffs,13,0,donald | donald trump | trump,tariffs | trump | trump tariffs,trump,1
+elite chinese swimmers,swimmers tested positive,13,0,chinese | chinese swimmers | elite | elite chinese | swimmers,positive | swimmers | swimmers tested | tested | tested positive,swimmers,1
+israeli military,killed israeli,13,0,israeli | israeli military | military,israeli | killed | killed israeli,israeli,1
+israeli officials,officials say,13,0,israeli | israeli officials | officials,officials,officials,1
+aid package,aid ukraine,12,0,aid | aid package | package,aid | aid ukraine | ukraine,aid,1
+cut rates,interest rates,12,0,cut | cut rates | rates,interest | interest rates | rates,rates,1
+end war,war ukraine,12,0,end | end war | war,ukraine | war | war ukraine,war,1
+hochul new,kathy hochul,12,0,hochul | hochul new | new,hochul | kathy | kathy hochul,hochul,1
+hochul new york,kathy hochul,12,0,hochul | hochul new | new | new york | york,hochul | kathy | kathy hochul,hochul,1
+israel hamas,war israel,12,0,hamas | israel | israel hamas,israel | war | war israel,israel,1
+mr trump,trump trump,12,0,mr | mr trump | trump,trump | trump trump,trump,1
+officials said,ukrainian officials,12,0,officials,officials | ukrainian | ukrainian officials,officials,1
+paperbacks read,read week,12,0,paperbacks | paperbacks read | read,read | read week | week,read,1
+president biden,vice president,12,0,biden | president | president biden,president | vice | vice president,president,1
+united automobile workers,workers union,12,0,automobile | automobile workers | united | united automobile | workers,union | workers | workers union,workers,1
+abortion bans,abortion rights,11,0,abortion | abortion bans | bans,abortion | abortion rights | rights,abortion,1
+chinese swimmers,elite chinese,11,0,chinese | chinese swimmers | swimmers,chinese | elite | elite chinese,chinese,1
+chinese swimmers,swimmers tested,11,0,chinese | chinese swimmers | swimmers,swimmers | swimmers tested | tested,swimmers,1
+cutting interest,interest rates,11,0,cutting | cutting interest | interest,interest | interest rates | rates,interest,1
+east gulf,gulf coasts,11,0,east | east gulf | gulf,coasts | gulf | gulf coasts,gulf,1
+jerome powell,powell chair,11,0,jerome | jerome powell | powell,chair | powell | powell chair,powell,1
+justin trudeau,prime justin,11,0,justin | justin trudeau | trudeau,justin | prime | prime justin,justin,1
+justin trudeau,trudeau trudeau,11,0,justin | justin trudeau | trudeau,trudeau | trudeau trudeau,trudeau,1
+justin trudeau trudeau,prime justin,11,0,justin | justin trudeau | trudeau | trudeau trudeau,justin | prime | prime justin,justin,1
+positive tests,swimmers tested positive,11,0,positive | positive tests | tests,positive | swimmers | swimmers tested | tested | tested positive,positive,1
+prime justin trudeau,trudeau trudeau,11,0,justin | justin trudeau | prime | prime justin | trudeau,trudeau | trudeau trudeau,trudeau,1
+anti doping,doping agency,10,0,anti | anti doping | doping,agency | doping | doping agency,doping,1
+anti doping,world anti,10,0,anti | anti doping | doping,anti | world | world anti,anti,1
+anti doping agency,world anti,10,0,agency | anti | anti doping | doping | doping agency,anti | world | world anti,anti,1
+chancellor olaf,olaf scholz,10,0,chancellor | chancellor olaf | olaf,olaf | olaf scholz | scholz,olaf,1
+consumer price,price index,10,0,consumer | consumer price | price,index | price | price index,price,1
+cut interest rates,rates thursday,10,0,cut | cut interest | interest | interest rates | rates,rates | rates thursday | thursday,rates,1
+doping agency,world anti doping,10,0,agency | doping | doping agency,anti | anti doping | doping | world | world anti,doping,1
+federal reserve,powell chair federal,10,0,federal | federal reserve | reserve,chair | chair federal | federal | powell | powell chair,federal,1
+giorgia meloni,minister giorgia,10,0,giorgia | giorgia meloni | meloni,giorgia | minister | minister giorgia,giorgia,1
+giorgia meloni,prime minister giorgia,10,0,giorgia | giorgia meloni | meloni,giorgia | minister | minister giorgia | prime | prime minister,giorgia,1
+high interest,interest rates,10,0,high | high interest | interest,interest | interest rates | rates,interest,1
+interest rates,lower interest,10,0,interest | interest rates | rates,interest | lower | lower interest,interest,1
+israel hezbollah,war israel,10,0,hezbollah | israel | israel hezbollah,israel | war | war israel,israel,1
+israeli forces,israeli military said,10,0,forces | israeli | israeli forces,israeli | israeli military | military,israeli,1
+israeli military said,israeli strike,10,0,israeli | israeli military | military,israeli | israeli strike | strike,israeli,1
+jerome powell,powell chair federal,10,0,jerome | jerome powell | powell,chair | chair federal | federal | powell | powell chair,powell,1
+keir starmer,minister keir,10,0,keir | keir starmer | starmer,keir | minister | minister keir,keir,1
+keir starmer,prime minister keir,10,0,keir | keir starmer | starmer,keir | minister | minister keir | prime | prime minister,keir,1
+minister giorgia,prime minister,10,0,giorgia | minister | minister giorgia,minister | prime | prime minister,minister,1
+minister giorgia meloni,prime minister,10,0,giorgia | giorgia meloni | meloni | minister | minister giorgia,minister | prime | prime minister,minister,1
+minister keir,prime minister,10,0,keir | minister | minister keir,minister | prime | prime minister,minister,1
+minister keir starmer,prime minister,10,0,keir | keir starmer | minister | minister keir | starmer,minister | prime | prime minister,minister,1
+new books,new york times,10,0,books | new | new books,new | new york | times | york | york times,new,1
+abortion ban,abortion rights,9,0,abortion | abortion ban | ban,abortion | abortion rights | rights,abortion,1
+ahead read,mean year ahead,9,0,ahead | ahead read | read,ahead | mean | mean year | year | year ahead,ahead,1
+ahead read,read visiting,9,0,ahead | ahead read | read,read | read visiting | visiting,read,1
+ahead read,read visiting turning,9,0,ahead | ahead read | read,read | read visiting | turning | visiting | visiting turning,read,1
+ahead read,year ahead,9,0,ahead | ahead read | read,ahead | year | year ahead,ahead,1
+ahead read visiting,mean year ahead,9,0,ahead | ahead read | read | read visiting | visiting,ahead | mean | mean year | year | year ahead,ahead,1
+ahead read visiting,visiting turning,9,0,ahead | ahead read | read | read visiting | visiting,turning | visiting | visiting turning,visiting,1
+ahead read visiting,visiting turning points,9,0,ahead | ahead read | read | read visiting | visiting,points | turning | turning points | visiting | visiting turning,visiting,1
+ahead read visiting,year ahead,9,0,ahead | ahead read | read | read visiting | visiting,ahead | year | year ahead,ahead,1
+banned drug,positive banned,9,0,banned | banned drug | drug,banned | positive | positive banned,banned,1
+banned drug,tested positive banned,9,0,banned | banned drug | drug,banned | positive | positive banned | tested | tested positive,banned,1
+called turning,part series called,9,0,called | called turning | turning,called | part | part series | series | series called,called,1
+called turning,read visiting turning,9,0,called | called turning | turning,read | read visiting | turning | visiting | visiting turning,turning,1
+called turning,series called,9,0,called | called turning | turning,called | series | series called,called,1
+called turning,turning points,9,0,called | called turning | turning,points | turning | turning points,turning,1
+called turning,turning points series,9,0,called | called turning | turning,points | points series | series | turning | turning points,turning,1
+called turning,turning points writers,9,0,called | called turning | turning,points | points writers | turning | turning points | writers,turning,1
+called turning,visiting turning,9,0,called | called turning | turning,turning | visiting | visiting turning,turning,1
+called turning,visiting turning points,9,0,called | called turning | turning,points | turning | turning points | visiting | visiting turning,turning,1
+called turning points,part series called,9,0,called | called turning | points | turning | turning points,called | part | part series | series | series called,called,1
+called turning points,points series,9,0,called | called turning | points | turning | turning points,points | points series | series,points,1
+called turning points,points series page,9,0,called | called turning | points | turning | turning points,page | points | points series | series | series page,points,1
+called turning points,points writers,9,0,called | called turning | points | turning | turning points,points | points writers | writers,points,1
+called turning points,points writers explore,9,0,called | called turning | points | turning | turning points,explore | points | points writers | writers | writers explore,points,1
+called turning points,read visiting turning,9,0,called | called turning | points | turning | turning points,read | read visiting | turning | visiting | visiting turning,turning,1
+called turning points,series called,9,0,called | called turning | points | turning | turning points,called | series | series called,called,1
+called turning points,visiting turning,9,0,called | called turning | points | turning | turning points,turning | visiting | visiting turning,turning,1
+critical moments,explore critical,9,0,critical | critical moments | moments,critical | explore | explore critical,critical,1
+critical moments,moments year,9,0,critical | critical moments | moments,moments | moments year | year,moments,1
+critical moments,moments year might,9,0,critical | critical moments | moments,might | moments | moments year | year | year might,moments,1
+critical moments,writers explore critical,9,0,critical | critical moments | moments,critical | explore | explore critical | writers | writers explore,critical,1
+critical moments year,explore critical,9,0,critical | critical moments | moments | moments year | year,critical | explore | explore critical,critical,1
+critical moments year,mean year,9,0,critical | critical moments | moments | moments year | year,mean | mean year | year,year,1
+critical moments year,mean year ahead,9,0,critical | critical moments | moments | moments year | year,ahead | mean | mean year | year | year ahead,year,1
+critical moments year,might mean year,9,0,critical | critical moments | moments | moments year | year,mean | mean year | might | might mean | year,year,1
+critical moments year,writers explore critical,9,0,critical | critical moments | moments | moments year | year,critical | explore | explore critical | writers | writers explore,critical,1
+critical moments year,year ahead,9,0,critical | critical moments | moments | moments year | year,ahead | year | year ahead,year,1
+critical moments year,year ahead read,9,0,critical | critical moments | moments | moments year | year,ahead | ahead read | read | year | year ahead,year,1
+critical moments year,year might,9,0,critical | critical moments | moments | moments year | year,might | year | year might,year,1
+critical moments year,year might mean,9,0,critical | critical moments | moments | moments year | year,mean | might | might mean | year | year might,year,1
+defense minister,prime minister,9,0,defense | defense minister | minister,minister | prime | prime minister,minister,1
+democratic republic,republic congo,9,0,democratic | democratic republic | republic,congo | republic | republic congo,republic,1
+explore critical,points writers explore,9,0,critical | explore | explore critical,explore | points | points writers | writers | writers explore,explore,1
+explore critical,writers explore,9,0,critical | explore | explore critical,explore | writers | writers explore,explore,1
+explore critical moments,moments year,9,0,critical | critical moments | explore | explore critical | moments,moments | moments year | year,moments,1
+explore critical moments,moments year might,9,0,critical | critical moments | explore | explore critical | moments,might | moments | moments year | year | year might,moments,1
+explore critical moments,points writers explore,9,0,critical | critical moments | explore | explore critical | moments,explore | points | points writers | writers | writers explore,explore,1
+explore critical moments,writers explore,9,0,critical | critical moments | explore | explore critical | moments,explore | writers | writers explore,explore,1
+gaza strip,southern gaza,9,0,gaza | gaza strip | strip,gaza | southern | southern gaza,gaza,1
+interest rate,interest rates,9,0,interest | interest rate | rate,interest | interest rates | rates,interest,1
+israeli airstrike,israeli strike,9,0,airstrike | israeli | israeli airstrike,israeli | israeli strike | strike,israeli,1
+israeli military,israeli officials,9,0,israeli | israeli military | military,israeli | israeli officials | officials,israeli,1
+mean year,might mean,9,0,mean | mean year | year,mean | might | might mean,mean,1
+mean year,moments year,9,0,mean | mean year | year,moments | moments year | year,year,1
+mean year,moments year might,9,0,mean | mean year | year,might | moments | moments year | year | year might,year,1
+mean year,year ahead,9,0,mean | mean year | year,ahead | year | year ahead,year,1
+mean year,year ahead read,9,0,mean | mean year | year,ahead | ahead read | read | year | year ahead,year,1
+mean year,year might,9,0,mean | mean year | year,might | year | year might,year,1
+mean year ahead,might mean,9,0,ahead | mean | mean year | year | year ahead,mean | might | might mean,mean,1
+mean year ahead,moments year,9,0,ahead | mean | mean year | year | year ahead,moments | moments year | year,year,1
+mean year ahead,moments year might,9,0,ahead | mean | mean year | year | year ahead,might | moments | moments year | year | year might,year,1
+mean year ahead,year might,9,0,ahead | mean | mean year | year | year ahead,might | year | year might,year,1
+might mean,moments year might,9,0,mean | might | might mean,might | moments | moments year | year | year might,might,1
+might mean,year might,9,0,mean | might | might mean,might | year | year might,might,1
+might mean year,moments year,9,0,mean | mean year | might | might mean | year,moments | moments year | year,year,1
+might mean year,year ahead,9,0,mean | mean year | might | might mean | year,ahead | year | year ahead,year,1
+might mean year,year ahead read,9,0,mean | mean year | might | might mean | year,ahead | ahead read | read | year | year ahead,year,1
+moments year,year ahead,9,0,moments | moments year | year,ahead | year | year ahead,year,1
+moments year,year ahead read,9,0,moments | moments year | year,ahead | ahead read | read | year | year ahead,year,1
+moments year,year might,9,0,moments | moments year | year,might | year | year might,year,1
+moments year,year might mean,9,0,moments | moments year | year,mean | might | might mean | year | year might,year,1
+moments year might,year ahead,9,0,might | moments | moments year | year | year might,ahead | year | year ahead,year,1
+moments year might,year ahead read,9,0,might | moments | moments year | year | year might,ahead | ahead read | read | year | year ahead,year,1
+nations climate,united nations,9,0,climate | nations | nations climate,nations | united | united nations,nations,1
+part series,points series,9,0,part | part series | series,points | points series | series,series,1
+part series,points series page,9,0,part | part series | series,page | points | points series | series | series page,series,1
+part series,series called,9,0,part | part series | series,called | series | series called,series,1
+part series,series called turning,9,0,part | part series | series,called | called turning | series | series called | turning,series,1
+part series,series page,9,0,part | part series | series,page | series | series page,series,1
+part series,turning points series,9,0,part | part series | series,points | points series | series | turning | turning points,series,1
+part series called,points series,9,0,called | part | part series | series | series called,points | points series | series,series,1
+part series called,points series page,9,0,called | part | part series | series | series called,page | points | points series | series | series page,series,1
+part series called,series page,9,0,called | part | part series | series | series called,page | series | series page,series,1
+part series called,turning points series,9,0,called | part | part series | series | series called,points | points series | series | turning | turning points,series,1
+points series,points writers,9,0,points | points series | series,points | points writers | writers,points,1
+points series,points writers explore,9,0,points | points series | series,explore | points | points writers | writers | writers explore,points,1
+points series,series called,9,0,points | points series | series,called | series | series called,series,1
+points series,series called turning,9,0,points | points series | series,called | called turning | series | series called | turning,series,1
+points series,series page,9,0,points | points series | series,page | series | series page,series,1
+points series,turning points,9,0,points | points series | series,points | turning | turning points,points,1
+points series,turning points writers,9,0,points | points series | series,points | points writers | turning | turning points | writers,points,1
+points series,visiting turning points,9,0,points | points series | series,points | turning | turning points | visiting | visiting turning,points,1
+points series page,points writers,9,0,page | points | points series | series | series page,points | points writers | writers,points,1
+points series page,points writers explore,9,0,page | points | points series | series | series page,explore | points | points writers | writers | writers explore,points,1
+points series page,series called,9,0,page | points | points series | series | series page,called | series | series called,series,1
+points series page,series called turning,9,0,page | points | points series | series | series page,called | called turning | series | series called | turning,series,1
+points series page,turning points,9,0,page | points | points series | series | series page,points | turning | turning points,points,1
+points series page,turning points writers,9,0,page | points | points series | series | series page,points | points writers | turning | turning points | writers,points,1
+points series page,visiting turning points,9,0,page | points | points series | series | series page,points | turning | turning points | visiting | visiting turning,points,1
+points writers,turning points,9,0,points | points writers | writers,points | turning | turning points,points,1
+points writers,turning points series,9,0,points | points writers | writers,points | points series | series | turning | turning points,points,1
+points writers,visiting turning points,9,0,points | points writers | writers,points | turning | turning points | visiting | visiting turning,points,1
+points writers,writers explore,9,0,points | points writers | writers,explore | writers | writers explore,writers,1
+points writers,writers explore critical,9,0,points | points writers | writers,critical | explore | explore critical | writers | writers explore,writers,1
+points writers explore,turning points,9,0,explore | points | points writers | writers | writers explore,points | turning | turning points,points,1
+points writers explore,turning points series,9,0,explore | points | points writers | writers | writers explore,points | points series | series | turning | turning points,points,1
+points writers explore,visiting turning points,9,0,explore | points | points writers | writers | writers explore,points | turning | turning points | visiting | visiting turning,points,1
+read visiting,visiting turning,9,0,read | read visiting | visiting,turning | visiting | visiting turning,visiting,1
+read visiting,visiting turning points,9,0,read | read visiting | visiting,points | turning | turning points | visiting | visiting turning,visiting,1
+read visiting,year ahead read,9,0,read | read visiting | visiting,ahead | ahead read | read | year | year ahead,read,1
+read visiting turning,series called turning,9,0,read | read visiting | turning | visiting | visiting turning,called | called turning | series | series called | turning,turning,1
+read visiting turning,turning points,9,0,read | read visiting | turning | visiting | visiting turning,points | turning | turning points,turning,1
+read visiting turning,turning points series,9,0,read | read visiting | turning | visiting | visiting turning,points | points series | series | turning | turning points,turning,1
+read visiting turning,turning points writers,9,0,read | read visiting | turning | visiting | visiting turning,points | points writers | turning | turning points | writers,turning,1
+read visiting turning,year ahead read,9,0,read | read visiting | turning | visiting | visiting turning,ahead | ahead read | read | year | year ahead,read,1
+series called,series page,9,0,called | series | series called,page | series | series page,series,1
+series called,turning points series,9,0,called | series | series called,points | points series | series | turning | turning points,series,1
+series called turning,series page,9,0,called | called turning | series | series called | turning,page | series | series page,series,1
+series called turning,turning points,9,0,called | called turning | series | series called | turning,points | turning | turning points,turning,1
+series called turning,turning points writers,9,0,called | called turning | series | series called | turning,points | points writers | turning | turning points | writers,turning,1
+series called turning,visiting turning,9,0,called | called turning | series | series called | turning,turning | visiting | visiting turning,turning,1
+series called turning,visiting turning points,9,0,called | called turning | series | series called | turning,points | turning | turning points | visiting | visiting turning,turning,1
+series page,turning points series,9,0,page | series | series page,points | points series | series | turning | turning points,series,1
+swimmers tested,tested positive banned,9,0,swimmers | swimmers tested | tested,banned | positive | positive banned | tested | tested positive,tested,1
+turning points,visiting turning,9,0,points | turning | turning points,turning | visiting | visiting turning,turning,1
+turning points series,visiting turning,9,0,points | points series | series | turning | turning points,turning | visiting | visiting turning,turning,1
+turning points writers,visiting turning,9,0,points | points writers | turning | turning points | writers,turning | visiting | visiting turning,turning,1
+turning points writers,writers explore,9,0,points | points writers | turning | turning points | writers,explore | writers | writers explore,writers,1
+turning points writers,writers explore critical,9,0,points | points writers | turning | turning points | writers,critical | explore | explore critical | writers | writers explore,writers,1
+ukraine war,war russia,9,0,ukraine | ukraine war | war,russia | war | war russia,war,1
+year ahead,year might,9,0,ahead | year | year ahead,might | year | year might,year,1
+year ahead,year might mean,9,0,ahead | year | year ahead,mean | might | might mean | year | year might,year,1
+year ahead read,year might,9,0,ahead | ahead read | read | year | year ahead,might | year | year might,year,1
+year ahead read,year might mean,9,0,ahead | ahead read | read | year | year ahead,mean | might | might mean | year | year might,year,1
+abortion rights,anti abortion,8,0,abortion | abortion rights | rights,abortion | anti | anti abortion,abortion,1
+african country,west african,8,0,african | african country | country,african | west | west african,african,1
+association realtors,national association,8,0,association | association realtors | realtors,association | national | national association,association,1
+burning planet,eat burning,8,0,burning | burning planet | planet,burning | eat | eat burning,burning,1
+chinese swimmers tested,tested positive banned,8,0,chinese | chinese swimmers | swimmers | swimmers tested | tested,banned | positive | positive banned | tested | tested positive,tested,1
+civil rights,rights movement,8,0,civil | civil rights | rights,movement | rights | rights movement,rights,1
+electric cars,electric vehicles,8,0,cars | electric | electric cars,electric | electric vehicles | vehicles,electric,1
+electric vehicle,electric vehicles,8,0,electric | electric vehicle | vehicle,electric | electric vehicles | vehicles,electric,1
+environmental protection,protection agency,8,0,environmental | environmental protection | protection,agency | protection | protection agency,protection,1
+far right,right national,8,0,far | far right | right,national | right | right national,right,1
+far right,right party,8,0,far | far right | right,party | right | right party,right,1
+fed chair,jerome powell chair,8,0,chair | fed | fed chair,chair | jerome | jerome powell | powell | powell chair,chair,1
+fed chair,powell chair,8,0,chair | fed | fed chair,chair | powell | powell chair,chair,1
+fed chair,powell chair federal,8,0,chair | fed | fed chair,chair | chair federal | federal | powell | powell chair,chair,1
+gas emissions,greenhouse gas,8,0,emissions | gas | gas emissions,gas | greenhouse | greenhouse gas,gas,1
+interest rates,rates steady,8,0,interest | interest rates | rates,rates | rates steady | steady,rates,1
+interest rates,rates thursday,8,0,interest | interest rates | rates,rates | rates thursday | thursday,rates,1
+interest rates,rates unchanged,8,0,interest | interest rates | rates,rates | rates unchanged | unchanged,rates,1
+israeli soccer,soccer fans,8,0,israeli | israeli soccer | soccer,fans | soccer | soccer fans,soccer,1
+new paperbacks,paperbacks read,8,0,new | new paperbacks | paperbacks,paperbacks | paperbacks read | read,paperbacks,1
+new paperbacks,paperbacks read week,8,0,new | new paperbacks | paperbacks,paperbacks | paperbacks read | read | read week | week,paperbacks,1
+new paperbacks read,read week,8,0,new | new paperbacks | paperbacks | paperbacks read | read,read | read week | week,read,1
+war ii,world war,8,0,ii | war | war ii,war | world | world war,war,1
+11 2001,sept 11,7,0,11 | 11 2001 | 2001,11 | sept | sept 11,11,1
+11 case,sept 11,7,0,11 | 11 case | case,11 | sept | sept 11,11,1
+album cowboy,cowboy carter,7,0,album | album cowboy | cowboy,carter | cowboy | cowboy carter,cowboy,1
+asylum seekers,seekers rwanda,7,0,asylum | asylum seekers | seekers,rwanda | seekers | seekers rwanda,seekers,1
+barclay opinion,eliza barclay,7,0,barclay | barclay opinion | opinion,barclay | eliza | eliza barclay,barclay,1
+barclay opinion,note eliza barclay,7,0,barclay | barclay opinion | opinion,barclay | eliza | eliza barclay | note | note eliza,barclay,1
+barclay opinion,opinion climate,7,0,barclay | barclay opinion | opinion,climate | opinion | opinion climate,opinion,1
+barclay opinion,opinion climate editor,7,0,barclay | barclay opinion | opinion,climate | climate editor | editor | opinion | opinion climate,opinion,1
+barclay opinion climate,climate editor,7,0,barclay | barclay opinion | climate | opinion | opinion climate,climate | climate editor | editor,climate,1
+barclay opinion climate,eliza barclay,7,0,barclay | barclay opinion | climate | opinion | opinion climate,barclay | eliza | eliza barclay,barclay,1
+barclay opinion climate,note eliza barclay,7,0,barclay | barclay opinion | climate | opinion | opinion climate,barclay | eliza | eliza barclay | note | note eliza,barclay,1
+bold ideas,exploring bold,7,0,bold | bold ideas | ideas,bold | exploring | exploring bold,bold,1
+bold ideas,ideas secure,7,0,bold | bold ideas | ideas,ideas | ideas secure | secure,ideas,1
+bold ideas,ideas secure food,7,0,bold | bold ideas | ideas,food | ideas | ideas secure | secure | secure food,ideas,1
+bold ideas,series exploring bold,7,0,bold | bold ideas | ideas,bold | exploring | exploring bold | series | series exploring,bold,1
+bold ideas secure,exploring bold,7,0,bold | bold ideas | ideas | ideas secure | secure,bold | exploring | exploring bold,bold,1
+bold ideas secure,secure food,7,0,bold | bold ideas | ideas | ideas secure | secure,food | secure | secure food,secure,1
+bold ideas secure,secure food supply,7,0,bold | bold ideas | ideas | ideas secure | secure,food | food supply | secure | secure food | supply,secure,1
+bold ideas secure,series exploring bold,7,0,bold | bold ideas | ideas | ideas secure | secure,bold | exploring | exploring bold | series | series exploring,bold,1
+burning planet,planet series,7,0,burning | burning planet | planet,planet | planet series | series,planet,1
+burning planet,planet series exploring,7,0,burning | burning planet | planet,exploring | planet | planet series | series | series exploring,planet,1
+burning planet series,eat burning,7,0,burning | burning planet | planet | planet series | series,burning | eat | eat burning,burning,1
+burning planet series,series exploring,7,0,burning | burning planet | planet | planet series | series,exploring | series | series exploring,series,1
+burning planet series,series exploring bold,7,0,burning | burning planet | planet | planet series | series,bold | exploring | exploring bold | series | series exploring,series,1
+chinese electric,electric vehicles,7,0,chinese | chinese electric | electric,electric | electric vehicles | vehicles,electric,1
+climate change,combat climate,7,0,change | climate | climate change,climate | combat | combat climate,climate,1
+climate change,global climate,7,0,change | climate | climate change,climate | global | global climate,climate,1
+climate editor,opinion climate,7,0,climate | climate editor | editor,climate | opinion | opinion climate,climate,1
+eat burning planet,planet series,7,0,burning | burning planet | eat | eat burning | planet,planet | planet series | series,planet,1
+eat burning planet,planet series exploring,7,0,burning | burning planet | eat | eat burning | planet,exploring | planet | planet series | series | series exploring,planet,1
+electric vehicles,tariffs electric,7,0,electric | electric vehicles | vehicles,electric | tariffs | tariffs electric,electric,1
+eliza barclay,note eliza,7,0,barclay | eliza | eliza barclay,eliza | note | note eliza,eliza,1
+eliza barclay,project note eliza,7,0,barclay | eliza | eliza barclay,eliza | note | note eliza | project | project note,eliza,1
+eliza barclay opinion,note eliza,7,0,barclay | barclay opinion | eliza | eliza barclay | opinion,eliza | note | note eliza,eliza,1
+eliza barclay opinion,opinion climate,7,0,barclay | barclay opinion | eliza | eliza barclay | opinion,climate | opinion | opinion climate,opinion,1
+eliza barclay opinion,opinion climate editor,7,0,barclay | barclay opinion | eliza | eliza barclay | opinion,climate | climate editor | editor | opinion | opinion climate,opinion,1
+eliza barclay opinion,project note eliza,7,0,barclay | barclay opinion | eliza | eliza barclay | opinion,eliza | note | note eliza | project | project note,eliza,1
+exploring bold,planet series exploring,7,0,bold | exploring | exploring bold,exploring | planet | planet series | series | series exploring,exploring,1
+exploring bold,series exploring,7,0,bold | exploring | exploring bold,exploring | series | series exploring,exploring,1
+exploring bold ideas,ideas secure,7,0,bold | bold ideas | exploring | exploring bold | ideas,ideas | ideas secure | secure,ideas,1
+exploring bold ideas,ideas secure food,7,0,bold | bold ideas | exploring | exploring bold | ideas,food | ideas | ideas secure | secure | secure food,ideas,1
+exploring bold ideas,planet series exploring,7,0,bold | bold ideas | exploring | exploring bold | ideas,exploring | planet | planet series | series | series exploring,exploring,1
+exploring bold ideas,series exploring,7,0,bold | bold ideas | exploring | exploring bold | ideas,exploring | series | series exploring,exploring,1
+far right,right national rally,7,0,far | far right | right,national | national rally | rally | right | right national,right,1
+far right national,national rally,7,0,far | far right | national | right | right national,national | national rally | rally,national,1
+follow live,live updates,7,0,follow | follow live | live,live | live updates | updates,live,1
+food supply,ideas secure food,7,0,food | food supply | supply,food | ideas | ideas secure | secure | secure food,food,1
+food supply,secure food,7,0,food | food supply | supply,food | secure | secure food,food,1
+food supply,supply read,7,0,food | food supply | supply,read | supply | supply read,supply,1
+food supply,supply read project,7,0,food | food supply | supply,project | read | read project | supply | supply read,supply,1
+food supply read,ideas secure food,7,0,food | food supply | read | supply | supply read,food | ideas | ideas secure | secure | secure food,food,1
+food supply read,read project,7,0,food | food supply | read | supply | supply read,project | read | read project,read,1
+food supply read,read project note,7,0,food | food supply | read | supply | supply read,note | project | project note | read | read project,read,1
+food supply read,secure food,7,0,food | food supply | read | supply | supply read,food | secure | secure food,food,1
+four years,years ago,7,0,four | four years | years,ago | years | years ago,years,1
+gaza city,northern gaza,7,0,city | gaza | gaza city,gaza | northern | northern gaza,gaza,1
+ideas secure,secure food,7,0,ideas | ideas secure | secure,food | secure | secure food,secure,1
+ideas secure,secure food supply,7,0,ideas | ideas secure | secure,food | food supply | secure | secure food | supply,secure,1
+interest rate,rate cut,7,0,interest | interest rate | rate,cut | rate | rate cut,rate,1
+israel military,israeli military said,7,0,israel | israel military | military,israeli | israeli military | military,military,1
+israeli airstrike,israeli military,7,0,airstrike | israeli | israeli airstrike,israeli | israeli military | military,israeli,1
+israeli airstrikes,killed israeli,7,0,airstrikes | israeli | israeli airstrikes,israeli | killed | killed israeli,israeli,1
+israeli forces,killed israeli,7,0,forces | israeli | israeli forces,israeli | killed | killed israeli,israeli,1
+israeli strike,killed israeli,7,0,israeli | israeli strike | strike,israeli | killed | killed israeli,israeli,1
+japan nippon,nippon steel,7,0,japan | japan nippon | nippon,nippon | nippon steel | steel,nippon,1
+national rally,right national,7,0,national | national rally | rally,national | right | right national,national,1
+note eliza,project note,7,0,eliza | note | note eliza,note | project | project note,note,1
+note eliza,read project note,7,0,eliza | note | note eliza,note | project | project note | read | read project,note,1
+note eliza barclay,project note,7,0,barclay | eliza | eliza barclay | note | note eliza,note | project | project note,note,1
+note eliza barclay,read project note,7,0,barclay | eliza | eliza barclay | note | note eliza,note | project | project note | read | read project,note,1
+officials said,officials say,7,0,officials,officials,officials,1
+officials say,ukrainian officials,7,0,officials,officials | ukrainian | ukrainian officials,officials,1
+part series,reflection part,7,0,part | part series | series,part | reflection | reflection part,part,1
+part series called,reflection part,7,0,called | part | part series | series | series called,part | reflection | reflection part,part,1
+personal reflection,reflection part,7,0,personal | personal reflection | reflection,part | reflection | reflection part,reflection,1
+planet series,series exploring,7,0,planet | planet series | series,exploring | series | series exploring,series,1
+planet series,series exploring bold,7,0,planet | planet series | series,bold | exploring | exploring bold | series | series exploring,series,1
+project note,read project,7,0,note | project | project note,project | read | read project,project,1
+project note,supply read project,7,0,note | project | project note,project | read | read project | supply | supply read,project,1
+project note eliza,read project,7,0,eliza | note | note eliza | project | project note,project | read | read project,project,1
+project note eliza,supply read project,7,0,eliza | note | note eliza | project | project note,project | read | read project | supply | supply read,project,1
+read project,supply read,7,0,project | read | read project,read | supply | supply read,read,1
+read project note,supply read,7,0,note | project | project note | read | read project,read | supply | supply read,read,1
+russia ukraine,ukraine war,7,0,russia | russia ukraine | ukraine,ukraine | ukraine war | war,ukraine,1
+secure food supply,supply read,7,0,food | food supply | secure | secure food | supply,read | supply | supply read,supply,1
+secure food supply,supply read project,7,0,food | food supply | secure | secure food | supply,project | read | read project | supply | supply read,supply,1
+23 chinese swimmers,swimmers tested positive,6,0,23 | 23 chinese | chinese | chinese swimmers | swimmers,positive | swimmers | swimmers tested | tested | tested positive,swimmers,1
+23 elite,elite chinese,6,0,23 | 23 elite | elite,chinese | elite | elite chinese,elite,1
+23 elite,elite chinese swimmers,6,0,23 | 23 elite | elite,chinese | chinese swimmers | elite | elite chinese | swimmers,elite,1
+23 elite chinese,chinese swimmers,6,0,23 | 23 elite | chinese | elite | elite chinese,chinese | chinese swimmers | swimmers,chinese,1
+abortion ban,anti abortion,6,0,abortion | abortion ban | ban,abortion | anti | anti abortion,abortion,1
+abortion bans,right abortion,6,0,abortion | abortion bans | bans,abortion | right | right abortion,abortion,1
+abortion pill,abortion pills,6,0,abortion | abortion pill | pill,abortion | abortion pills | pills,abortion,1
+african nation,west african,6,0,african | african nation | nation,african | west | west african,african,1
+alternative germany,germany party,6,0,alternative | alternative germany | germany,germany | germany party | party,germany,1
+alternative germany,right alternative,6,0,alternative | alternative germany | germany,alternative | right | right alternative,alternative,1
+attack israel,israel hamas,6,0,attack | attack israel | israel,hamas | israel | israel hamas,israel,1
+automobile workers,workers union,6,0,automobile | automobile workers | workers,union | workers | workers union,workers,1
+bank england,central bank,6,0,bank | bank england | england,bank | central | central bank,bank,1
+biden administration,president biden,6,0,administration | biden | biden administration,biden | president | president biden,biden,1
+biden administration,president biden,6,0,administration | biden | biden administration,biden | president | president biden,biden,1
+biden administration,trump administration,6,0,administration | biden | biden administration,administration | trump | trump administration,administration,1
+book review,review including,6,0,book | book review | review,including | review | review including,review,1
+book review,review including titles,6,0,book | book review | review,including | including titles | review | review including | titles,review,1
+book review including,including titles,6,0,book | book review | including | review | review including,including | including titles | titles,including,1
+burning planet,part eat burning,6,0,burning | burning planet | planet,burning | eat | eat burning | part | part eat,burning,1
+burning planet series,part eat burning,6,0,burning | burning planet | planet | planet series | series,burning | eat | eat burning | part | part eat,burning,1
+chinese doping,doping case,6,0,chinese | chinese doping | doping,case | doping | doping case,doping,1
+chinese electric,tariffs chinese,6,0,chinese | chinese electric | electric,chinese | tariffs | tariffs chinese,chinese,1
+chinese swimmers tested,elite chinese,6,0,chinese | chinese swimmers | swimmers | swimmers tested | tested,chinese | elite | elite chinese,chinese,1
+climate activists,climate change,6,0,activists | climate | climate activists,change | climate | climate change,climate,1
+congestion pricing,pricing plan,6,0,congestion | congestion pricing | pricing,plan | pricing | pricing plan,pricing,1
+consumer financial,financial protection,6,0,consumer | consumer financial | financial,financial | financial protection | protection,financial,1
+consumer financial,financial protection bureau,6,0,consumer | consumer financial | financial,bureau | financial | financial protection | protection | protection bureau,financial,1
+consumer financial protection,protection bureau,6,0,consumer | consumer financial | financial | financial protection | protection,bureau | protection | protection bureau,protection,1
+eat burning,part eat,6,0,burning | eat | eat burning,eat | part | part eat,eat,1
+eat burning planet,part eat,6,0,burning | burning planet | eat | eat burning | planet,eat | part | part eat,eat,1
+elite chinese swimmers,swimmers tested,6,0,chinese | chinese swimmers | elite | elite chinese | swimmers,swimmers | swimmers tested | tested,swimmers,1
+financial protection,protection bureau,6,0,financial | financial protection | protection,bureau | protection | protection bureau,protection,1
+gaza israel,israel military,6,0,gaza | gaza israel | israel,israel | israel military | military,israel,1
+gaza israel,israel said,6,0,gaza | gaza israel | israel,israel,israel,1
+hamas led,israel hamas,6,0,hamas | hamas led | led,hamas | israel | israel hamas,hamas,1
+including titles,review including,6,0,including | including titles | titles,including | review | review including,including,1
+interest rate cuts,rate cut,6,0,cuts | interest | interest rate | rate | rate cuts,cut | rate | rate cut,rate,1
+israeli airstrike,killed israeli,6,0,airstrike | israeli | israeli airstrike,israeli | killed | killed israeli,israeli,1
+israeli airstrikes,israeli military,6,0,airstrikes | israeli | israeli airstrikes,israeli | israeli military | military,israeli,1
+khalid shaikh,shaikh mohammed,6,0,khalid | khalid shaikh | shaikh,mohammed | shaikh | shaikh mohammed,shaikh,1
+loss drugs,weight loss,6,0,drugs | loss | loss drugs,loss | weight | weight loss,loss,1
+mr maduro,nicolás maduro,6,0,maduro | mr | mr maduro,maduro | nicol | nicol maduro,maduro,1
+seekers rwanda,send asylum seekers,6,0,rwanda | seekers | seekers rwanda,asylum | asylum seekers | seekers | send | send asylum,seekers,1
+three years,years ago,6,0,three | three years | years,ago | years | years ago,years,1
+trade war,war china,6,0,trade | trade war | war,china | war | war china,war,1
+trump said,trump trump,6,0,trump,trump | trump trump,trump,1
+two years,years ago,6,0,two | two years | years,ago | years | years ago,years,1
+war gaza,war israel,6,0,gaza | war | war gaza,israel | war | war israel,war,1
+abortion access,abortion rights,5,0,abortion | abortion access | access,abortion | abortion rights | rights,abortion,1
+abortion pill,anti abortion,5,0,abortion | abortion pill | pill,abortion | anti | anti abortion,abortion,1
+african national,national congress,5,0,african | african national | national,congress | national | national congress,national,1
+assange wikileaks,julian assange,5,0,assange | assange wikileaks | wikileaks,assange | julian | julian assange,assange,1
+assange wikileaks,wikileaks founder,5,0,assange | assange wikileaks | wikileaks,founder | wikileaks | wikileaks founder,wikileaks,1
+assange wikileaks founder,julian assange,5,0,assange | assange wikileaks | founder | wikileaks | wikileaks founder,assange | julian | julian assange,assange,1
+attack israel,israel military,5,0,attack | attack israel | israel,israel | israel military | military,israel,1
+attack israel,israel said,5,0,attack | attack israel | israel,israel,israel,1
+au prince,port au,5,0,au | au prince | prince,au | port | port au,au,1
+benefit managers,pharmacy benefit,5,0,benefit | benefit managers | managers,benefit | pharmacy | pharmacy benefit,benefit,1
+biden administration,president biden,5,0,administration | biden | biden administration,biden | president | president biden,biden,1
+biden administration,president biden,5,0,administration | biden | biden administration,biden | president | president biden,biden,1
+chief executive,unitedhealthcare chief,5,0,chief | chief executive | executive,chief | unitedhealthcare | unitedhealthcare chief,chief,1
+chinese communist,communist party,5,0,chinese | chinese communist | communist,communist | communist party | party,communist,1
+chinese doping,chinese swimmers,5,0,chinese | chinese doping | doping,chinese | chinese swimmers | swimmers,chinese,1
+chinese doping,chinese swimmers tested,5,0,chinese | chinese doping | doping,chinese | chinese swimmers | swimmers | swimmers tested | tested,chinese,1
+chinese doping case,chinese swimmers,5,0,case | chinese | chinese doping | doping | doping case,chinese | chinese swimmers | swimmers,chinese,1
+chinese doping case,chinese swimmers tested,5,0,case | chinese | chinese doping | doping | doping case,chinese | chinese swimmers | swimmers | swimmers tested | tested,chinese,1
+climate change,climate summit,5,0,change | climate | climate change,climate | climate summit | summit,climate,1
+climate change,nations climate,5,0,change | climate | climate change,climate | nations | nations climate,climate,1
+climate change,united nations climate,5,0,change | climate | climate change,climate | nations | nations climate | united | united nations,climate,1
+climate talks,global climate,5,0,climate | climate talks | talks,climate | global | global climate,climate,1
+climate talks,nations climate,5,0,climate | climate talks | talks,climate | nations | nations climate,climate,1
+climate talks,united nations climate,5,0,climate | climate talks | talks,climate | nations | nations climate | united | united nations,climate,1
+electric cars,tariffs electric,5,0,cars | electric | electric cars,electric | tariffs | tariffs electric,electric,1
+far right,right alternative,5,0,far | far right | right,alternative | right | right alternative,right,1
+far right,right alternative germany,5,0,far | far right | right,alternative | alternative germany | germany | right | right alternative,right,1
+gaza israel,gaza strip,5,0,gaza | gaza israel | israel,gaza | gaza strip | strip,gaza,1
+gaza israel,israel hamas,5,0,gaza | gaza israel | israel,hamas | israel | israel hamas,israel,1
+gaza israel,war gaza,5,0,gaza | gaza israel | israel,gaza | war | war gaza,gaza,1
+heat wave,heat waves,5,0,heat | heat wave | wave,heat | heat waves | waves,heat,1
+hochul new,new york,5,0,hochul | hochul new | new,new | new york | york,new,1
+hong kong,kong intelligence,5,0,hong | hong kong | kong,intelligence | kong | kong intelligence,kong,1
+hong kong,kong intelligence service,5,0,hong | hong kong | kong,intelligence | intelligence service | kong | kong intelligence | service,kong,1
+hong kong intelligence,intelligence service,5,0,hong | hong kong | intelligence | kong | kong intelligence,intelligence | intelligence service | service,intelligence,1
+india prime,prime minister,5,0,india | india prime | prime,minister | prime | prime minister,prime,1
+intelligence service,kong intelligence,5,0,intelligence | intelligence service | service,intelligence | kong | kong intelligence,intelligence,1
+israeli military said,killed israeli,5,0,israeli | israeli military | military,israeli | killed | killed israeli,israeli,1
+julian assange wikileaks,wikileaks founder,5,0,assange | assange wikileaks | julian | julian assange | wikileaks,founder | wikileaks | wikileaks founder,wikileaks,1
+justin trudeau,trudeau canada,5,0,justin | justin trudeau | trudeau,canada | trudeau | trudeau canada,trudeau,1
+justin trudeau,trudeau trudeau canada,5,0,justin | justin trudeau | trudeau,canada | trudeau | trudeau canada | trudeau trudeau,trudeau,1
+justin trudeau trudeau,trudeau canada,5,0,justin | justin trudeau | trudeau | trudeau trudeau,canada | trudeau | trudeau canada,trudeau,1
+kathy hochul new,new york,5,0,hochul | hochul new | kathy | kathy hochul | new,new | new york | york,new,1
+metropolitan transportation,transportation authority,5,0,metropolitan | metropolitan transportation | transportation,authority | transportation | transportation authority,transportation,1
+minister rishi,prime minister,5,0,minister | minister rishi | rishi,minister | prime | prime minister,minister,1
+minister rishi,rishi sunak,5,0,minister | minister rishi | rishi,rishi | rishi sunak | sunak,rishi,1
+minister rishi sunak,prime minister,5,0,minister | minister rishi | rishi | rishi sunak | sunak,minister | prime | prime minister,minister,1
+mr trump,trump said,5,0,mr | mr trump | trump,trump,trump,1
+mr trump,trump trump,5,0,mr | mr trump | trump,trump | trump trump,trump,1
+new books,new york,5,0,books | new | new books,new | new york | york,new,1
+percent year,year earlier,5,0,percent | percent year | year,earlier | year | year earlier,year,1
+president biden,president elect,5,0,biden | president | president biden,elect | president | president elect,president,1
+presidential election,venezuela presidential,5,0,election | presidential | presidential election,presidential | venezuela | venezuela presidential,presidential,1
+prime justin trudeau,trudeau canada,5,0,justin | justin trudeau | prime | prime justin | trudeau,canada | trudeau | trudeau canada,trudeau,1
+prime justin trudeau,trudeau trudeau canada,5,0,justin | justin trudeau | prime | prime justin | trudeau,canada | trudeau | trudeau canada | trudeau trudeau,trudeau,1
+prime minister rishi,rishi sunak,5,0,minister | minister rishi | prime | prime minister | rishi,rishi | rishi sunak | sunak,rishi,1
+race massacre,tulsa race,5,0,massacre | race | race massacre,race | tulsa | tulsa race,race,1
+rates steady,rates unchanged,5,0,rates | rates steady | steady,rates | rates unchanged | unchanged,rates,1
+storm debby,tropical storm,5,0,debby | storm | storm debby,storm | tropical | tropical storm,storm,1
+trudeau canada,trudeau trudeau,5,0,canada | trudeau | trudeau canada,trudeau | trudeau trudeau,trudeau,1
+23 elite chinese,chinese swimmers tested,4,0,23 | 23 elite | chinese | elite | elite chinese,chinese | chinese swimmers | swimmers | swimmers tested | tested,chinese,1
+23 swimmers,swimmers tested positive,4,0,23 | 23 swimmers | swimmers,positive | swimmers | swimmers tested | tested | tested positive,swimmers,1
+action lawsuit,class action,4,0,action | action lawsuit | lawsuit,action | class | class action,action,1
+alternative germany party,right alternative,4,0,alternative | alternative germany | germany | germany party | party,alternative | right | right alternative,alternative,1
+archegos capital,capital management,4,0,archegos | archegos capital | capital,capital | capital management | management,capital,1
+attack israel,israel war,4,0,attack | attack israel | israel,israel | israel war | war,israel,1
+austin iii,lloyd austin,4,0,austin | austin iii | iii,austin | lloyd | lloyd austin,austin,1
+austin iii,secretary lloyd austin,4,0,austin | austin iii | iii,austin | lloyd | lloyd austin | secretary | secretary lloyd,austin,1
+authoritarian president,president nicolás,4,0,authoritarian | authoritarian president | president,nicol | president | president nicol,president,1
+canadian elections,interference canadian,4,0,canadian | canadian elections | elections,canadian | interference | interference canadian,canadian,1
+central bankers,european central bank,4,0,bankers | central | central bankers,bank | central | central bank | european | european central,central,1
+climate change,climate crisis,4,0,change | climate | climate change,climate | climate crisis | crisis,climate,1
+climate change,climate policy,4,0,change | climate | climate change,climate | climate policy | policy,climate,1
+climate change,climate talks,4,0,change | climate | climate change,climate | climate talks | talks,climate,1
+climate summit,nations climate,4,0,climate | climate summit | summit,climate | nations | nations climate,climate,1
+climate summit,united nations climate,4,0,climate | climate summit | summit,climate | nations | nations climate | united | united nations,climate,1
+cut interest rates,interest rate,4,0,cut | cut interest | interest | interest rates | rates,interest | interest rate | rate,interest,1
+cut rates,lower interest rates,4,0,cut | cut rates | rates,interest | interest rates | lower | lower interest | rates,rates,1
+cut rates,rate cut,4,0,cut | cut rates | rates,cut | rate | rate cut,cut,1
+defense secretary,secretary lloyd,4,0,defense | defense secretary | secretary,lloyd | secretary | secretary lloyd,secretary,1
+defense secretary,secretary lloyd austin,4,0,defense | defense secretary | secretary,austin | lloyd | lloyd austin | secretary | secretary lloyd,secretary,1
+defense secretary lloyd,lloyd austin,4,0,defense | defense secretary | lloyd | secretary | secretary lloyd,austin | lloyd | lloyd austin,lloyd,1
+extreme heat,heat wave,4,0,extreme | extreme heat | heat,heat | heat wave | wave,heat,1
+extreme heat,heat waves,4,0,extreme | extreme heat | heat,heat | heat waves | waves,heat,1
+federal reserve officials,powell chair federal,4,0,federal | federal reserve | officials | reserve | reserve officials,chair | chair federal | federal | powell | powell chair,federal,1
+federal rule,new federal,4,0,federal | federal rule | rule,federal | new | new federal,federal,1
+first term,second term,4,0,first | first term | term,second | second term | term,term,1
+foreign interference,interference canadian,4,0,foreign | foreign interference | interference,canadian | interference | interference canadian,interference,1
+former president,president biden,4,0,former | former president | president,biden | president | president biden,president,1
+fossil fuel,fossil fuels,4,0,fossil | fossil fuel | fuel,fossil | fossil fuels | fuels,fossil,1
+gaza city,gaza strip,4,0,city | gaza | gaza city,gaza | gaza strip | strip,gaza,1
+gaza israel,northern gaza,4,0,gaza | gaza israel | israel,gaza | northern | northern gaza,gaza,1
+gaza war,israel war,4,0,gaza | gaza war | war,israel | israel war | war,war,1
+germany party,right alternative germany,4,0,germany | germany party | party,alternative | alternative germany | germany | right | right alternative,germany,1
+global warming,planet warming,4,0,global | global warming | warming,planet | planet warming | warming,warming,1
+holiday shopping,shopping season,4,0,holiday | holiday shopping | shopping,season | shopping | shopping season,shopping,1
+interest rates,mortgage rates,4,0,interest | interest rates | rates,mortgage | mortgage rates | rates,rates,1
+israel hamas,israel said,4,0,hamas | israel | israel hamas,israel,israel,1
+israeli airstrike,israeli military said,4,0,airstrike | israeli | israeli airstrike,israeli | israeli military | military,israeli,1
+israeli officials,israeli strike,4,0,israeli | israeli officials | officials,israeli | israeli strike | strike,israeli,1
+israeli soccer,soccer match,4,0,israeli | israeli soccer | soccer,match | soccer | soccer match,soccer,1
+israeli soccer fans,soccer match,4,0,fans | israeli | israeli soccer | soccer | soccer fans,match | soccer | soccer match,soccer,1
+job market,labor market,4,0,job | job market | market,labor | labor market | market,market,1
+kenyan police,police officers,4,0,kenyan | kenyan police | police,officers | police | police officers,police,1
+league baseball,major league,4,0,baseball | league | league baseball,league | major | major league,league,1
+lloyd austin,secretary lloyd,4,0,austin | lloyd | lloyd austin,lloyd | secretary | secretary lloyd,lloyd,1
+national security,security law,4,0,national | national security | security,law | security | security law,security,1
+new study,study finds,4,0,new | new study | study,finds | study | study finds,study,1
+new tariffs,tariffs chinese,4,0,new | new tariffs | tariffs,chinese | tariffs | tariffs chinese,tariffs,1
+nuclear power,power plants,4,0,nuclear | nuclear power | power,plants | power | power plants,power,1
+positive powerful,swimmers tested positive,4,0,positive | positive powerful | powerful,positive | swimmers | swimmers tested | tested | tested positive,positive,1
+positive powerful banned,swimmers tested positive,4,0,banned | positive | positive powerful | powerful | powerful banned,positive | swimmers | swimmers tested | tested | tested positive,positive,1
+president william,william ruto,4,0,president | president william | william,ruto | william | william ruto,william,1
+prime justin,prime minister,4,0,justin | prime | prime justin,minister | prime | prime minister,prime,1
+prime justin trudeau,prime minister,4,0,justin | justin trudeau | prime | prime justin | trudeau,minister | prime | prime minister,prime,1
+russia ukraine,war russia,4,0,russia | russia ukraine | ukraine,russia | war | war russia,russia,1
+russian forces,ukrainian forces,4,0,forces | russian | russian forces,forces | ukrainian | ukrainian forces,forces,1
+soccer fans,soccer match,4,0,fans | soccer | soccer fans,match | soccer | soccer match,soccer,1
+street banks,wall street,4,0,banks | street | street banks,street | wall | wall street,street,1
+trump administration,trump trump,4,0,administration | trump | trump administration,trump | trump trump,trump,1
+23 chinese,chinese doping,3,0,23 | 23 chinese | chinese,chinese | chinese doping | doping,chinese,1
+23 chinese,chinese doping case,3,0,23 | 23 chinese | chinese,case | chinese | chinese doping | doping | doping case,chinese,1
+23 chinese,chinese swimmers,3,0,23 | 23 chinese | chinese,chinese | chinese swimmers | swimmers,chinese,1
+23 chinese,chinese swimmers tested,3,0,23 | 23 chinese | chinese,chinese | chinese swimmers | swimmers | swimmers tested | tested,chinese,1
+23 chinese swimmers,chinese doping,3,0,23 | 23 chinese | chinese | chinese swimmers | swimmers,chinese | chinese doping | doping,chinese,1
+23 chinese swimmers,chinese doping case,3,0,23 | 23 chinese | chinese | chinese swimmers | swimmers,case | chinese | chinese doping | doping | doping case,chinese,1
+23 chinese swimmers,swimmers tested,3,0,23 | 23 chinese | chinese | chinese swimmers | swimmers,swimmers | swimmers tested | tested,swimmers,1
+abortion access,abortion ban,3,0,abortion | abortion access | access,abortion | abortion ban | ban,abortion,1
+abortion bans,anti abortion,3,0,abortion | abortion bans | bans,abortion | anti | anti abortion,abortion,1
+abortion pill,abortion rights,3,0,abortion | abortion pill | pill,abortion | abortion rights | rights,abortion,1
+according new,new research,3,0,according | according new | new,new | new research | research,new,1
+according new,new study,3,0,according | according new | new,new | new study | study,new,1
+accused mastermind,man accused,3,0,accused | accused mastermind | mastermind,accused | man | man accused,accused,1
+accused plotting,man accused,3,0,accused | accused plotting | plotting,accused | man | man accused,accused,1
+analytics firm,data analytics,3,0,analytics | analytics firm | firm,analytics | data | data analytics,analytics,1
+anti doping,doping case,3,0,anti | anti doping | doping,case | doping | doping case,doping,1
+anti doping agency,doping case,3,0,agency | anti | anti doping | doping | doping agency,case | doping | doping case,doping,1
+antidoping regulator,global antidoping,3,0,antidoping | antidoping regulator | regulator,antidoping | global | global antidoping,antidoping,1
+assisting hong,hong kong,3,0,assisting | assisting hong | hong,hong | hong kong | kong,hong,1
+assisting hong,hong kong intelligence,3,0,assisting | assisting hong | hong,hong | hong kong | intelligence | kong | kong intelligence,hong,1
+black men,black voters,3,0,black | black men | men,black | black voters | voters,black,1
+card late,credit card,3,0,card | card late | late,card | credit | credit card,card,1
+card late,late fees,3,0,card | card late | late,fees | late | late fees,late,1
+central bank,central bankers,3,0,bank | central | central bank,bankers | central | central bankers,central,1
+child labor,labor department,3,0,child | child labor | labor,department | labor | labor department,labor,1
+chinese electric,electric cars,3,0,chinese | chinese electric | electric,cars | electric | electric cars,electric,1
+chip manufacturing,semiconductor manufacturing,3,0,chip | chip manufacturing | manufacturing,manufacturing | semiconductor | semiconductor manufacturing,manufacturing,1
+climate summit,climate talks,3,0,climate | climate summit | summit,climate | climate talks | talks,climate,1
+credit card late,late fees,3,0,card | card late | credit | credit card | late,fees | late | late fees,late,1
+cut rates,cutting interest rates,3,0,cut | cut rates | rates,cutting | cutting interest | interest | interest rates | rates,rates,1
+democracy activists,pro democracy,3,0,activists | democracy | democracy activists,democracy | pro | pro democracy,democracy,1
+doping agency,doping case,3,0,agency | doping | doping agency,case | doping | doping case,doping,1
+doping case,world anti doping,3,0,case | doping | doping case,anti | anti doping | doping | world | world anti,doping,1
+drove vehicle,man drove,3,0,drove | drove vehicle | vehicle,drove | man | man drove,drove,1
+drove vehicle,vehicle crowd,3,0,drove | drove vehicle | vehicle,crowd | vehicle | vehicle crowd,vehicle,1
+drove vehicle crowd,man drove,3,0,crowd | drove | drove vehicle | vehicle | vehicle crowd,drove | man | man drove,drove,1
+eastern ukraine,ukraine war,3,0,eastern | eastern ukraine | ukraine,ukraine | ukraine war | war,ukraine,1
+electric car,electric cars,3,0,car | electric | electric car,cars | electric | electric cars,electric,1
+electric car,electric vehicles,3,0,car | electric | electric car,electric | electric vehicles | vehicles,electric,1
+end war,ukraine war,3,0,end | end war | war,ukraine | ukraine war | war,war,1
+end war,war russia,3,0,end | end war | war,russia | war | war russia,war,1
+entertainment concert,live nation entertainment,3,0,concert | entertainment | entertainment concert,entertainment | live | live nation | nation | nation entertainment,entertainment,1
+entertainment concert,nation entertainment,3,0,concert | entertainment | entertainment concert,entertainment | nation | nation entertainment,entertainment,1
+european parliament,european union,3,0,european | european parliament | parliament,european | european union | union,european,1
+far right,hard right,3,0,far | far right | right,hard | hard right | right,right,1
+fatal shooting,shooting black,3,0,fatal | fatal shooting | shooting,black | shooting | shooting black,shooting,1
+gaza israel,gaza war,3,0,gaza | gaza israel | israel,gaza | gaza war | war,gaza,1
+gaza israel,southern gaza,3,0,gaza | gaza israel | israel,gaza | southern | southern gaza,gaza,1
+gaza strip,gaza war,3,0,gaza | gaza strip | strip,gaza | gaza war | war,gaza,1
+gaza war,war israel,3,0,gaza | gaza war | war,israel | war | war israel,war,1
+global climate,nations climate,3,0,climate | global | global climate,climate | nations | nations climate,climate,1
+global climate,united nations climate,3,0,climate | global | global climate,climate | nations | nations climate | united | united nations,climate,1
+invasion ukraine,ukraine war,3,0,invasion | invasion ukraine | ukraine,ukraine | ukraine war | war,ukraine,1
+israel hezbollah,israel military,3,0,hezbollah | israel | israel hezbollah,israel | israel military | military,israel,1
+israel hezbollah,israel war,3,0,hezbollah | israel | israel hezbollah,israel | israel war | war,israel,1
+israeli airstrike,israeli airstrikes,3,0,airstrike | israeli | israeli airstrike,airstrikes | israeli | israeli airstrikes,israeli,1
+israeli airstrikes,israeli forces,3,0,airstrikes | israeli | israeli airstrikes,forces | israeli | israeli forces,israeli,1
+israeli military said,israeli officials,3,0,israeli | israeli military | military,israeli | israeli officials | officials,israeli,1
+justice department,police department,3,0,department | justice | justice department,department | police | police department,department,1
+live nation,nation entertainment,3,0,live | live nation | nation,entertainment | nation | nation entertainment,nation,1
+live nation,nation entertainment concert,3,0,live | live nation | nation,concert | entertainment | entertainment concert | nation | nation entertainment,nation,1
+losses wall,wall street,3,0,losses | losses wall | wall,street | wall | wall street,wall,1
+losses wall,wall street banks,3,0,losses | losses wall | wall,banks | street | street banks | wall | wall street,wall,1
+losses wall street,street banks,3,0,losses | losses wall | street | wall | wall street,banks | street | street banks,street,1
+man drove vehicle,vehicle crowd,3,0,drove | drove vehicle | man | man drove | vehicle,crowd | vehicle | vehicle crowd,vehicle,1
+mays died,willie mays,3,0,died | mays | mays died,mays | willie | willie mays,mays,1
+millions dollars,tens millions,3,0,dollars | millions | millions dollars,millions | tens | tens millions,millions,1
+national security,security trial,3,0,national | national security | security,security | security trial | trial,security,1
+new york,new yorkers,3,0,new | new york | york,new | new yorkers | yorkers,new,1
+olympics opening,opening ceremony,3,0,olympics | olympics opening | opening,ceremony | opening | opening ceremony,opening,1
+percent year,rose percent,3,0,percent | percent year | year,percent | rose | rose percent,percent,1
+positive banned,positive tests,3,0,banned | positive | positive banned,positive | positive tests | tests,positive,1
+positive banned drug,positive tests,3,0,banned | banned drug | drug | positive | positive banned,positive | positive tests | tests,positive,1
+positive tests,tested positive banned,3,0,positive | positive tests | tests,banned | positive | positive banned | tested | tested positive,positive,1
+positive tests,tests banned,3,0,positive | positive tests | tests,banned | tests | tests banned,tests,1
+president elect,vice president,3,0,elect | president | president elect,president | vice | vice president,president,1
+support ukraine,ukraine war,3,0,support | support ukraine | ukraine,ukraine | ukraine war | war,ukraine,1
+tariffs chinese,trump tariffs,3,0,chinese | tariffs | tariffs chinese,tariffs | trump | trump tariffs,tariffs,1
+trump administration,trump said,3,0,administration | trump | trump administration,trump,trump,1
+ukrainian forces,ukrainian officials,3,0,forces | ukrainian | ukrainian forces,officials | ukrainian | ukrainian officials,ukrainian,1
+united nations,united states,3,0,nations | united | united nations,states | united | united states,united,1
+war russia,war ukraine,3,0,russia | war | war russia,ukraine | war | war ukraine,war,1
+10 billion,billion losses,2,0,10 | 10 billion | billion,billion | billion losses | losses,billion,1
+10 billion,billion year,2,0,10 | 10 billion | billion,billion | billion year | year,billion,1
+10 billion,households 10,2,0,10 | 10 billion | billion,10 | households | households 10,10,1
+10 billion,roughly 10,2,0,10 | 10 billion | billion,10 | roughly | roughly 10,10,1
+10 billion losses,losses wall,2,0,10 | 10 billion | billion | billion losses | losses,losses | losses wall | wall,losses,1
+10 billion losses,losses wall street,2,0,10 | 10 billion | billion | billion losses | losses,losses | losses wall | street | wall | wall street,losses,1
+10 billion losses,roughly 10,2,0,10 | 10 billion | billion | billion losses | losses,10 | roughly | roughly 10,10,1
+10 billion year,households 10,2,0,10 | 10 billion | billion | billion year | year,10 | households | households 10,10,1
+10 years,years prison,2,0,10 | 10 years | years,prison | years | years prison,years,1
+11 2001,11 case,2,0,11 | 11 2001 | 2001,11 | 11 case | case,11,1
+11 case,sept 11 2001,2,0,11 | 11 case | case,11 | 11 2001 | 2001 | sept | sept 11,11,1
+23 swimmers,swimmers tested,2,0,23 | 23 swimmers | swimmers,swimmers | swimmers tested | tested,swimmers,1
+accused mastermind,accused plotting,2,0,accused | accused mastermind | mastermind,accused | accused plotting | plotting,accused,1
+administration thursday,biden administration,2,0,administration | administration thursday | thursday,administration | biden | biden administration,administration,1
+alternative germany party,far right party,2,0,alternative | alternative germany | germany | germany party | party,far | far right | party | right | right party,party,1
+alternative germany party,right party,2,0,alternative | alternative germany | germany | germany party | party,party | right | right party,party,1
+analytics firm,firm helped,2,0,analytics | analytics firm | firm,firm | firm helped | helped,firm,1
+anti doping,chinese doping,2,0,anti | anti doping | doping,chinese | chinese doping | doping,doping,1
+anti doping,chinese doping case,2,0,anti | anti doping | doping,case | chinese | chinese doping | doping | doping case,doping,1
+anti doping agency,chinese doping,2,0,agency | anti | anti doping | doping | doping agency,chinese | chinese doping | doping,doping,1
+anti doping agency,chinese doping case,2,0,agency | anti | anti doping | doping | doping agency,case | chinese | chinese doping | doping | doping case,doping,1
+anti immigrant,anti immigration,2,0,anti | anti immigrant | immigrant,anti | anti immigration | immigration,anti,1
+archegos capital,collapse archegos,2,0,archegos | archegos capital | capital,archegos | collapse | collapse archegos,archegos,1
+archegos capital management,collapse archegos,2,0,archegos | archegos capital | capital | capital management | management,archegos | collapse | collapse archegos,archegos,1
+armed gangs,haiti gangs,2,0,armed | armed gangs | gangs,gangs | haiti | haiti gangs,gangs,1
+banned drug,banned substance,2,0,banned | banned drug | drug,banned | banned substance | substance,banned,1
+banned drug,positive tests banned,2,0,banned | banned drug | drug,banned | positive | positive tests | tests | tests banned,banned,1
+banned drug,tests banned,2,0,banned | banned drug | drug,banned | tests | tests banned,banned,1
+banned substance,positive banned,2,0,banned | banned substance | substance,banned | positive | positive banned,banned,1
+banned substance,positive banned drug,2,0,banned | banned substance | substance,banned | banned drug | drug | positive | positive banned,banned,1
+banned substance,positive powerful banned,2,0,banned | banned substance | substance,banned | positive | positive powerful | powerful | powerful banned,banned,1
+banned substance,powerful banned,2,0,banned | banned substance | substance,banned | powerful | powerful banned,banned,1
+banned substance,tested positive banned,2,0,banned | banned substance | substance,banned | positive | positive banned | tested | tested positive,banned,1
+became first,first black,2,0,became | became first | first,black | first | first black,first,1
+benefit managers,managers driving,2,0,benefit | benefit managers | managers,driving | managers | managers driving,managers,1
+benefit managers,managers driving drug,2,0,benefit | benefit managers | managers,driving | driving drug | drug | managers | managers driving,managers,1
+billion losses,losses wall,2,0,billion | billion losses | losses,losses | losses wall | wall,losses,1
+billion losses,losses wall street,2,0,billion | billion losses | losses,losses | losses wall | street | wall | wall street,losses,1
+billion losses,roughly 10 billion,2,0,billion | billion losses | losses,10 | 10 billion | billion | roughly | roughly 10,billion,1
+billion year,households 10 billion,2,0,billion | billion year | year,10 | 10 billion | billion | households | households 10,billion,1
+black artists,first black,2,0,artists | black | black artists,black | first | first black,black,1
+black man,shooting black,2,0,black | black man | man,black | shooting | shooting black,black,1
+black men,older black,2,0,black | black men | men,black | older | older black,black,1
+capital management,collapse archegos capital,2,0,capital | capital management | management,archegos | archegos capital | capital | collapse | collapse archegos,capital,1
+chinese athletes,chinese swimmers,2,0,athletes | chinese | chinese athletes,chinese | chinese swimmers | swimmers,chinese,1
+chinese doping,doping agency,2,0,chinese | chinese doping | doping,agency | doping | doping agency,doping,1
+chinese doping,elite chinese,2,0,chinese | chinese doping | doping,chinese | elite | elite chinese,chinese,1
+chinese doping,elite chinese swimmers,2,0,chinese | chinese doping | doping,chinese | chinese swimmers | elite | elite chinese | swimmers,chinese,1
+chinese doping,world anti doping,2,0,chinese | chinese doping | doping,anti | anti doping | doping | world | world anti,doping,1
+chinese doping case,doping agency,2,0,case | chinese | chinese doping | doping | doping case,agency | doping | doping agency,doping,1
+chinese doping case,elite chinese,2,0,case | chinese | chinese doping | doping | doping case,chinese | elite | elite chinese,chinese,1
+chinese doping case,elite chinese swimmers,2,0,case | chinese | chinese doping | doping | doping case,chinese | chinese swimmers | elite | elite chinese | swimmers,chinese,1
+chinese doping case,world anti doping,2,0,case | chinese | chinese doping | doping | doping case,anti | anti doping | doping | world | world anti,doping,1
+chinese electric,tariffs electric,2,0,chinese | chinese electric | electric,electric | tariffs | tariffs electric,electric,1
+chinese swimmers tested,tested positive powerful,2,0,chinese | chinese swimmers | swimmers | swimmers tested | tested,positive | positive powerful | powerful | tested | tested positive,tested,1
+congestion pricing plan,tolling plan,2,0,congestion | congestion pricing | plan | pricing | pricing plan,plan | tolling | tolling plan,plan,1
+consumer price,price increases,2,0,consumer | consumer price | price,increases | price | price increases,price,1
+consumer price index,price increases,2,0,consumer | consumer price | index | price | price index,increases | price | price increases,price,1
+costs millions people,drug costs,2,0,costs | costs millions | millions | millions people | people,costs | drug | drug costs,costs,1
+costs millions people,people employers government,2,0,costs | costs millions | millions | millions people | people,employers | employers government | government | people | people employers,people,1
+could save,save merchants,2,0,could | could save | save,merchants | save | save merchants,save,1
+credit card,credit cards,2,0,card | credit | credit card,cards | credit | credit cards,credit,1
+cut interest rates,cutting interest,2,0,cut | cut interest | interest | interest rates | rates,cutting | cutting interest | interest,interest,1
+cut interest rates,lower interest,2,0,cut | cut interest | interest | interest rates | rates,interest | lower | lower interest,interest,1
+cut interest rates,mortgage rates,2,0,cut | cut interest | interest | interest rates | rates,mortgage | mortgage rates | rates,rates,1
+cut rates,high interest rates,2,0,cut | cut rates | rates,high | high interest | interest | interest rates | rates,rates,1
+data analytics firm,firm helped,2,0,analytics | analytics firm | data | data analytics | firm,firm | firm helped | helped,firm,1
+democracy activist,pro democracy,2,0,activist | democracy | democracy activist,democracy | pro | pro democracy,democracy,1
+donald trump,trump administration,2,0,donald | donald trump | trump,administration | trump | trump administration,trump,1
+drug administration,food drug,2,0,administration | drug | drug administration,drug | food | food drug,drug,1
+drug costs,managers driving drug,2,0,costs | drug | drug costs,driving | driving drug | drug | managers | managers driving,drug,1
+employers government,millions people employers,2,0,employers | employers government | government,employers | millions | millions people | people | people employers,employers,1
+european leaders,european union,2,0,european | european leaders | leaders,european | european union | union,european,1
+far right,right wing,2,0,far | far right | right,right | right wing | wing,right,1
+far right national,right party,2,0,far | far right | national | right | right national,party | right | right party,right,1
+far right party,germany party,2,0,far | far right | party | right | right party,germany | germany party | party,party,1
+far right party,right national,2,0,far | far right | party | right | right party,national | right | right national,right,1
+far right party,right national rally,2,0,far | far right | party | right | right party,national | national rally | rally | right | right national,right,1
+far right party,right wing,2,0,far | far right | party | right | right party,right | right wing | wing,right,1
+federal judge,judge blocks,2,0,federal | federal judge | judge,blocks | judge | judge blocks,judge,1
+federal rule,new rule,2,0,federal | federal rule | rule,new | new rule | rule,rule,1
+federal rule,rule would,2,0,federal | federal rule | rule,rule | rule would | would,rule,1
+federal rule,rule would cap,2,0,federal | federal rule | rule,cap | rule | rule would | would | would cap,rule,1
+four years,years ago,2,0,four | four years | years,ago | years | years ago,years,1
+four years,years ago,2,0,four | four years | years,ago | years | years ago,years,1
+germany party,right party,2,0,germany | germany party | party,party | right | right party,party,1
+giant pandas,pandas china,2,0,giant | giant pandas | pandas,china | pandas | pandas china,pandas,1
+gold medal,olympic gold,2,0,gold | gold medal | medal,gold | olympic | olympic gold,gold,1
+hard right,right alternative,2,0,hard | hard right | right,alternative | right | right alternative,right,1
+hard right,right alternative germany,2,0,hard | hard right | right,alternative | alternative germany | germany | right | right alternative,right,1
+hard right,right party,2,0,hard | hard right | right,party | right | right party,right,1
+health care,mental health,2,0,care | health | health care,health | mental | mental health,health,1
+known data,little known,2,0,data | known | known data,known | little | little known,known,1
+linda sun,sun former,2,0,linda | linda sun | sun,former | sun | sun former,sun,1
+managers driving,pharmacy benefit managers,2,0,driving | managers | managers driving,benefit | benefit managers | managers | pharmacy | pharmacy benefit,managers,1
+managers driving drug,pharmacy benefit managers,2,0,driving | driving drug | drug | managers | managers driving,benefit | benefit managers | managers | pharmacy | pharmacy benefit,managers,1
+millions people,people employers government,2,0,millions | millions people | people,employers | employers government | government | people | people employers,people,1
+months tokyo,seven months,2,0,months | months tokyo | tokyo,months | seven | seven months,months,1
+new federal,new rule,2,0,federal | new | new federal,new | new rule | rule,new,1
+new federal rule,rule would,2,0,federal | federal rule | new | new federal | rule,rule | rule would | would,rule,1
+new federal rule,rule would cap,2,0,federal | federal rule | new | new federal | rule,cap | rule | rule would | would | would cap,rule,1
+new rule,rule would,2,0,new | new rule | rule,rule | rule would | would,rule,1
+new rule,rule would cap,2,0,new | new rule | rule,cap | rule | rule would | would | would cap,rule,1
+new tariffs,tariffs electric,2,0,new | new tariffs | tariffs,electric | tariffs | tariffs electric,tariffs,1
+olympics opening,paris olympics,2,0,olympics | olympics opening | opening,olympics | paris | paris olympics,olympics,1
+olympics opening ceremony,paris olympics,2,0,ceremony | olympics | olympics opening | opening | opening ceremony,olympics | paris | paris olympics,olympics,1
+paris games,paris olympics,2,0,games | paris | paris games,olympics | paris | paris olympics,paris,1
+positive powerful,powerful banned,2,0,positive | positive powerful | powerful,banned | powerful | powerful banned,powerful,1
+positive powerful,powerful banned substance,2,0,positive | positive powerful | powerful,banned | banned substance | powerful | powerful banned | substance,powerful,1
+positive tests banned,swimmers tested positive,2,0,banned | positive | positive tests | tests | tests banned,positive | swimmers | swimmers tested | tested | tested positive,positive,1
+powerful banned,tested positive powerful,2,0,banned | powerful | powerful banned,positive | positive powerful | powerful | tested | tested positive,powerful,1
+powerful banned substance,tested positive powerful,2,0,banned | banned substance | powerful | powerful banned | substance,positive | positive powerful | powerful | tested | tested positive,powerful,1
+president biden,president william,2,0,biden | president | president biden,president | president william | william,president,1
+president biden,president william ruto,2,0,biden | president | president biden,president | president william | ruto | william | william ruto,president,1
+price increases,price index,2,0,increases | price | price increases,index | price | price index,price,1
+pricing plan,tolling plan,2,0,plan | pricing | pricing plan,plan | tolling | tolling plan,plan,1
+public transit,transit system,2,0,public | public transit | transit,system | transit | transit system,transit,1
+rates steady,rates thursday,2,0,rates | rates steady | steady,rates | rates thursday | thursday,rates,1
+right national,right party,2,0,national | right | right national,party | right | right party,right,1
+right national rally,right party,2,0,national | national rally | rally | right | right national,party | right | right party,right,1
+right party,right wing,2,0,party | right | right party,right | right wing | wing,right,1
+rule would,would cap,2,0,rule | rule would | would,cap | would | would cap,would,1
+swimmers tested,tested positive powerful,2,0,swimmers | swimmers tested | tested,positive | positive powerful | powerful | tested | tested positive,tested,1
+tariffs chinese,tariffs electric,2,0,chinese | tariffs | tariffs chinese,electric | tariffs | tariffs electric,tariffs,1
+venezuela opposition,venezuela presidential,2,0,opposition | venezuela | venezuela opposition,presidential | venezuela | venezuela presidential,venezuela,1
+venezuela presidential,winner venezuela,2,0,presidential | venezuela | venezuela presidential,venezuela | winner | winner venezuela,venezuela,1
+venezuela presidential election,winner venezuela,2,0,election | presidential | presidential election | venezuela | venezuela presidential,venezuela | winner | winner venezuela,venezuela,1
+west africa,west african,2,0,africa | west | west africa,african | west | west african,west,1
+years ago,years prison,2,0,ago | years | years ago,prison | years | years prison,years,1
+23 chinese,23 swimmers,1,0,23 | 23 chinese | chinese,23 | 23 swimmers | swimmers,23,1
+23 elite chinese,chinese doping,1,0,23 | 23 elite | chinese | elite | elite chinese,chinese | chinese doping | doping,chinese,1
+23 elite chinese,chinese doping case,1,0,23 | 23 elite | chinese | elite | elite chinese,case | chinese | chinese doping | doping | doping case,chinese,1
+23 swimmers,chinese swimmers,1,0,23 | 23 swimmers | swimmers,chinese | chinese swimmers | swimmers,swimmers,1
+23 swimmers,chinese swimmers tested,1,0,23 | 23 swimmers | swimmers,chinese | chinese swimmers | swimmers | swimmers tested | tested,swimmers,1
+administration thursday,drug administration,1,0,administration | administration thursday | thursday,administration | drug | drug administration,administration,1
+administration thursday,food drug administration,1,0,administration | administration thursday | thursday,administration | drug | drug administration | food | food drug,administration,1
+african country,african nation,1,0,african | african country | country,african | african nation | nation,african,1
+african country,west african nation,1,0,african | african country | country,african | african nation | nation | west | west african,african,1
+african nation,west african country,1,0,african | african nation | nation,african | african country | country | west | west african,african,1
+african nations,united nations,1,0,african | african nations | nations,nations | united | united nations,nations,1
+african nations,west african,1,0,african | african nations | nations,african | west | west african,african,1
+ahead olympics,paris olympics,1,0,ahead | ahead olympics | olympics,olympics | paris | paris olympics,olympics,1
+among black,black hispanic,1,0,among | among black | black,black | black hispanic | hispanic,black,1
+banned drug,positive powerful banned,1,0,banned | banned drug | drug,banned | positive | positive powerful | powerful | powerful banned,banned,1
+banned drug,powerful banned,1,0,banned | banned drug | drug,banned | powerful | powerful banned,banned,1
+banned drug,powerful banned substance,1,0,banned | banned drug | drug,banned | banned substance | powerful | powerful banned | substance,banned,1
+biden administration,president biden,1,0,administration | biden | biden administration,biden | president | president biden,biden,1
+black women,white women,1,0,black | black women | women,white | white women | women,women,1
+breast cancer,cancer society,1,0,breast | breast cancer | cancer,cancer | cancer society | society,cancer,1
+chinese athletes,elite chinese,1,0,athletes | chinese | chinese athletes,chinese | elite | elite chinese,chinese,1
+chinese athletes,elite chinese swimmers,1,0,athletes | chinese | chinese athletes,chinese | chinese swimmers | elite | elite chinese | swimmers,chinese,1
+chinese swimmers,top chinese,1,0,chinese | chinese swimmers | swimmers,chinese | top | top chinese,chinese,1
+chinese swimmers tested,top chinese,1,0,chinese | chinese swimmers | swimmers | swimmers tested | tested,chinese | top | top chinese,chinese,1
+clean energy,renewable energy,1,0,clean | clean energy | energy,energy | renewable | renewable energy,energy,1
+conservative government,conservative party,1,0,conservative | conservative government | government,conservative | conservative party | party,conservative,1
+consumer price,consumer prices,1,0,consumer | consumer price | price,consumer | consumer prices | prices,consumer,1
+consumer price index,consumer prices,1,0,consumer | consumer price | index | price | price index,consumer | consumer prices | prices,consumer,1
+credit card,using credit,1,0,card | credit | credit card,credit | using | using credit,credit,1
+credit card,using credit cards,1,0,card | credit | credit card,cards | credit | credit cards | using | using credit,credit,1
+credit cards,using credit,1,0,cards | credit | credit cards,credit | using | using credit,credit,1
+cut rates,rates thursday,1,0,cut | cut rates | rates,rates | rates thursday | thursday,rates,1
+cut rates,rates unchanged,1,0,cut | cut rates | rates,rates | rates unchanged | unchanged,rates,1
+cutting interest,interest rate cuts,1,0,cutting | cutting interest | interest,cuts | interest | interest rate | rate | rate cuts,interest,1
+cutting interest,lower interest,1,0,cutting | cutting interest | interest,interest | lower | lower interest,interest,1
+cutting interest,lower interest rates,1,0,cutting | cutting interest | interest,interest | interest rates | lower | lower interest | rates,interest,1
+cutting interest rates,interest rate cuts,1,0,cutting | cutting interest | interest | interest rates | rates,cuts | interest | interest rate | rate | rate cuts,interest,1
+cutting interest rates,lower interest,1,0,cutting | cutting interest | interest | interest rates | rates,interest | lower | lower interest,interest,1
+democracy activist,democracy activists,1,0,activist | democracy | democracy activist,activists | democracy | democracy activists,democracy,1
+drug administration,new drug,1,0,administration | drug | drug administration,drug | new | new drug,drug,1
+drugs like,obesity drugs,1,0,drugs | drugs like | like,drugs | obesity | obesity drugs,drugs,1
+eight people,five people,1,0,eight | eight people | people,five | five people | people,people,1
+electric cars,electric vehicle,1,0,cars | electric | electric cars,electric | electric vehicle | vehicle,electric,1
+federal government,federal regulators,1,0,federal | federal government | government,federal | federal regulators | regulators,federal,1
+food drug,new drug,1,0,drug | food | food drug,drug | new | new drug,drug,1
+food drug administration,new drug,1,0,administration | drug | drug administration | food | food drug,drug | new | new drug,drug,1
+former president,term president,1,0,former | former president | president,president | term | term president,president,1
+former president,vice president,1,0,former | former president | president,president | vice | vice president,president,1
+guilty plea,plea deal,1,0,guilty | guilty plea | plea,deal | plea | plea deal,plea,1
+guilty plea,pleaded guilty,1,0,guilty | guilty plea | plea,guilty | pleaded | pleaded guilty,guilty,1
+hard right,right wing,1,0,hard | hard right | right,right | right wing | wing,right,1
+health care,health insurers,1,0,care | health | health care,health | health insurers | insurers,health,1
+health insurance,health insurers,1,0,health | health insurance | insurance,health | health insurers | insurers,health,1
+high interest,interest rate,1,0,high | high interest | interest,interest | interest rate | rate,interest,1
+high interest,interest rate cuts,1,0,high | high interest | interest,cuts | interest | interest rate | rate | rate cuts,interest,1
+high interest rates,interest rate,1,0,high | high interest | interest | interest rates | rates,interest | interest rate | rate,interest,1
+high interest rates,interest rate cuts,1,0,high | high interest | interest | interest rates | rates,cuts | interest | interest rate | rate | rate cuts,interest,1
+high interest rates,mortgage rates,1,0,high | high interest | interest | interest rates | rates,mortgage | mortgage rates | rates,rates,1
+hochul new,new york city,1,0,hochul | hochul new | new,city | new | new york | york | york city,new,1
+hochul new,new yorkers,1,0,hochul | hochul new | new,new | new yorkers | yorkers,new,1
+hochul new york,new yorkers,1,0,hochul | hochul new | new | new york | york,new | new yorkers | yorkers,new,1
+india prime,modi india,1,0,india | india prime | prime,india | modi | modi india,india,1
+india prime,narendra modi india,1,0,india | india prime | prime,india | modi | modi india | narendra | narendra modi,india,1
+india prime minister,modi india,1,0,india | india prime | minister | prime | prime minister,india | modi | modi india,india,1
+india prime minister,narendra modi india,1,0,india | india prime | minister | prime | prime minister,india | modi | modi india | narendra | narendra modi,india,1
+interest rate cuts,lower interest,1,0,cuts | interest | interest rate | rate | rate cuts,interest | lower | lower interest,interest,1
+interest rate cuts,lower interest rates,1,0,cuts | interest | interest rate | rate | rate cuts,interest | interest rates | lower | lower interest | rates,interest,1
+job market,stock market,1,0,job | job market | market,market | stock | stock market,market,1
+kathy hochul new,new york city,1,0,hochul | hochul new | kathy | kathy hochul | new,city | new | new york | york | york city,new,1
+kathy hochul new,new yorkers,1,0,hochul | hochul new | kathy | kathy hochul | new,new | new yorkers | yorkers,new,1
+labor market,stock market,1,0,labor | labor market | market,market | stock | stock market,market,1
+last week,last year,1,0,last | last week | week,last | last year | year,last,1
+last year,year old,1,0,last | last year | year,old | year | year old,year,1
+last year,year old,1,0,last | last year | year,old | year | year old,year,1
+lower interest rates,rates thursday,1,0,interest | interest rates | lower | lower interest | rates,rates | rates thursday | thursday,rates,1
+new jersey,new york,1,0,jersey | new | new jersey,new | new york | york,new,1
+new tariffs,trump tariffs,1,0,new | new tariffs | tariffs,tariffs | trump | trump tariffs,tariffs,1
+new york city,new yorkers,1,0,city | new | new york | york | york city,new | new yorkers | yorkers,new,1
+olympic games,olympic gold,1,0,games | olympic | olympic games,gold | olympic | olympic gold,olympic,1
+olympic games,paris games,1,0,games | olympic | olympic games,games | paris | paris games,games,1
+opposition candidate,venezuela opposition,1,0,candidate | opposition | opposition candidate,opposition | venezuela | venezuela opposition,opposition,1
+paris olympics,summer olympics,1,0,olympics | paris | paris olympics,olympics | summer | summer olympics,olympics,1
+police department,police officer,1,0,department | police | police department,officer | police | police officer,police,1
+police department,police officers,1,0,department | police | police department,officers | police | police officers,police,1
+positive banned,positive powerful,1,0,banned | positive | positive banned,positive | positive powerful | powerful,positive,1
+positive banned,powerful banned,1,0,banned | positive | positive banned,banned | powerful | powerful banned,banned,1
+positive banned,powerful banned substance,1,0,banned | positive | positive banned,banned | banned substance | powerful | powerful banned | substance,banned,1
+positive banned,tested positive powerful,1,0,banned | positive | positive banned,positive | positive powerful | powerful | tested | tested positive,positive,1
+positive banned drug,positive powerful,1,0,banned | banned drug | drug | positive | positive banned,positive | positive powerful | powerful,positive,1
+positive banned drug,powerful banned,1,0,banned | banned drug | drug | positive | positive banned,banned | powerful | powerful banned,banned,1
+positive banned drug,powerful banned substance,1,0,banned | banned drug | drug | positive | positive banned,banned | banned substance | powerful | powerful banned | substance,banned,1
+positive banned drug,tested positive powerful,1,0,banned | banned drug | drug | positive | positive banned,positive | positive powerful | powerful | tested | tested positive,positive,1
+positive powerful,tested positive banned,1,0,positive | positive powerful | powerful,banned | positive | positive banned | tested | tested positive,positive,1
+powerful banned,tested positive banned,1,0,banned | powerful | powerful banned,banned | positive | positive banned | tested | tested positive,banned,1
+powerful banned substance,tested positive banned,1,0,banned | banned substance | powerful | powerful banned | substance,banned | positive | positive banned | tested | tested positive,banned,1
+president biden,president elect,1,0,biden | president | president biden,elect | president | president elect,president,1
+president nicolás,term president,1,0,nicol | president | president nicol,president | term | term president,president,1
+term president,vice president,1,0,president | term | term president,president | vice | vice president,president,1
+venezuela opposition,venezuela presidential election,1,0,opposition | venezuela | venezuela opposition,election | presidential | presidential election | venezuela | venezuela presidential,venezuela,1
