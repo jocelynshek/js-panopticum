@@ -1,0 +1,1350 @@
+[
+  {
+    "topic": 0,
+    "clusters": [
+      {
+        "label": "cease fire, war gaza, united states",
+        "phrases": [
+          "cease fire",
+          "war gaza",
+          "united states",
+          "benjamin netanyahu",
+          "middle east",
+          "israel hamas",
+          "joe biden",
+          "donald trump",
+          "new york",
+          "prime minister",
+          "attack israel",
+          "pro palestinian",
+          "biden administration",
+          "gaza war",
+          "bashar al assad",
+          "israel war",
+          "war israel",
+          "columbia university",
+          "white house",
+          "hostages held",
+          "humanitarian aid",
+          "kamala harris",
+          "international criminal court",
+          "tel aviv",
+          "defense minister"
+        ]
+      },
+      {
+        "label": "israeli military, gaza strip, officials",
+        "phrases": [
+          "israeli military",
+          "gaza strip",
+          "officials",
+          "military",
+          "west bank",
+          "united nations",
+          "israel hezbollah",
+          "militant group",
+          "israel military",
+          "israeli strike",
+          "israeli forces",
+          "hamas led",
+          "southern lebanon",
+          "southern gaza",
+          "northern gaza",
+          "israeli officials",
+          "occupied west bank",
+          "israeli airstrikes",
+          "israel",
+          "gaza israel",
+          "hassan nasrallah",
+          "gaza city",
+          "israeli airstrike",
+          "killed israeli",
+          "hezbollah leader"
+        ]
+      },
+      {
+        "label": "hamas leader, yahya sinwar",
+        "phrases": [
+          "hamas leader",
+          "yahya sinwar"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 1,
+    "clusters": [
+      {
+        "label": "donald trump, united states, president elect",
+        "phrases": [
+          "donald trump",
+          "united states",
+          "president elect",
+          "trump administration",
+          "white house",
+          "biden administration",
+          "executive order",
+          "undocumented immigrants",
+          "canada mexico",
+          "foreign policy",
+          "secretary state",
+          "federal judge",
+          "trump tariffs",
+          "first term",
+          "second term",
+          "mass deportations",
+          "marco rubio",
+          "trade war",
+          "panama canal",
+          "national security",
+          "claudia sheinbaum"
+        ]
+      },
+      {
+        "label": "kamala harris, joe biden, abortion rights",
+        "phrases": [
+          "kamala harris",
+          "joe biden",
+          "abortion rights",
+          "vice president",
+          "former president",
+          "jd vance",
+          "black voters",
+          "presidential election",
+          "national convention",
+          "running mate",
+          "health care",
+          "presidential campaign",
+          "battleground states",
+          "2024 election",
+          "campaign trail",
+          "democratic party",
+          "springfield ohio",
+          "black men"
+        ]
+      },
+      {
+        "label": "supreme court, roe wade, abortion ban",
+        "phrases": [
+          "supreme court",
+          "roe wade",
+          "abortion ban",
+          "anti abortion",
+          "abortion pills",
+          "abortion bans",
+          "state constitution",
+          "republican party",
+          "abortion access"
+        ]
+      },
+      {
+        "label": "new york, new york city, eric adams",
+        "phrases": [
+          "new york",
+          "new york city",
+          "eric adams",
+          "southern border"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 2,
+    "clusters": [
+      {
+        "label": "volodymyr zelensky, donald trump, war russia",
+        "phrases": [
+          "volodymyr zelensky",
+          "donald trump",
+          "war russia",
+          "new york",
+          "ukraine war",
+          "president elect",
+          "trump administration",
+          "russia ukraine",
+          "end war",
+          "invasion ukraine",
+          "three years",
+          "presidential election",
+          "support ukraine"
+        ]
+      },
+      {
+        "label": "united states, social media, national security",
+        "phrases": [
+          "united states",
+          "social media",
+          "national security",
+          "aid ukraine",
+          "elon musk",
+          "wall street",
+          "wall street journal",
+          "aid package",
+          "mike johnson",
+          "evan gershkovich",
+          "video app",
+          "ukraine israel",
+          "supreme court"
+        ]
+      },
+      {
+        "label": "war ukraine, north korea, russian forces",
+        "phrases": [
+          "war ukraine",
+          "north korea",
+          "russian forces",
+          "ukrainian officials",
+          "russia war",
+          "north korean",
+          "eastern ukraine",
+          "ukrainian forces",
+          "south korea"
+        ]
+      },
+      {
+        "label": "joe biden, officials, white house",
+        "phrases": [
+          "joe biden",
+          "officials",
+          "white house",
+          "biden administration",
+          "new orleans",
+          "islamic state",
+          "new year",
+          "antony blinken"
+        ]
+      },
+      {
+        "label": "vladimir putin, zelensky putin, prime minister",
+        "phrases": [
+          "vladimir putin",
+          "zelensky putin",
+          "prime minister",
+          "xi jinping",
+          "long range",
+          "two years",
+          "concert hall",
+          "aleksei navalny"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 3,
+    "clusters": [
+      {
+        "label": "climate change, los angeles, new research",
+        "phrases": [
+          "climate change",
+          "los angeles",
+          "new research",
+          "study finds",
+          "supreme court",
+          "climate activists",
+          "environmental protection agency",
+          "two years",
+          "new study",
+          "combat climate change",
+          "combat climate",
+          "effects climate change"
+        ]
+      },
+      {
+        "label": "donald trump, fossil fuels, fossil fuel",
+        "phrases": [
+          "donald trump",
+          "fossil fuels",
+          "fossil fuel",
+          "joe biden",
+          "biden administration",
+          "kamala harris",
+          "oil gas",
+          "clean energy",
+          "white house",
+          "climate policy",
+          "climate policies",
+          "attorney general"
+        ]
+      },
+      {
+        "label": "united states, heat wave, new york",
+        "phrases": [
+          "united states",
+          "heat wave",
+          "new york",
+          "extreme heat",
+          "heat waves",
+          "record breaking",
+          "new york city"
+        ]
+      },
+      {
+        "label": "global warming, fight climate change, planet warming",
+        "phrases": [
+          "global warming",
+          "fight climate change",
+          "planet warming",
+          "president elect",
+          "burning fossil fuels",
+          "heating planet",
+          "climate crisis"
+        ]
+      },
+      {
+        "label": "global climate, climate talks, united nations",
+        "phrases": [
+          "global climate",
+          "climate talks",
+          "united nations",
+          "climate summit",
+          "baku azerbaijan"
+        ]
+      },
+      {
+        "label": "hurricane helene, extreme weather, made landfall",
+        "phrases": [
+          "hurricane helene",
+          "extreme weather",
+          "made landfall",
+          "north carolina"
+        ]
+      },
+      {
+        "label": "federal government, forever chemicals",
+        "phrases": [
+          "federal government",
+          "forever chemicals"
+        ]
+      },
+      {
+        "label": "heavy rains, southern china",
+        "phrases": [
+          "heavy rains",
+          "southern china"
+        ]
+      },
+      {
+        "label": "tropical storm, tropical storm debby",
+        "phrases": [
+          "tropical storm",
+          "tropical storm debby"
+        ]
+      },
+      {
+        "label": "greenhouse gas emissions",
+        "phrases": [
+          "greenhouse gas emissions"
+        ]
+      },
+      {
+        "label": "greenhouse gases",
+        "phrases": [
+          "greenhouse gases"
+        ]
+      },
+      {
+        "label": "hurricane milton",
+        "phrases": [
+          "hurricane milton"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 4,
+    "clusters": [
+      {
+        "label": "united states, biden administration, artificial intelligence",
+        "phrases": [
+          "united states",
+          "biden administration",
+          "artificial intelligence",
+          "joe biden",
+          "nippon steel",
+          "data centers",
+          "silicon valley",
+          "semiconductor manufacturing",
+          "chip manufacturing",
+          "737 max",
+          "national security",
+          "computer chips",
+          "nuclear power",
+          "multibillion dollar",
+          "power plants",
+          "new york",
+          "chinese start",
+          "technology companies",
+          "cutting edge",
+          "billion grants",
+          "stock market",
+          "alaska airlines"
+        ]
+      },
+      {
+        "label": "electric vehicles, president elect, chief executive",
+        "phrases": [
+          "electric vehicles",
+          "president elect",
+          "chief executive",
+          "solar panels",
+          "oil gas",
+          "clean energy",
+          "electric car",
+          "climate change",
+          "renewable energy",
+          "elon musk",
+          "fossil fuels",
+          "chris wright"
+        ]
+      },
+      {
+        "label": "trade war, tariffs chinese, said tuesday",
+        "phrases": [
+          "trade war",
+          "tariffs chinese",
+          "said tuesday",
+          "east gulf coasts",
+          "trump tariffs",
+          "tariffs electric",
+          "european union",
+          "supply chain",
+          "chinese electric",
+          "new tariffs",
+          "war china"
+        ]
+      },
+      {
+        "label": "donald trump, electric cars, electric vehicle",
+        "phrases": [
+          "donald trump",
+          "electric cars",
+          "electric vehicle",
+          "automobile workers",
+          "united automobile workers",
+          "general motors",
+          "automobile workers union",
+          "workers union"
+        ]
+      },
+      {
+        "label": "real estate, interest rates, central bank",
+        "phrases": [
+          "real estate",
+          "interest rates",
+          "central bank"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 5,
+    "clusters": [
+      {
+        "label": "series page, writers explore critical, visiting turning",
+        "phrases": [
+          "series page",
+          "writers explore critical",
+          "visiting turning",
+          "moments year might",
+          "might mean",
+          "explore critical moments",
+          "turning points",
+          "read visiting turning",
+          "points writers explore",
+          "critical moments",
+          "ahead read visiting",
+          "year might",
+          "year ahead read",
+          "series called",
+          "points series page",
+          "year might mean",
+          "writers explore",
+          "points writers",
+          "read visiting",
+          "series called turning",
+          "critical moments year",
+          "turning points series",
+          "moments year",
+          "might mean year",
+          "mean year",
+          "points series",
+          "visiting turning points",
+          "called turning",
+          "explore critical",
+          "part series called",
+          "year ahead",
+          "called turning points",
+          "mean year ahead",
+          "part series",
+          "ahead read",
+          "turning points writers",
+          "reflection part",
+          "personal reflection"
+        ]
+      },
+      {
+        "label": "readers discuss, new york, donald trump",
+        "phrases": [
+          "readers discuss",
+          "new york",
+          "donald trump",
+          "first black",
+          "civil rights",
+          "jimmy carter",
+          "united states",
+          "cowboy carter",
+          "readers respond",
+          "black artists",
+          "new york city",
+          "african american",
+          "country music",
+          "los angeles",
+          "white house",
+          "civil rights movement",
+          "rights movement",
+          "album cowboy",
+          "harlem renaissance",
+          "new books",
+          "box office",
+          "asian american"
+        ]
+      },
+      {
+        "label": "read week, paperbacks read week, paperbacks read",
+        "phrases": [
+          "read week",
+          "paperbacks read week",
+          "paperbacks read",
+          "including titles",
+          "new paperbacks",
+          "new paperbacks read",
+          "book review",
+          "review including",
+          "review including titles",
+          "book review including"
+        ]
+      },
+      {
+        "label": "zone interest",
+        "phrases": [
+          "zone interest"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 6,
+    "clusters": [
+      {
+        "label": "federal reserve, central bank, donald trump",
+        "phrases": [
+          "federal reserve",
+          "central bank",
+          "donald trump",
+          "federal reserve officials",
+          "wall street",
+          "jerome powell",
+          "fed chair",
+          "cut rates",
+          "president elect",
+          "central bankers",
+          "european central bank",
+          "white house",
+          "borrowing costs",
+          "economic growth",
+          "stubborn inflation",
+          "chair federal reserve",
+          "cutting interest rates",
+          "financial markets",
+          "lower interest rates",
+          "rates steady",
+          "rates unchanged",
+          "rates thursday",
+          "percentage point",
+          "higher prices"
+        ]
+      },
+      {
+        "label": "interest rates, real estate, new york",
+        "phrases": [
+          "interest rates",
+          "real estate",
+          "new york",
+          "stock market",
+          "job market",
+          "united states",
+          "labor market",
+          "new york city",
+          "two years",
+          "rose percent",
+          "home insurance",
+          "high interest rates",
+          "climate change",
+          "mortgage rates",
+          "national association realtors",
+          "housing market",
+          "across country",
+          "broker fees"
+        ]
+      },
+      {
+        "label": "interest rate cuts, rate cut, price increases",
+        "phrases": [
+          "interest rate cuts",
+          "rate cut",
+          "price increases",
+          "consumer price",
+          "price index",
+          "consumer price index",
+          "consumer prices",
+          "bank england",
+          "percent year",
+          "preferred inflation"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 7,
+    "clusters": [
+      {
+        "label": "far right, alternative germany party, friedrich merz",
+        "phrases": [
+          "far right",
+          "alternative germany party",
+          "friedrich merz",
+          "elections sunday",
+          "right national rally",
+          "far right party",
+          "world war",
+          "european parliament",
+          "right national",
+          "world war ii",
+          "far right national",
+          "snap election",
+          "germany election",
+          "hard right",
+          "coalition government",
+          "right alternative germany",
+          "next chancellor",
+          "le pen",
+          "angela merkel",
+          "elon musk"
+        ]
+      },
+      {
+        "label": "donald trump, united states, emmanuel macron",
+        "phrases": [
+          "donald trump",
+          "united states",
+          "emmanuel macron",
+          "european union",
+          "european leaders",
+          "keir starmer",
+          "emmanuel macron france",
+          "olaf scholz",
+          "minister keir starmer",
+          "prime minister keir",
+          "trump administration",
+          "labour party",
+          "economic growth",
+          "war ukraine",
+          "joe biden",
+          "white house",
+          "president elect",
+          "king charles"
+        ]
+      },
+      {
+        "label": "prime minister, asylum seekers, giorgia meloni",
+        "phrases": [
+          "prime minister",
+          "asylum seekers",
+          "giorgia meloni",
+          "anti immigrant",
+          "anti immigration",
+          "right wing",
+          "conservative government",
+          "general election",
+          "asylum seekers rwanda",
+          "rishi sunak",
+          "send asylum seekers",
+          "freedom party",
+          "conservative party"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 8,
+    "clusters": [
+      {
+        "label": "prime minister, narendra modi, united states",
+        "phrases": [
+          "prime minister",
+          "narendra modi",
+          "united states",
+          "justin trudeau",
+          "donald trump",
+          "foreign interference",
+          "indian government",
+          "india prime",
+          "liberal party",
+          "third term",
+          "white house",
+          "interference canadian",
+          "india china",
+          "canadian elections",
+          "chinese hackers"
+        ]
+      },
+      {
+        "label": "new york, chinese government, chinese communist party",
+        "phrases": [
+          "new york",
+          "chinese government",
+          "chinese communist party",
+          "chinese communist",
+          "shen yun",
+          "linda sun",
+          "dance group",
+          "shujun wang",
+          "prosecutors say",
+          "sikh separatist"
+        ]
+      },
+      {
+        "label": "hong kong, national security, chinese community party",
+        "phrases": [
+          "hong kong",
+          "national security",
+          "chinese community party",
+          "pro democracy",
+          "democracy activists",
+          "security law",
+          "tens thousands",
+          "jimmy lai",
+          "security trial"
+        ]
+      },
+      {
+        "label": "giant pandas, national zoo, pandas china",
+        "phrases": [
+          "giant pandas",
+          "national zoo",
+          "pandas china",
+          "panda diplomacy",
+          "tens millions",
+          "social media",
+          "millions dollars"
+        ]
+      },
+      {
+        "label": "police, hong kong intelligence, kong intelligence service",
+        "phrases": [
+          "police",
+          "hong kong intelligence",
+          "kong intelligence service",
+          "drove vehicle crowd",
+          "intelligence service",
+          "elementary school",
+          "vehicle crowd"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 9,
+    "clusters": [
+      {
+        "label": "united states, nicol\u00e1s maduro, presidential election",
+        "phrases": [
+          "united states",
+          "nicol\u00e1s maduro",
+          "presidential election",
+          "president nicol\u00e1s",
+          "biden administration",
+          "joe biden",
+          "venezuela presidential election",
+          "edmundo gonz\u00e1lez",
+          "authoritarian president",
+          "venezuela opposition",
+          "president elect",
+          "venezuelan government",
+          "opposition candidate",
+          "william ruto",
+          "mr maduro",
+          "sri lanka",
+          "july 28",
+          "winner venezuela",
+          "new president",
+          "power struggle"
+        ]
+      },
+      {
+        "label": "african nation, west african, west africa",
+        "phrases": [
+          "african nation",
+          "west african",
+          "west africa",
+          "south africa",
+          "west african nation",
+          "cyril ramaphosa",
+          "african national congress",
+          "burkina faso",
+          "former president",
+          "new government",
+          "human rights",
+          "al qaeda",
+          "islamic state",
+          "term president",
+          "ivory coast"
+        ]
+      },
+      {
+        "label": "prime minister, gang violence, police officers",
+        "phrases": [
+          "prime minister",
+          "gang violence",
+          "police officers",
+          "humanitarian crisis",
+          "caribbean nation",
+          "restore order",
+          "port au prince",
+          "kenyan police",
+          "haiti gangs",
+          "vice president",
+          "mexican embassy",
+          "jorge glas"
+        ]
+      },
+      {
+        "label": "democratic republic congo, democratic republic, republic congo",
+        "phrases": [
+          "democratic republic congo",
+          "democratic republic",
+          "republic congo",
+          "city goma",
+          "people killed",
+          "backed rwanda"
+        ]
+      },
+      {
+        "label": "united nations, jair bolsonaro, security forces",
+        "phrases": [
+          "united nations",
+          "jair bolsonaro",
+          "security forces",
+          "donald trump",
+          "armed gangs"
+        ]
+      },
+      {
+        "label": "boko haram",
+        "phrases": [
+          "boko haram"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 10,
+    "clusters": [
+      {
+        "label": "black man, police officer, fatal shooting",
+        "phrases": [
+          "black man",
+          "police officer",
+          "fatal shooting",
+          "officials",
+          "fatally shot",
+          "christmas market",
+          "israeli soccer fans",
+          "police officers",
+          "found guilty",
+          "justice department",
+          "taylor swift",
+          "authorities said",
+          "police department",
+          "civil rights",
+          "five people",
+          "soccer match",
+          "shooting black",
+          "eight people",
+          "sheriff deputy",
+          "tulsa race massacre",
+          "city magdeburg",
+          "murder charges",
+          "antisemitic attacks",
+          "state trooper",
+          "state police"
+        ]
+      },
+      {
+        "label": "sept 11 2001, guant\u00e1namo bay, plea deal",
+        "phrases": [
+          "sept 11 2001",
+          "guant\u00e1namo bay",
+          "plea deal",
+          "accused mastermind",
+          "11 case",
+          "accused plotting",
+          "war crimes",
+          "khalid shaikh",
+          "shaikh mohammed",
+          "khalid shaikh mohammed",
+          "defense secretary",
+          "military judge",
+          "al qaeda",
+          "guilty plea",
+          "lloyd austin"
+        ]
+      },
+      {
+        "label": "prosecutors, new york, death penalty",
+        "phrases": [
+          "prosecutors",
+          "new york",
+          "death penalty",
+          "pleaded guilty",
+          "julian assange",
+          "man accused",
+          "united states",
+          "donald trump",
+          "laken riley",
+          "luigi mangione",
+          "law enforcement",
+          "unitedhealthcare chief",
+          "unitedhealthcare chief executive",
+          "chief executive"
+        ]
+      },
+      {
+        "label": "knife attack",
+        "phrases": [
+          "knife attack"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 11,
+    "clusters": [
+      {
+        "label": "eat burning, food supply, eat burning planet",
+        "phrases": [
+          "eat burning",
+          "food supply",
+          "eat burning planet",
+          "burning planet",
+          "climate editor",
+          "read project note",
+          "note eliza barclay",
+          "opinion climate editor",
+          "bold ideas secure",
+          "eliza barclay opinion",
+          "opinion climate",
+          "planet series exploring",
+          "supply read",
+          "supply read project",
+          "secure food supply",
+          "barclay opinion climate",
+          "bold ideas",
+          "barclay opinion",
+          "secure food",
+          "food supply read",
+          "burning planet series",
+          "project note eliza",
+          "read project",
+          "series exploring",
+          "series exploring bold",
+          "project note",
+          "ideas secure",
+          "exploring bold",
+          "ideas secure food",
+          "exploring bold ideas",
+          "eliza barclay",
+          "note eliza",
+          "planet series",
+          "part eat",
+          "part eat burning"
+        ]
+      },
+      {
+        "label": "new york, congestion pricing, new york city",
+        "phrases": [
+          "new york",
+          "congestion pricing",
+          "new york city",
+          "kathy hochul",
+          "last minute",
+          "pricing plan",
+          "congestion pricing plan",
+          "transit system",
+          "tolling plan",
+          "transportation authority",
+          "metropolitan transportation authority",
+          "fare evasion",
+          "new yorkers",
+          "bird flu",
+          "hochul new york",
+          "egg prices",
+          "public transit",
+          "short term",
+          "every year",
+          "long awaited",
+          "theme park",
+          "coronavirus pandemic",
+          "new jersey",
+          "business district"
+        ]
+      },
+      {
+        "label": "united states, holiday shopping season, shopping season",
+        "phrases": [
+          "united states",
+          "holiday shopping season",
+          "shopping season",
+          "largest retailer"
+        ]
+      },
+      {
+        "label": "long island",
+        "phrases": [
+          "long island"
+        ]
+      },
+      {
+        "label": "plant based",
+        "phrases": [
+          "plant based"
+        ]
+      },
+      {
+        "label": "mega millions",
+        "phrases": [
+          "mega millions"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 12,
+    "clusters": [
+      {
+        "label": "biden administration, united states, among black",
+        "phrases": [
+          "biden administration",
+          "united states",
+          "among black",
+          "pharmaceutical companies",
+          "lab leak",
+          "new study",
+          "experts say",
+          "covid 19",
+          "weekly newsletter sign",
+          "older americans",
+          "covid pandemic",
+          "administration thursday",
+          "one million",
+          "drug administration",
+          "total protection",
+          "new drug",
+          "food drug",
+          "white women",
+          "black hispanic",
+          "food drug administration"
+        ]
+      },
+      {
+        "label": "pharmacy benefit, benefit managers, pharmacy benefit managers",
+        "phrases": [
+          "pharmacy benefit",
+          "benefit managers",
+          "pharmacy benefit managers",
+          "white house",
+          "across country",
+          "drug costs",
+          "millions people",
+          "costs millions people",
+          "managers driving drug",
+          "people employers government",
+          "employers government",
+          "millions people employers",
+          "managers driving"
+        ]
+      },
+      {
+        "label": "weight loss, health care, loss drugs",
+        "phrases": [
+          "weight loss",
+          "health care",
+          "loss drugs",
+          "weight loss drugs",
+          "ozempic wegovy",
+          "drugs like",
+          "obesity drugs",
+          "millions americans",
+          "novo nordisk",
+          "world must",
+          "mental health"
+        ]
+      },
+      {
+        "label": "health insurers, new york, firm helped",
+        "phrases": [
+          "health insurers",
+          "new york",
+          "firm helped",
+          "little known",
+          "health insurance",
+          "analytics firm",
+          "food prices",
+          "data analytics firm",
+          "data analytics",
+          "known data",
+          "medical providers"
+        ]
+      },
+      {
+        "label": "black women, black men, older black men",
+        "phrases": [
+          "black women",
+          "black men",
+          "older black men",
+          "high rates",
+          "older black",
+          "cancer society",
+          "breast cancer"
+        ]
+      },
+      {
+        "label": "labor department, child labor",
+        "phrases": [
+          "labor department",
+          "child labor"
+        ]
+      },
+      {
+        "label": "climate change",
+        "phrases": [
+          "climate change"
+        ]
+      },
+      {
+        "label": "west nile",
+        "phrases": [
+          "west nile"
+        ]
+      },
+      {
+        "label": "world poorest",
+        "phrases": [
+          "world poorest"
+        ]
+      },
+      {
+        "label": "dengue fever",
+        "phrases": [
+          "dengue fever"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 13,
+    "clusters": [
+      {
+        "label": "chinese swimmers, swimmers tested positive, swimmers tested",
+        "phrases": [
+          "chinese swimmers",
+          "swimmers tested positive",
+          "swimmers tested",
+          "banned drug",
+          "elite chinese swimmers",
+          "elite chinese",
+          "chinese swimmers tested",
+          "positive tests",
+          "doping agency",
+          "anti doping agency",
+          "world anti doping",
+          "world anti",
+          "anti doping",
+          "positive banned drug",
+          "tested positive banned",
+          "positive banned",
+          "doping case",
+          "chinese doping case",
+          "chinese doping",
+          "23 elite chinese",
+          "23 elite",
+          "global antidoping",
+          "2021 olympics",
+          "ahead olympics",
+          "positive tests banned",
+          "tests banned",
+          "23 chinese swimmers",
+          "antidoping regulator",
+          "23 chinese",
+          "23 swimmers",
+          "chinese athletes"
+        ]
+      },
+      {
+        "label": "paris olympics, olympic games, opening ceremony",
+        "phrases": [
+          "paris olympics",
+          "olympic games",
+          "opening ceremony",
+          "gold medal",
+          "willie mays",
+          "summer olympics",
+          "league baseball",
+          "olympic gold",
+          "major league baseball",
+          "los angeles",
+          "united states",
+          "major league",
+          "summer games",
+          "social media",
+          "paris games",
+          "first black",
+          "became first",
+          "negro leagues",
+          "two years",
+          "olympics opening ceremony",
+          "olympics opening",
+          "rickwood field",
+          "brittney griner",
+          "african american",
+          "mays died",
+          "aya nakamura",
+          "high speed",
+          "arson attacks",
+          "hall fame",
+          "high jump"
+        ]
+      },
+      {
+        "label": "months tokyo, seven months, secretly cleared",
+        "phrases": [
+          "months tokyo",
+          "seven months",
+          "secretly cleared",
+          "banned substance",
+          "positive powerful",
+          "positive powerful banned",
+          "powerful banned substance",
+          "powerful banned",
+          "tested positive powerful",
+          "top chinese"
+        ]
+      },
+      {
+        "label": "champions league, soccer team, borussia dortmund",
+        "phrases": [
+          "champions league",
+          "soccer team",
+          "borussia dortmund"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": 14,
+    "clusters": [
+      {
+        "label": "credit card, credit cards, class action lawsuit",
+        "phrases": [
+          "credit card",
+          "credit cards",
+          "class action lawsuit",
+          "visa mastercard",
+          "new york",
+          "federal regulators",
+          "federal government",
+          "jpmorgan chase",
+          "jeffrey epstein",
+          "swipe fees",
+          "capital one",
+          "new rule",
+          "sunday ticket",
+          "pay later",
+          "bank america",
+          "save merchants",
+          "installment loans",
+          "could save merchants",
+          "could save",
+          "using credit",
+          "using credit cards"
+        ]
+      },
+      {
+        "label": "financial protection bureau, protection bureau, consumer financial protection",
+        "phrases": [
+          "financial protection bureau",
+          "protection bureau",
+          "consumer financial protection",
+          "federal rule",
+          "new federal",
+          "judge blocks",
+          "10 billion",
+          "new federal rule",
+          "credit card late",
+          "card late",
+          "late fees",
+          "rule would",
+          "donald trump",
+          "households 10",
+          "10 billion year",
+          "rule would cap",
+          "households 10 billion",
+          "billion year",
+          "would cap"
+        ]
+      },
+      {
+        "label": "wall street, archegos capital management, bill hwang",
+        "phrases": [
+          "wall street",
+          "archegos capital management",
+          "bill hwang",
+          "street banks",
+          "wall street banks",
+          "federal judge",
+          "capital management",
+          "founder bill hwang",
+          "losses wall",
+          "start ups",
+          "billions dollars",
+          "losses wall street",
+          "banking software",
+          "roughly 10",
+          "billion losses",
+          "roughly 10 billion",
+          "10 billion losses"
+        ]
+      },
+      {
+        "label": "justice department, multibillion dollar, nation entertainment",
+        "phrases": [
+          "justice department",
+          "multibillion dollar",
+          "nation entertainment",
+          "live nation",
+          "app store",
+          "nation entertainment concert",
+          "live nation entertainment",
+          "entertainment concert",
+          "owns ticketmaster"
+        ]
+      },
+      {
+        "label": "prosecutors",
+        "phrases": [
+          "prosecutors"
+        ]
+      }
+    ]
+  }
+]

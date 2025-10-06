@@ -7,10 +7,13 @@ let hasShifted = false;
 
 Promise.all([
   d3.json("../joc-data/topics.json"),
-  d3.json("../joc-data/networks.json")
-  // d3.json("../curate-files/merge_phrases/cleaned_networks2.json")
-]).then(([topics, networks]) => {
+  //d3.json("../joc-data/networks.json")
+  d3.json("../curate-files/merge_phrases/cleaned_networks2.json"),
+  d3.json("../curate-files/merge_phrases/gpt.json")
+  
+]).then(([topics, networks, clusterLabels]) => {
   allNetworks = networks;
+  allClusterLabels = clusterLabels;
   drawBubbles(topics);
 });
 
@@ -178,7 +181,44 @@ function showNetwork(topicId) {
   d3.select("#network").html("");
 
   const graph = allNetworks.find(n => n.topic === topicId);
-  if (!graph) return;
+  if (!graph) {
+    console.warn("No network graph for topic", topicId);
+    return;
+  }
+
+  // 1. Get this topic’s cluster info properly
+  // find the entry for this topic
+  const topicEntry = allClusterLabels.find(d => d.topic === topicId);
+
+  // guard
+  if (!topicEntry) {
+    console.warn("No cluster info for topic", topicId);
+    return;
+  }
+
+  // get its clusters
+  const topicClusters = topicEntry.clusters;
+
+  const normalize = s => s.toLowerCase().trim();
+const phraseToGroup = {};
+
+topicClusters.forEach(cluster => {
+  const name = cluster.suggested_name; // human-readable name
+  (cluster.phrases || []).forEach(p => {
+    phraseToGroup[normalize(p)] = name;
+  });
+});
+
+graph.nodes.forEach(d => {
+  d.clusterLabel = phraseToGroup[normalize(d.id)] || "Other";
+});
+
+// make color scale
+const clusterLabels = [...new Set(graph.nodes.map(d => d.clusterLabel))];
+const clusterColor = d3.scaleOrdinal()
+  .domain(clusterLabels)
+  .range(d3.schemeTableau10);
+
 
   const svg = d3.select("#network").append("svg")
     .attr("viewBox", [0, 0, width, height])
@@ -188,26 +228,6 @@ function showNetwork(topicId) {
     .domain(d3.extent(graph.nodes.map(d => d.size)))
     .range([4, 20]);
 
-  
-  const customColors = [
-      "#ffbc35", "#4690ff", "#ff805b", "#ffeac0", "#ffbc35",
-    ];
-    
-  const groupIds = [...new Set(graph.nodes.map(d => d.group))];
-
-  const categoryColors = {
-    "Person": "#457b9d",
-    "Place": "#2a9d8f",
-    "Organization": "#e76f51",
-    "Event": "#ffb703",
-    "Other": "#ccc"
-  };
-  
-  const color = d3.scaleOrdinal()
-    .domain(Object.keys(categoryColors))
-    .range(Object.values(categoryColors));
-    
-    
   const link = svg.append("g")
     .selectAll("line")
     .data(graph.links)
@@ -220,8 +240,7 @@ function showNetwork(topicId) {
     .data(graph.nodes)
     .enter().append("circle")
     .attr("r", d => rScale(d.size))
-    .attr("fill", d => color(d.category || "Other"))
-
+    .attr("fill", d => clusterColor(d.clusterLabel))
     .attr("stroke", "#333")
     .attr("stroke-width", 0.5)
     .call(d3.drag()
@@ -247,53 +266,41 @@ function showNetwork(topicId) {
     .text(d => d.id)
     .attr("font-size", "8px");
 
-    const centerX = width / 2;
-    const centerY = height / 2;
+  const centerX = width / 2;
+  const centerY = height / 2;
 
-    const MARGIN_X = width * 0.125;  // 12.5% on each side = 25% total
-    const MARGIN_Y = height * 0.125;
+  const centerBoxX = d3.forceX(d => {
+    if (d.x < width * 0.125) return width * 0.125;
+    if (d.x > width - width * 0.125) return width - width * 0.125;
+    return d.x;
+  }).strength(0.1);
 
-    const centerBoxX = d3.forceX(d => {
-      if (d.x < MARGIN_X) return MARGIN_X;
-      if (d.x > width - MARGIN_X) return width - MARGIN_X;
-      return d.x;
-    }).strength(0.1);
+  const centerBoxY = d3.forceY(d => {
+    if (d.y < height * 0.125) return height * 0.125;
+    if (d.y > height - height * 0.125) return height - height * 0.125;
+    return d.y;
+  }).strength(0.1);
 
-    const centerBoxY = d3.forceY(d => {
-      if (d.y < MARGIN_Y) return MARGIN_Y;
-      if (d.y > height - MARGIN_Y) return height - MARGIN_Y;
-      return d.y;
-    }).strength(0.1);
-
-
-    const connectedIds = new Set(graph.links.flatMap(d => [d.source, d.target]));
-    graph.nodes.forEach(d => {
-      d.unconnected = !connectedIds.has(d.id);
-    });
-    
-    const sim = d3.forceSimulation(graph.nodes)
+  const sim = d3.forceSimulation(graph.nodes)
     .force("link", d3.forceLink(graph.links).id(d => d.id).distance(80))
     .force("charge", d3.forceManyBody().strength(-150))
-    .force("center", d3.forceCenter(centerX, centerY))  // optional — still nice for balance
+    .force("center", d3.forceCenter(centerX, centerY))
     .force("bounded-x", centerBoxX)
     .force("bounded-y", centerBoxY)
     .on("tick", () => {
       link
         .attr("x1", d => d.source.x).attr("y1", d => d.source.y)
         .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
-  
+
       node
         .attr("cx", d => d.x)
         .attr("cy", d => d.y);
-  
+
       label
         .attr("x", d => d.x)
         .attr("y", d => d.y);
     });
-  
-    
 
-    
   d3.select("#network").append("button")
     .text("← Back")
     .on("click", () => {
@@ -307,4 +314,38 @@ function showNetwork(topicId) {
         .transition().duration(400)
         .style("opacity", 1);
     });
+
+    // Remove any previous legend
+d3.select("#legend").remove();
+
+// Add a new one
+const legend = d3.select("#network")  // or "#network", or another wrapper div
+  .append("div")
+  .attr("id", "legend")
+  .style("position", "absolute")
+  .style("top", "20px")
+  .style("right", "20px")
+  .style("background", "white")
+  .style("border", "1px solid #ccc")
+  .style("padding", "10px")
+  .style("border-radius", "4px")
+  .style("box-shadow", "0 2px 5px rgba(0,0,0,0.1)");
+
+legend.append("div")
+  .style("font-weight", "bold")
+  .style("margin-bottom", "6px")
+  .text("Cluster Labels");
+
+clusterLabels.forEach(label => {
+  const row = legend.append("div").style("margin-bottom", "4px").style("display", "flex").style("align-items", "center");
+  row.append("div")
+    .style("width", "12px")
+    .style("height", "12px")
+    .style("margin-right", "6px")
+    .style("background-color", clusterColor(label));
+  row.append("div")
+    .text(label)
+    .style("font-size", "12px");
+});
+
 }

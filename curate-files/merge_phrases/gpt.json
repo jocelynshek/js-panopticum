@@ -1,0 +1,390 @@
+[
+    {
+      "topic": 0,
+      "clusters": [
+        {
+          "suggested_name": "Israeli–Palestinian Conflict & US Involvement",
+          "phrases": ["cease fire", "war gaza", "united states", "benjamin netanyahu", "middle east", "israel hamas", "joe biden", "donald trump", "prime minister", "pro palestinian", "gaza war", "kamala harris", "international criminal court", "defense minister", "white house"]
+        },
+        {
+          "suggested_name": "Israeli Military Operations in Gaza/West Bank",
+          "phrases": ["israeli military", "gaza strip", "officials", "military", "west bank", "united nations", "hamas led", "southern lebanon", "occupied west bank", "israeli airstrikes", "hezbollah leader"]
+        },
+        {
+          "suggested_name": "Hamas Leadership",
+          "phrases": ["hamas leader", "yahya sinwar"]
+        }
+      ]
+    },
+    {
+      "topic": 1,
+      "clusters": [
+        {
+          "suggested_name": "Donald Trump & US Federal Policy",
+          "phrases": ["donald trump", "united states", "president elect", "trump administration", "white house", "executive order", "undocumented immigrants", "foreign policy", "secretary state", "national security", "trump tariffs"]
+        },
+        {
+          "suggested_name": "Kamala Harris & Abortion Rights",
+          "phrases": ["kamala harris", "joe biden", "abortion rights", "vice president", "black voters", "presidential election", "battleground states", "democratic party"]
+        },
+        {
+          "suggested_name": "Supreme Court & Abortion Restrictions",
+          "phrases": ["supreme court", "roe wade", "abortion ban", "anti abortion", "abortion pills", "abortion access"]
+        },
+        {
+          "suggested_name": "New York Politics & Migration",
+          "phrases": ["new york", "new york city", "eric adams", "southern border"]
+        }
+      ]
+    },
+    {
+      "topic": 2,
+      "clusters": [
+        {
+          "suggested_name": "Russia–Ukraine War & Zelensky",
+          "phrases": ["volodymyr zelensky", "donald trump", "war russia", "ukraine war", "russia ukraine", "end war", "invasion ukraine", "support ukraine"]
+        },
+        {
+          "suggested_name": "US Aid & Social Media Debate",
+          "phrases": ["united states", "social media", "national security", "aid ukraine", "elon musk", "wall street journal", "aid package"]
+        },
+        {
+          "suggested_name": "North Korea & Russian Forces",
+          "phrases": ["war ukraine", "north korea", "russian forces", "ukrainian officials", "south korea"]
+        },
+        {
+          "suggested_name": "Biden Administration & Officials",
+          "phrases": ["joe biden", "officials", "white house", "biden administration", "antony blinken"]
+        },
+        {
+          "suggested_name": "Putin & Other World Leaders",
+          "phrases": ["vladimir putin", "zelensky putin", "prime minister", "xi jinping", "aleksei navalny"]
+        }
+      ]
+    },
+    {
+      "topic": 3,
+      "clusters": [
+        {
+          "suggested_name": "Climate Change Research & Impacts",
+          "phrases": ["climate change", "los angeles", "new research", "study finds", "environmental protection agency", "combat climate change"]
+        },
+        {
+          "suggested_name": "Trump/Biden Energy Policies",
+          "phrases": ["donald trump", "fossil fuels", "fossil fuel", "joe biden", "biden administration", "clean energy", "climate policy"]
+        },
+        {
+          "suggested_name": "Heat Waves & Extreme Heat",
+          "phrases": ["united states", "heat wave", "new york", "extreme heat", "heat waves"]
+        },
+        {
+          "suggested_name": "Global Warming & Planet Warming",
+          "phrases": ["global warming", "fight climate change", "planet warming", "heating planet", "climate crisis"]
+        },
+        {
+          "suggested_name": "Climate Talks & UN Summits",
+          "phrases": ["global climate", "climate talks", "united nations", "climate summit"]
+        },
+        {
+          "suggested_name": "Hurricanes & Extreme Weather Events",
+          "phrases": ["hurricane helene", "extreme weather", "made landfall", "north carolina"]
+        },
+        {
+          "suggested_name": "Government Regulation of Chemicals",
+          "phrases": ["federal government", "forever chemicals"]
+        },
+        {
+          "suggested_name": "Heavy Rains in China",
+          "phrases": ["heavy rains", "southern china"]
+        },
+        {
+          "suggested_name": "Tropical Storm Debby",
+          "phrases": ["tropical storm", "tropical storm debby"]
+        },
+        {
+          "suggested_name": "Greenhouse Gases",
+          "phrases": ["greenhouse gas emissions", "greenhouse gases"]
+        },
+        {
+          "suggested_name": "Hurricane Milton",
+          "phrases": ["hurricane milton"]
+        }
+      ]
+    },
+    {
+      "topic": 4,
+      "clusters": [
+        {
+          "suggested_name": "US Tech & AI Investment",
+          "phrases": ["united states", "biden administration", "artificial intelligence", "silicon valley", "semiconductor manufacturing", "nuclear power"]
+        },
+        {
+          "suggested_name": "Electric Vehicles & Clean Energy",
+          "phrases": ["electric vehicles", "president elect", "clean energy", "renewable energy", "elon musk"]
+        },
+        {
+          "suggested_name": "Trade War & Tariffs",
+          "phrases": ["trade war", "tariffs chinese", "trump tariffs", "european union", "supply chain", "new tariffs"]
+        },
+        {
+          "suggested_name": "Trump & Auto Workers",
+          "phrases": ["donald trump", "electric cars", "automobile workers", "general motors"]
+        },
+        {
+          "suggested_name": "Real Estate & Interest Rates",
+          "phrases": ["real estate", "interest rates", "central bank"]
+        }
+      ]
+    },
+    {
+      "topic": 5,
+      "clusters": [
+        {
+          "suggested_name": "NYT Turning Points Series",
+          "phrases": ["series page", "writers explore critical", "turning points", "personal reflection"]
+        },
+        {
+          "suggested_name": "Readers & Cultural Commentary",
+          "phrases": ["readers discuss", "new york", "donald trump", "civil rights", "cowboy carter", "harlem renaissance"]
+        },
+        {
+          "suggested_name": "Books & Paperbacks",
+          "phrases": ["read week", "paperbacks read week", "book review"]
+        },
+        {
+          "suggested_name": "Miscellaneous Zone",
+          "phrases": ["zone interest"]
+        }
+      ]
+    },
+    {
+      "topic": 6,
+      "clusters": [
+        {
+          "suggested_name": "Federal Reserve & Inflation",
+          "phrases": ["federal reserve", "central bank", "donald trump", "jerome powell", "cut rates", "financial markets"]
+        },
+        {
+          "suggested_name": "Interest Rates & Housing Market",
+          "phrases": ["interest rates", "real estate", "new york", "housing market"]
+        },
+        {
+          "suggested_name": "Inflation Metrics",
+          "phrases": ["interest rate cuts", "rate cut", "price increases", "consumer price index"]
+        }
+      ]
+    },
+    {
+      "topic": 7,
+      "clusters": [
+        {
+          "suggested_name": "European Far Right Parties",
+          "phrases": ["far right", "alternative germany party", "friedrich merz", "european parliament", "snap election", "angela merkel"]
+        },
+        {
+          "suggested_name": "Trump & European Leaders",
+          "phrases": ["donald trump", "united states", "emmanuel macron", "european union", "keir starmer", "olaf scholz"]
+        },
+        {
+          "suggested_name": "Immigration & Conservative Governments",
+          "phrases": ["prime minister", "asylum seekers", "giorgia meloni", "anti immigrant", "rishi sunak"]
+        }
+      ]
+    },
+    {
+      "topic": 8,
+      "clusters": [
+        {
+          "suggested_name": "India & Foreign Interference",
+          "phrases": ["prime minister", "narendra modi", "united states", "justin trudeau", "indian government", "india china"]
+        },
+        {
+          "suggested_name": "Chinese Government & Shen Yun",
+          "phrases": ["new york", "chinese government", "chinese communist party", "shen yun", "dance group"]
+        },
+        {
+          "suggested_name": "Hong Kong & National Security Law",
+          "phrases": ["hong kong", "national security", "democracy activists", "security law"]
+        },
+        {
+          "suggested_name": "Panda Diplomacy",
+          "phrases": ["giant pandas", "national zoo", "pandas china"]
+        },
+        {
+          "suggested_name": "Hong Kong Police & Intelligence",
+          "phrases": ["police", "hong kong intelligence", "intelligence service"]
+        }
+      ]
+    },
+    {
+      "topic": 9,
+      "clusters": [
+        {
+          "suggested_name": "Venezuelan Elections & Maduro",
+          "phrases": ["united states", "nicolás maduro", "presidential election", "venezuela opposition"]
+        },
+        {
+          "suggested_name": "West African Politics",
+          "phrases": ["african nation", "west african", "south africa", "cyril ramaphosa", "burkina faso"]
+        },
+        {
+          "suggested_name": "Gang Violence & Haiti",
+          "phrases": ["prime minister", "gang violence", "police officers", "humanitarian crisis"]
+        },
+        {
+          "suggested_name": "Democratic Republic of Congo Conflict",
+          "phrases": ["democratic republic congo", "city goma", "backed rwanda"]
+        },
+        {
+          "suggested_name": "UN & Security Forces",
+          "phrases": ["united nations", "jair bolsonaro", "security forces"]
+        },
+        {
+          "suggested_name": "Boko Haram",
+          "phrases": ["boko haram"]
+        }
+      ]
+    },
+    {
+      "topic": 10,
+      "clusters": [
+        {
+          "suggested_name": "Police Shootings & Civil Rights",
+          "phrases": ["black man", "police officer", "fatal shooting", "justice department", "civil rights"]
+        },
+        {
+          "suggested_name": "Sept 11 & Guantánamo Bay",
+          "phrases": ["sept 11 2001", "guantánamo bay", "plea deal", "war crimes"]
+        },
+        {
+          "suggested_name": "Prosecutors & Death Penalty",
+          "phrases": ["prosecutors", "new york", "death penalty", "law enforcement"]
+        },
+        {
+          "suggested_name": "Knife Attack",
+          "phrases": ["knife attack"]
+        }
+      ]
+    },
+    {
+      "topic": 11,
+      "clusters": [
+        {
+          "suggested_name": "Food Supply & Climate Opinion",
+          "phrases": ["eat burning", "food supply", "burning planet", "opinion climate editor"]
+        },
+        {
+          "suggested_name": "New York Transit & Congestion Pricing",
+          "phrases": ["new york", "congestion pricing", "new york city", "kathy hochul", "transit system"]
+        },
+        {
+          "suggested_name": "Holiday Shopping",
+          "phrases": ["united states", "holiday shopping season"]
+        },
+        {
+          "suggested_name": "Long Island",
+          "phrases": ["long island"]
+        },
+        {
+          "suggested_name": "Plant Based",
+          "phrases": ["plant based"]
+        },
+        {
+          "suggested_name": "Mega Millions",
+          "phrases": ["mega millions"]
+        }
+      ]
+    },
+    {
+      "topic": 12,
+      "clusters": [
+        {
+          "suggested_name": "Biden Administration & Health",
+          "phrases": ["biden administration", "united states", "covid 19", "drug administration", "food drug administration"]
+        },
+        {
+          "suggested_name": "Pharmacy Benefit Managers",
+          "phrases": ["pharmacy benefit", "benefit managers", "white house", "drug costs"]
+        },
+        {
+          "suggested_name": "Weight Loss & Health Care",
+          "phrases": ["weight loss", "health care", "loss drugs", "ozempic wegovy", "mental health"]
+        },
+        {
+          "suggested_name": "Health Insurers & Analytics",
+          "phrases": ["health insurers", "new york", "analytics firm", "medical providers"]
+        },
+        {
+          "suggested_name": "Black Women & Cancer",
+          "phrases": ["black women", "black men", "older black men", "breast cancer"]
+        },
+        {
+          "suggested_name": "Child Labor",
+          "phrases": ["labor department", "child labor"]
+        },
+        {
+          "suggested_name": "Climate Change",
+          "phrases": ["climate change"]
+        },
+        {
+          "suggested_name": "West Nile",
+          "phrases": ["west nile"]
+        },
+        {
+          "suggested_name": "World’s Poorest",
+          "phrases": ["world poorest"]
+        },
+        {
+          "suggested_name": "Dengue Fever",
+          "phrases": ["dengue fever"]
+        }
+      ]
+    },
+    {
+      "topic": 13,
+      "clusters": [
+        {
+          "suggested_name": "Chinese Swimmers & Doping",
+          "phrases": ["chinese swimmers", "swimmers tested positive", "world anti doping", "positive banned drug"]
+        },
+        {
+          "suggested_name": "Paris Olympics & Gold Medalists",
+          "phrases": ["paris olympics", "olympic games", "opening ceremony", "gold medal", "willie mays", "summer olympics"]
+        },
+        {
+          "suggested_name": "Tokyo Olympics & Banned Substances",
+          "phrases": ["months tokyo", "seven months", "secretly cleared", "banned substance"]
+        },
+        {
+          "suggested_name": "Champions League Soccer",
+          "phrases": ["champions league", "soccer team", "borussia dortmund"]
+        }
+      ]
+    },
+    {
+      "topic": 14,
+      "clusters": [
+        {
+          "suggested_name": "Credit Cards & Class Action Lawsuits",
+          "phrases": ["credit card", "credit cards", "class action lawsuit", "visa mastercard", "capital one"]
+        },
+        {
+          "suggested_name": "Consumer Financial Protection Bureau",
+          "phrases": ["financial protection bureau", "consumer financial protection", "late fees", "rule would cap"]
+        },
+        {
+          "suggested_name": "Wall Street & Archegos",
+          "phrases": ["wall street", "archegos capital management", "bill hwang", "losses wall street"]
+        },
+        {
+          "suggested_name": "Justice Department & Live Nation",
+          "phrases": ["justice department", "multibillion dollar", "live nation", "ticketmaster"]
+        },
+        {
+          "suggested_name": "Prosecutors (Misc)",
+          "phrases": ["prosecutors"]
+        }
+      ]
+    }
+  ]
+  

@@ -12,6 +12,19 @@ OUTPUT_PATH = BASE_DIR / "cleaned_networks2.json"
 DROP_SELF_LOOPS = True
 # ---------------------------------
 
+# Define phrases to completely remove
+PHRASES_TO_REMOVE = {
+    "first time", "last week", "today episode", "years ago", "said would",
+    "new york times", "around world", "last year", "said wednesday", "four years",
+    "said monday", "company said", "world largest", "one deadliest", "year earlier",
+    "tow years", "good news", "columnist says", "last month", "follow live",
+    "follow live updates", "live updates", "10 years", "sun former", "three men",
+    "year old", "said friday", "give people", "years prison"
+}
+
+PHRASES_TO_REMOVE = set(p.lower() for p in PHRASES_TO_REMOVE)
+
+
 def load_merge_map(path):
     mapping = {}
     if not path.exists():
@@ -55,16 +68,32 @@ for net in networks:
         node_groups[canon].append(node.get("group", 0))
         node_categories[canon].append(node.get("category", "Other"))
     
+    removed_nodes = {
+        label for label in node_sizes
+        if label.lower() in PHRASES_TO_REMOVE
+    }
+
     def most_common(lst):
         return Counter(lst).most_common(1)[0][0] if lst else "Other"
 
-    cleaned_nodes = [
-        {"id": label,
-         "size": node_sizes[label],
-         "group": most_common(node_groups[label]),
-         "category": most_common(node_categories[label])}
-        for label in node_sizes
+    filtered_node_ids = [
+        label for label in node_sizes
+        if label.lower() not in PHRASES_TO_REMOVE
     ]
+
+
+    cleaned_nodes = [
+        {
+            "id": label,
+            "size": node_sizes[label],
+            "group": most_common(node_groups[label]),
+            "category": most_common(node_categories[label])
+        }
+        for label in node_sizes
+        if label not in removed_nodes
+    ]
+
+
 
     # --- Canonicalize and merge links ---
     link_bucket = defaultdict(lambda: {"shared_articles": set()})
@@ -76,8 +105,12 @@ for net in networks:
         if DROP_SELF_LOOPS and s == t:
             continue
 
-        key = tuple(sorted([s, t]))  # undirected
+        if s in removed_nodes or t in removed_nodes:
+            continue  # remove link connected to filtered-out node
+
+        key = tuple(sorted([s, t]))
         link_bucket[key]["shared_articles"].update(link.get("shared_articles", []) or [])
+
 
     cleaned_links = [
         {
